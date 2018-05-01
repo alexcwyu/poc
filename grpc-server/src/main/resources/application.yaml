@@ -1,0 +1,6 @@
+server:
+  port: 8880
+
+
+grpc:
+    port: 6565

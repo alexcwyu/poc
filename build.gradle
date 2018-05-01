@@ -1,0 +1,87 @@
+group 'net.alexyu'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'idea'
+
+buildscript {
+    ext {
+        springBootVersion = '2.0.1.RELEASE'
+        grpcVersion = '1.11.0'
+        grpcspringBootVersion = '2.3.1'
+        protocVersion = '3.5.1-1'
+        protobufGradleVersion = '0.8.5'
+        guavaVersion = '24.1-jre'
+        slf4jVersion = '1.7.25'
+        junitVersion = '4.12'
+        mockitoVersion = '2.18.3'
+        jodaTimeVersion = '2.9.9'
+        rxJavaVersion = '2.1.12'
+        reactorVersion = '3.1.6.RELEASE'
+        kotlinVersion = '1.2.40'
+        lombokVersion = '1.16.20'
+    }
+    repositories {
+        mavenCentral()
+        jcenter()
+        maven { url 'http://repo.spring.io/plugins-release' }
+        maven { url "https://plugins.gradle.org/m2/" }
+
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+        classpath "com.jfrog.bintray.gradle:gradle-bintray-plugin:1.5"
+        classpath "com.google.protobuf:protobuf-gradle-plugin:${protobufGradleVersion}"
+        classpath group: 'com.netflix.nebula', name: 'nebula-project-plugin', version: '2.2.1'
+        classpath group: 'com.netflix.nebula', name: 'nebula-interactive', version: '2.0.+'
+        classpath "org.jfrog.buildinfo:build-info-extractor-gradle:4.0.0"
+    }
+}
+
+
+subprojects {
+
+    apply plugin: 'eclipse'
+    apply plugin: 'java'
+    apply plugin: 'jacoco'
+    apply plugin: 'nebula-interactive'
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        jcenter()
+        maven { url "https://repo.spring.io/milestone" }
+        maven { url "https://packages.confluent.io/maven/" }
+    }
+
+    dependencies {
+        compileOnly("org.projectlombok:lombok:${lombokVersion}")
+    }
+
+}
+
+task codeCoverageReport(type: JacocoReport) {
+    executionData fileTree(project.rootDir.absolutePath).include("**/build/jacoco/*.exec")
+
+    subprojects.each {
+        sourceSets it.sourceSets.main
+    }
+
+    reports {
+        xml.enabled true
+        xml.destination "${buildDir}/reports/jacoco/report.xml"
+        html.enabled false
+        csv.enabled false
+    }
+}
+
+codeCoverageReport.dependsOn {
+    subprojects*.test
+}
+
+//
+//task wrapper(type: Wrapper) {
+//    gradleVersion = '4.6'
+//}

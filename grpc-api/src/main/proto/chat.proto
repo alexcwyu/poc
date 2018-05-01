@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option java_package = "net.alexyu.grpc";
+
+
+
+service ChatService {
+    rpc chat (stream ChatMessage) returns (stream ChatMessageFromServer);
+}
+
+message ChatMessage {
+    string name = 1;
+    string message = 2;
+}
+
+message ChatMessageFromServer {
+    string name = 1;
+    string message = 2;
+}

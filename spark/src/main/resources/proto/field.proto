@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+message Field {
+    enum Corpus {
+        UNIVERSAL = 0;
+        WEB = 1;
+        IMAGES = 2;
+        LOCAL = 3;
+        NEWS = 4;
+        PRODUCTS = 5;
+        VIDEO = 6;
+    }
+
+    oneof value {
+        string string_value = 1;
+        int32 int32_value = 2;
+        int64 int64_value = 3;
+        float float_value = 4;
+        double double_value = 5;
+        bool bool_value = 6;
+        bytes bytes_value = 7;
+
+    }
+
+}

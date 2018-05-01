@@ -1,0 +1,10 @@
+rootProject.name = 'poc'
+include 'common'
+include 'grpc-server'
+include 'grpc-client'
+include 'grpc-api'
+include 'grpc-client-kotlin'
+include 'grpc-server-kotlin'
+
+include 'bigdata-poc'
+include 'spark'
