@@ -40,6 +40,6 @@ public class HighPriceStream {
         builder.table("marketdata");
 
 
-        builder.star
+        //builder.star
     }
 }

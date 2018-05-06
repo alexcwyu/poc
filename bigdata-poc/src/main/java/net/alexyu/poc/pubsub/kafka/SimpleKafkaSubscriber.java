@@ -3,7 +3,7 @@ package net.alexyu.poc.pubsub.kafka;
 import com.google.common.collect.ImmutableMap;
 import io.confluent.kafka.serializers.KafkaAvroDeserializer;
 import io.confluent.kafka.serializers.KafkaAvroSerializerConfig;
-import net.alexyu.poc.model.MarketData;
+import net.alexyu.poc.model.avro.MarketData;
 import net.alexyu.poc.pubsub.KafkaRecordListener;
 import net.alexyu.poc.pubsub.KafkaSubscriber;
 import org.apache.kafka.clients.consumer.ConsumerConfig;

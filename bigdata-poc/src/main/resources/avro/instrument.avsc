@@ -1,4 +1,4 @@
-{"namespace": "net.alexyu.poc.model",
+{"namespace": "net.alexyu.poc.model.avro",
  "type": "record",
  "name": "Instrument",
  "fields": [

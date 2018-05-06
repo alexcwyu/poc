@@ -3,7 +3,7 @@ package net.alexyu.poc.pubsub.kafka;
 import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
-import net.alexyu.poc.model.MarketData;
+import net.alexyu.poc.model.avro.MarketData;
 
 import java.util.List;
 import java.util.Map;

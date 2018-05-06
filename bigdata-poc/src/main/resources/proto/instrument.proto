@@ -1,0 +1,110 @@
+syntax = "proto3";
+
+option java_package = "net.alexyu.poc.model.proto";
+option java_outer_classname = "InstrumentProto";
+option java_multiple_files = true;
+
+
+message Constituent{
+    string inst_id = 1;
+    double weight = 2;
+}
+
+
+message Basket{
+
+    enum BasketType {
+        SUM = 0;
+        BEST_OF = 1;
+        WORST_OF = 2;
+    }
+
+    string inst_id = 1;
+    BasketType type =2;
+    repeated Constituent constituents = 3;
+
+}
+
+message Instrument {
+
+    enum InstType {
+
+        CSH = 0; //Cash
+
+        STK = 10; //Stock
+        OPT = 11; //Option
+        ETF = 12;
+        IDX = 13;
+        FUT = 14;
+        FWD = 15;
+        FOP = 16;
+        WNT = 17;
+
+        ADR = 20;
+        GDR = 21;
+        CDR = 22;
+
+        SWP = 30;
+        FXO = 40;
+
+        CDS = 50;
+        CDO = 51;
+
+        CB = 60;
+
+    }
+
+    enum OptionType {
+        C = 0;
+        P = 1;
+    }
+
+    enum OptionStyle {
+        E = 0; //European
+        A = 1; // American
+    }
+
+/*    enum AltIdType{
+        RIC = 0;
+        BBG = 1;
+        SEDOL = 2;
+        ISIN = 3;
+        CUSIP = 4;
+        TICKER = 5;
+    }
+
+    enum ClassificationType{
+        BBG_SECTOR = 0;
+        BBG_INDUSTRY = 1;
+    }
+*/
+
+    string inst_id = 1;
+    //string symbol = 2;
+    string exch_id = 3;
+    string name = 4;
+    InstType type = 5;
+    string ccy_id = 6;
+    string country = 7;
+    map<string, string> alt_exch_ids = 8;
+    map<string, string> alt_symbols = 9;
+
+    string category = 11;
+    string gics_sector = 12;
+    string gics_industry_group = 13;
+    string gics_industry = 14;
+    string gics_sub_industry = 15;
+    map<string, string> alt_classifications = 16;
+
+    oneof underlying_oneof{
+        string und_inst_id = 21;
+        Basket basket = 22;
+    }
+
+    OptionType option_type = 31;
+    OptionStyle option_style = 32;
+    double strike = 33;
+    int32 exp_date = 34; //yyyyMMdd
+    double multiplier = 35;
+
+}

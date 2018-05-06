@@ -2,9 +2,9 @@ package net.alexyu.poc.pubsub.kafka;
 
 import com.google.common.collect.ImmutableMap;
 import io.confluent.kafka.serializers.KafkaAvroSerializer;
+import net.alexyu.poc.model.avro.MarketData;
 import org.apache.kafka.common.serialization.StringSerializer;
 import io.confluent.kafka.serializers.KafkaAvroSerializerConfig;
-import net.alexyu.poc.model.MarketData;
 import net.alexyu.poc.pubsub.KafkaPublisher;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
@@ -66,7 +66,7 @@ public class SimpleKafkaPublisher<K, V> implements KafkaPublisher<K, V> {
                 //.put("linger.ms", "10")
                 .build();
 
-        SimpleKafkaPublisher<String, MarketData> publisher = new SimpleKafkaPublisher<String, MarketData>(config);
+        SimpleKafkaPublisher<String, MarketData> publisher = new SimpleKafkaPublisher<>(config);
 
 
         Random random = new Random();
