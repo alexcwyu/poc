@@ -72,11 +72,9 @@ public class SymbolReader {
     public static void main(String[] args) throws Exception {
 
         Map<String, Instrument> instruments = Maps.newHashMap();
-
         buildStkInstruments("/mnt/data/dev/workspaces/poc/bigdata-poc/src/main/resources/data/Yahoo Ticker Symbols.csv", instruments);
-
         buildAllEtfInstruments("/mnt/data/dev/workspaces/poc/bigdata-poc/src/main/resources/data/etf", instruments);
-        //buildEtfInstruments("/mnt/data/dev/workspaces/poc/bigdata-poc/src/main/resources/data/SPY-holdings.csv", instruments);
+
     }
 
 

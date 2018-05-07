@@ -23,7 +23,7 @@ apply plugin: "com.commercehub.gradle.plugin.avro-base"
 
 dependencies {
     compile project(':common')
-
+    compile 'com.ibm.watson.developer_cloud:java-sdk:5.4.0'
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:${kotlinVersion}"
 
     compile group: 'org.apache.logging.log4j', name: 'log4j-jcl', version: "${log4jVersion}"

@@ -1,0 +1,105 @@
+Symbol,Name,Last,Name,Exchange,Industry,Sector,"ETF Full Name","Fund Family","Asset Class","Contract Name"
+AAL,"American Airlines Gp",42.86,"American Airlines Gp",NASDAQ,"Transportation - Airline",Transportation,N/A,N/A,N/A,N/A
+AAPL,"Apple Inc",183.83,"Apple Inc",NASDAQ,"Computer - Mini","Computers and Technology",N/A,N/A,N/A,N/A
+ADBE,"Adobe Systems Inc",228.51,"Adobe Systems Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+ADI,"Analog Devices",90.27,"Analog Devices",NASDAQ,"Semi Analog & Mixed","Computers and Technology",N/A,N/A,N/A,N/A
+ADP,"Automatic Data Procs",125.36,"Automatic Data Procs",NASDAQ,Outsourcing,"Business Services",N/A,N/A,N/A,N/A
+ADSK,"Autodesk Inc",129.46,"Autodesk Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+ALGN,"Align Technology I",258.97,"Align Technology I",NASDAQ,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+ALXN,"Alexion Pharm Inc",116.81,"Alexion Pharm Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+AMAT,"Applied Materials",52.56,"Applied Materials",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+AMGN,Amgen,167.98,Amgen,NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+AMZN,"Amazon.Com Inc",1580.95,"Amazon.Com Inc",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+ASML,"Asml Hldg NY Reg",195.51,"Asml Hldg NY Reg",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+ATVI,"Activision Blizzard",69.84,"Activision Blizzard",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+AVGO,"Broadcom Ltd",230.52,"Broadcom Ltd",NASDAQ,"Electronics - Semiconductors","Computers and Technology",N/A,N/A,N/A,N/A
+BIDU,"Baidu Inc",251.73,"Baidu Inc",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+BIIB,"Biogen Inc",270.34,"Biogen Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+BKNG,"Booking Holdings Inc.",2175.71,"Booking Holdings Inc.",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+BMRN,"Biomarin Pharmaceut",85.38,"Biomarin Pharmaceut",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+CA,"CA Inc",34.71,"CA Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+CDNS,"Cadence Design Sys",40.8,"Cadence Design Sys",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+CELG,"Celgene Corp",86.89,"Celgene Corp",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+CERN,"Cerner Corp",57.24,"Cerner Corp",NASDAQ,"Medical Information Systems",Medical,N/A,N/A,N/A,N/A
+CHKP,"Check Point Software",98.66,"Check Point Software",NASDAQ,Security,"Computers and Technology",N/A,N/A,N/A,N/A
+CHTR,"Charter Communicatio",276.07,"Charter Communicatio",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+CMCSA,"Comcast Corp A",31.96,"Comcast Corp A",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+COST,"Costco Wholesale",195.19,"Costco Wholesale",NASDAQ,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+CSCO,"Cisco Systems Inc",45.3,"Cisco Systems Inc",NASDAQ,"Computer - Networks","Computers and Technology",N/A,N/A,N/A,N/A
+CSX,"CSX Corp",59.97,"CSX Corp",NASDAQ,"Transportation - Rail",Transportation,N/A,N/A,N/A,N/A
+CTAS,"Cintas Corp",175.23,"Cintas Corp",NASDAQ,"Uniform & Related","Industrial Products",N/A,N/A,N/A,N/A
+CTRP,"Ctrip.Com Intl Ltd",41.18,"Ctrip.Com Intl Ltd",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+CTSH,"Cognizant Tech Sol",82.17,"Cognizant Tech Sol",NASDAQ,"Business Software Services","Computers and Technology",N/A,N/A,N/A,N/A
+CTXS,"Citrix Systems Inc",105.23,"Citrix Systems Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+DISH,"Dish Network Corp",33.39,"Dish Network Corp",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+DLTR,"Dollar Tree Inc",93.61,"Dollar Tree Inc",NASDAQ,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+EA,"Electronic Arts Inc",123.64,"Electronic Arts Inc",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+EBAY,"Ebay Inc",38,"Ebay Inc",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+ESRX,"Express Scripts",70.22,"Express Scripts",NASDAQ,"Medical Services",Medical,N/A,N/A,N/A,N/A
+EXPE,"Expedia Group Inc.",110.12,"Expedia Group Inc.",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+FAST,"Fastenal Co",50.65,"Fastenal Co",NASDAQ,"Building Prds Retail - Wsale",Retail-Wholesale,N/A,N/A,N/A,N/A
+FB,"Facebook Inc",176.61,"Facebook Inc",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+FISV,"Fiserv Inc",69.72,"Fiserv Inc",NASDAQ,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+FOX,"21st Centry Fox Class B",37.16,"21st Centry Fox Class B",NASDAQ,"Movie & TV Production & Dist","Consumer Discretionary",N/A,N/A,N/A,N/A
+FOXA,"21st Centry Fox Class A",37.66,"21st Centry Fox Class A",NASDAQ,"Movie & TV Production & Dist","Consumer Discretionary",N/A,N/A,N/A,N/A
+GILD,"Gilead Sciences Inc",65.42,"Gilead Sciences Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+GOOG,"Alphabet Class C",1048.21,"Alphabet Class C",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+GOOGL,"Alphabet Class A",1051,"Alphabet Class A",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+HAS,"Hasbro Inc",86.87,"Hasbro Inc",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+HOLX,"Hologic Inc",37.93,"Hologic Inc",NASDAQ,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+HSIC,"Henry Schein Inc",75.55,"Henry Schein Inc",NASDAQ,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+IDXX,"Idexx Laboratories",212.2,"Idexx Laboratories",NASDAQ,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+ILMN,"Illumina Inc",244.82,"Illumina Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+INCY,"Incyte Corp",62.13,"Incyte Corp",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+INTC,"Intel Corp",52.78,"Intel Corp",NASDAQ,"Semi General","Computers and Technology",N/A,N/A,N/A,N/A
+INTU,"Intuit Inc",189.45,"Intuit Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+ISRG,"Intuitive Surg Inc",460.42,"Intuitive Surg Inc",NASDAQ,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+JBHT,"J B Hunt Transport",117.42,"J B Hunt Transport",NASDAQ,"Transportation - Truck",Transportation,N/A,N/A,N/A,N/A
+JD,"Jd.Com Inc Ads",37.67,"Jd.Com Inc Ads",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+KHC,"Kraft Heinz Co",58.01,"Kraft Heinz Co",NASDAQ,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+KLAC,"K L A-Tencor Corp",106.66,"K L A-Tencor Corp",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+LBTYA,"Liberty Global Ord A",31.75,"Liberty Global Ord A",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+LBTYK,"Liberty Global Ord C",30.51,"Liberty Global Ord C",NASDAQ,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+LRCX,"Lam Research Corp",195.47,"Lam Research Corp",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+MAR,"Marriot Int Class A",135.85,"Marriot Int Class A",NASDAQ,"Hotels & Motels","Consumer Discretionary",N/A,N/A,N/A,N/A
+MCHP,"Microchip Technology",87.51,"Microchip Technology",NASDAQ,"Semi Analog & Mixed","Computers and Technology",N/A,N/A,N/A,N/A
+MDLZ,"Mondelez Intl Cmn A",38.9,"Mondelez Intl Cmn A",NASDAQ,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+MELI,"Mercadolibre Inc",329.97,"Mercadolibre Inc",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+MNST,"Monster Beverage Cp",52.76,"Monster Beverage Cp",NASDAQ,"Beverages - Soft","Consumer Staples",N/A,N/A,N/A,N/A
+MSFT,"Microsoft Corp",95.16,"Microsoft Corp",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+MU,"Micron Technology",47.58,"Micron Technology",NASDAQ,"Semi Memory","Computers and Technology",N/A,N/A,N/A,N/A
+MXIM,"Maxim Integrated",56,"Maxim Integrated",NASDAQ,"Semi Analog & Mixed","Computers and Technology",N/A,N/A,N/A,N/A
+MYL,"Mylan Nv Ord Shs",35.98,"Mylan Nv Ord Shs",NASDAQ,"Medical - Generic Drugs",Medical,N/A,N/A,N/A,N/A
+NFLX,"Netflix Inc",320.09,"Netflix Inc",NASDAQ,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+NTES,"Netease Inc Ads",251.57,"Netease Inc Ads",NASDAQ,"Internet Software Services","Computers and Technology",N/A,N/A,N/A,N/A
+NVDA,"Nvidia Corp",239.06,"Nvidia Corp",NASDAQ,"Semi General","Computers and Technology",N/A,N/A,N/A,N/A
+ORLY,"O'Reilly Automotive",259.51,"O'Reilly Automotive",NASDAQ,"Retail - Wholesale Auto Parts",Retail-Wholesale,N/A,N/A,N/A,N/A
+PAYX,"Paychex Inc",62.41,"Paychex Inc",NASDAQ,Outsourcing,"Business Services",N/A,N/A,N/A,N/A
+PCAR,"Paccar Inc",63.8,"Paccar Inc",NASDAQ,"Auto - Domestic",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+PYPL,"Paypal Holdings",73.99,"Paypal Holdings",NASDAQ,"Internet - Software","Computers and Technology",N/A,N/A,N/A,N/A
+QCOM,"Qualcomm Inc",52.49,"Qualcomm Inc",NASDAQ,"Wireless Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+QRTEA,"Liberty Int Qvc Sr A",23.75,"Liberty Int Qvc Sr A",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+REGN,"Regeneron Pharmaceutical",291.25,"Regeneron Pharmaceutical",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+ROST,"Ross Stores Inc",80.71,"Ross Stores Inc",NASDAQ,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+SBUX,"Starbucks Corp",57.68,"Starbucks Corp",NASDAQ,"Retail - Restaurants",Retail-Wholesale,N/A,N/A,N/A,N/A
+SHPG,"Shire Plc Ads",157.73,"Shire Plc Ads",NASDAQ,"Medical - Drugs",Medical,N/A,N/A,N/A,N/A
+SIRI,"Sirius XM Holdings I",6.67,"Sirius XM Holdings I",NASDAQ,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+SNPS,"Synopsys Inc",87.72,"Synopsys Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+STX,"Seagate Tech Ord Shs",55.68,"Seagate Tech Ord Shs",NASDAQ,"Computer - Storage Devices","Computers and Technology",N/A,N/A,N/A,N/A
+SWKS,"Skyworks Solutions",96.2,"Skyworks Solutions",NASDAQ,"Semi Radio Frequency","Computers and Technology",N/A,N/A,N/A,N/A
+SYMC,"Symantec Corp",27.84,"Symantec Corp",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+TMUS,"T-Mobile US",57.26,"T-Mobile US",NASDAQ,"Wireless National",Utilities,N/A,N/A,N/A,N/A
+TSLA,"Tesla Inc",294.09,"Tesla Inc",NASDAQ,"Auto - Domestic",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+TTWO,"Take-Two Interacti",108.76,"Take-Two Interacti",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+TXN,"Texas Instruments",104.69,"Texas Instruments",NASDAQ,"Semi General","Computers and Technology",N/A,N/A,N/A,N/A
+ULTA,"Ulta Salon Cosmetic",253.74,"Ulta Salon Cosmetic",NASDAQ,"Retail - Misc & Diversified",Retail-Wholesale,N/A,N/A,N/A,N/A
+VOD,"Vodafone Grp Plc Ads",28.85,"Vodafone Grp Plc Ads",NASDAQ,"Wireless Non-US","Computers and Technology",N/A,N/A,N/A,N/A
+VRSK,"Verisk Analytics Inc",102.36,"Verisk Analytics Inc",NASDAQ,"Business Information","Business Services",N/A,N/A,N/A,N/A
+VRTX,"Vertex Pharmaceutic",149.39,"Vertex Pharmaceutic",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+WBA,"Walgreens Boots Alliance",63.81,"Walgreens Boots Alliance",NASDAQ,"Retail - Drug Stores",Retail-Wholesale,N/A,N/A,N/A,N/A
+WDAY,"Workday Inc",130.05,"Workday Inc",NASDAQ,"Internet - Software","Computers and Technology",N/A,N/A,N/A,N/A
+WDC,"Western Digital Cp",77.28,"Western Digital Cp",NASDAQ,"Computer - Storage Devices","Computers and Technology",N/A,N/A,N/A,N/A
+WYNN,"Wynn Resorts Ltd",192.41,"Wynn Resorts Ltd",NASDAQ,Gaming,"Consumer Discretionary",N/A,N/A,N/A,N/A
+XLNX,"Xilinx Inc",66.95,"Xilinx Inc",NASDAQ,"Semi Pro Logic Devices","Computers and Technology",N/A,N/A,N/A,N/A
+XRAY,"Dentsply Sirona Inc",49.99,"Dentsply Sirona Inc",NASDAQ,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+"Downloaded from Barchart.com as of 05-06-2018 12:51pm CDT"
