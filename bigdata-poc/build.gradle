@@ -15,7 +15,7 @@ plugins {
     id "com.google.protobuf"
     //id "com.commercehub.gradle.plugin.avro-base"
 }
-
+apply plugin: 'scala'
 apply plugin: 'kotlin'
 apply plugin: 'com.google.protobuf'
 //apply plugin: 'org.springframework.boot'
@@ -40,12 +40,32 @@ dependencies {
     compile group: 'org.apache.commons', name: 'commons-csv', version: '1.5'
 
     compile group: 'org.springframework', name: 'spring-core', version: "${springVersion}"
+    compile group: 'org.springframework', name: 'spring-webmvc', version: "${springVersion}"
+    compile group: 'org.springframework', name: 'spring-web', version: "${springVersion}"
+    compile group: 'org.springframework', name: 'spring-websocket', version: "${springVersion}"
+
+
+    compile group: 'org.springframework.data', name: 'spring-data-jpa', version: "${springDataVersion}"
+    compile group: 'org.springframework.data', name: 'spring-data-cassandra', version: "${springDataVersion}"
+    compile group: 'org.springframework.data', name: 'spring-data-rest-webmvc', version: '3.0.7.RELEASE'
+    compile group: 'org.jboss.resteasy', name: 'resteasy-jaxrs', version: "${resteasyVersion}"
+    compile group: 'org.jboss.resteasy', name: 'resteasy-jackson2-provider', version: "${resteasyVersion}"
+    compile group: 'org.jboss.resteasy', name: 'resteasy-undertow',  version: "${resteasyVersion}"
+
+    //swagger
+    compile group: 'io.swagger.core.v3', name: 'swagger-core', version: "${swaggerVersion}"
+    compile group: 'io.swagger.core.v3', name: 'swagger-models', version: "${swaggerVersion}"
+    compile group: 'io.swagger.core.v3', name: 'swagger-jaxrs2', version: "${swaggerVersion}"
+    compile group: 'io.swagger.core.v3', name: 'swagger-annotations', version: "${swaggerVersion}"
+    compile group: 'io.swagger.core.v3', name: 'swagger-jaxrs2-servlet-initializer', version: "${swaggerVersion}"
 
     //serialization
     compile group: 'com.google.flatbuffers', name: 'flatbuffers-java', version: "${flatbuffersVersion}"
     compile group: 'com.google.flatbuffers', name: 'flatbuffers-java-grpc', version: "${flatbuffersVersion}"
     compile group: 'com.esotericsoftware.kryo', name: 'kryo', version: "${kryoVersion}"
     compile group: 'com.google.protobuf', name: 'protobuf-java', version: "${protobufVersion}"
+    compile group: 'io.protostuff', name: 'protostuff-core', version: "${protostuffVersion}"
+    compile group: 'io.protostuff', name: 'protostuff-runtime', version: "${protostuffVersion}"
 
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: "${jacksonVersion}"
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: "${jacksonVersion}"
@@ -129,6 +149,10 @@ dependencies {
 
     //redis
     compile group: 'redis.clients', name: 'jedis', version: "${jedisVersion}"
+
+    //undertow
+    compile group: 'io.undertow', name: 'undertow-core', version: "${undertowVersion}"
+    compile group: 'io.undertow', name: 'undertow-servlet', version: "${undertowVersion}"
 }
 
 
@@ -171,20 +195,24 @@ sourceSets {
         java {
             srcDirs = ['src/main/java', 'generated/main/java']
         }
+        scala {
+            srcDirs = ['src/main/scala']
+        }
+
         resources {
             srcDirs = ['src/main/resources']
         }
     }
 }
 
-compileJava {
-    dependsOn tasks.generateAvro
-    //dependsOn tasks.generateProto
-}
-
 
 avro {
     stringType = "string"
+}
+
+compileJava {
+    dependsOn tasks.generateAvro
+    //dependsOn tasks.generateProto
 }
 
 compileKotlin {
