@@ -100,7 +100,6 @@ public class SymbolReader {
             String[] tokens = line.split(":");
             String symbol = tokens[0].trim();
             String name = tokens[1].trim();
-            String category = null;
 
             boolean begin = false;
 
@@ -110,18 +109,18 @@ public class SymbolReader {
                 if (begin) {
                     tokens = line.split(",");
                     String constName = tokens[0];
-                    String constSymbol = tokens[tokens.length-2];
-                    double constWeight = Double.parseDouble(tokens[tokens.length-1].replace("%", "")) / 100;
+                    String constSymbol = tokens[tokens.length - 2];
+                    double constWeight = Double.parseDouble(tokens[tokens.length - 1].replace("%", "")) / 100;
 
-                    constituents.add(Constituent.newBuilder().setInstId(constSymbol).setWeight(constWeight).build());
+                    constituents.add(Constituent.newBuilder().setConstInstId(constSymbol).setWeight(constWeight).build());
 
                     if (!instruments.containsKey(constSymbol)) {
                         LOGGER.warn("missing constituent .... constSymbol={}", constSymbol);
-                        instruments.put(constSymbol, createStk(constSymbol, "US", constName, "USA", null));
+                        instruments.put(constSymbol, createStk(constSymbol, "US", constName, "USA"));
                     }
 
                 } else if (line.startsWith("ETFdb.com Category:")) {
-                    category = line.replace("ETFdb.com Category:", "").trim();
+                    //category = line.replace("ETFdb.com Category:", "").trim();
                 } else if (line.startsWith("Holding,Symbol,Weighting")) {
                     begin = true;
                 }
@@ -135,7 +134,6 @@ public class SymbolReader {
                     .setExchId("US")
                     .setName(name)
                     .setType(Instrument.InstType.ETF)
-                    .setCategory(category)
                     .setCcyId("USD")
                     .setBasket(Basket.newBuilder()
                             .addAllConstituents(constituents)
@@ -154,7 +152,7 @@ public class SymbolReader {
                 string.trim();
     }
 
-    private static Instrument createStk(String instId, String exchange, String name, String country, String category) {
+    private static Instrument createStk(String instId, String exchange, String name, String country) {
 
         String currency = COUNTRY_CCY_MAP.get(country.trim());
 
@@ -166,9 +164,6 @@ public class SymbolReader {
                 .setCountry(trim(country))
                 .setCcyId(trim(currency));
 
-        if (category != null) {
-            instrument.setCategory(trim(category));
-        }
         return instrument.build();
     }
 
@@ -181,10 +176,9 @@ public class SymbolReader {
             String ticker = record.get("Ticker");
             String name = record.get("Name");
             String exchange = record.get("Exchange");
-            String category = record.get("Category Name");
             String country = record.get("Country");
 
-            LOGGER.trace("{}, {}, {}, {}, {}", ticker, name, exchange, category, country);
+            LOGGER.trace("{}, {}, {}, {}, {}", ticker, name, exchange, country);
 
             if (StringUtils.isNotBlank(ticker)
                     && StringUtils.isNotBlank(name)
@@ -192,12 +186,8 @@ public class SymbolReader {
                     && StringUtils.isNotBlank(country)) {
 
 
-                instruments.put(ticker, createStk(ticker, exchange, name, country, category));
+                instruments.put(ticker, createStk(ticker, exchange, name, country));
 
-//                if (instrumentMap.containsKey(instrument.getInstId())) {
-//                    LOGGER.warn("replacing duplicated .... existing={}, new={}", instrumentMap.get(instrument.getInstId()), instruments);
-//                }
-//                instrumentMap.put(instrument.getInstId(), instrument);
             }
         }
 

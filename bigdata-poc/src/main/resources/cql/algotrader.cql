@@ -5,10 +5,9 @@ USE algotrader;
 
 CREATE TABLE IF NOT EXISTS instruments(
   inst_id varchar,
-  symbol varchar,
   exch_id varchar,
   name varchar,
-  type varchar,
+  type int,
   ccy_id varchar,
   country varchar,
   alt_symbols map<varchar, varchar>,
@@ -19,8 +18,8 @@ CREATE TABLE IF NOT EXISTS instruments(
   gics_sub_industry varchar,
   alt_classifications map<varchar, varchar>,
   und_inst_id varchar,
-  option_type varchar,
-  option_style varchar,
+  option_type int,
+  option_style int,
   strike double,
   exp_date int,
   multiplier double,
@@ -28,21 +27,30 @@ CREATE TABLE IF NOT EXISTS instruments(
 );
 
 
-CREATE TABLE IF NOT EXISTS positions{
+CREATE TABLE IF NOT EXISTS baskets(
+  inst_id varchar,
+  const_inst_id varchar,
+  type int,
+  weight double,
+  PRIMARY KEY (inst_id, const_inst_id)
+);
+
+
+CREATE TABLE IF NOT EXISTS positions(
   acct_id varchar,
   inst_id varchar,
   total_qty double,
   avg_price double,
-  timestamp long,
+  timestamp bigint,
   PRIMARY KEY (acct_id, inst_id)
-}
+);
 
 
-CREATE TABLE IF NOT EXISTS accounts{
+CREATE TABLE IF NOT EXISTS accounts(
   acct_id varchar,
-  acct_type varchar,
+  acct_type int,
   ultimate_party_id varchar,
-  bus_group varchar,
+  bus_group int,
   region_id varchar,
   PRIMARY KEY (acct_id)
-}
+);

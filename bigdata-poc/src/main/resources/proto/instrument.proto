@@ -1,15 +1,28 @@
 syntax = "proto3";
 
+import "google/protobuf/descriptor.proto";
+
 option java_package = "net.alexyu.poc.model.proto";
 option java_outer_classname = "InstrumentProto";
 option java_multiple_files = true;
 
-
-message Constituent{
-    string inst_id = 1;
-    double weight = 2;
+extend google.protobuf.MessageOptions {
+    string my_message_option = 60000;
 }
 
+
+
+extend google.protobuf.FieldOptions {
+    string my_field_option = 70000;
+}
+
+
+message Constituent{
+    option (my_message_option) = "This is my message option!";
+
+    string const_inst_id = 1 [(my_field_option) = "This is my field option!"];
+    double weight = 2;
+}
 
 message Basket{
 
@@ -89,7 +102,7 @@ message Instrument {
     map<string, string> alt_exch_ids = 8;
     map<string, string> alt_symbols = 9;
 
-    string category = 11;
+    //string category = 11;
     string gics_sector = 12;
     string gics_industry_group = 13;
     string gics_industry = 14;
