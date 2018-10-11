@@ -1,0 +1,12 @@
+#gradle
+.gradle/
+build/
+bin/
+out/
+src/main/generated
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
