@@ -1,0 +1,287 @@
+Symbol	Description
+A7.C	MSCI EMI Continuation
+A7H19	MSCI EMI {Mar 19}
+A7M18	MSCI EMI {Jun 18}
+A7M19	MSCI EMI {Jun 19}
+A7U18	MSCI EMI {Sep 18}
+A7Z18	MSCI EMI {Dec 18}
+A8.C	MSCI Far East ex-Japan Continuation
+A8H19	MSCI Far East ex-Japan {Mar 19}
+A8J18	MSCI Far East ex-Japan {Apr 18}
+A8K18	MSCI Far East ex-Japan {May 18}
+A8M18	MSCI Far East ex-Japan {Jun 18}
+A8M19	MSCI Far East ex-Japan {Jun 19}
+A8N18	MSCI Far East ex-Japan {Jul 18}
+A8Q18	MSCI Far East ex-Japan {Aug 18}
+A8U18	MSCI Far East ex-Japan {Sep 18}
+A8U19	MSCI Far East ex-Japan {Sep 19}
+A8Z18	MSCI Far East ex-Japan {Dec 18}
+A8Z19	MSCI Far East ex-Japan {Dec 19}
+AE	Wheat {Mar 13}
+CA.C	No. 7 Cocoa Continuation
+CAH19	No. 7 Cocoa {Mar 19}
+CAH20	No. 7 Cocoa {Mar 20}
+CAK18	No. 7 Cocoa {May 18}
+CAK19	No. 7 Cocoa {May 19}
+CAN18	No. 7 Cocoa {Jul 18}
+CAN19	No. 7 Cocoa {Jul 19}
+CAU18	No. 7 Cocoa {Sep 18}
+CAU19	No. 7 Cocoa {Sep 19}
+CAZ18	No. 7 Cocoa {Dec 18}
+CAZ19	No. 7 Cocoa {Dec 19}
+EG.C	EuroDollar Continuation
+EGH19	EuroDollar {Mar 19}
+EGH20	EuroDollar {Mar 20}
+EGH21	EuroDollar {Mar 21}
+EGH22	EuroDollar {Mar 22}
+EGH23	EuroDollar {Mar 23}
+EGJ18	EuroDollar {Apr 18}
+EGK18	EuroDollar {May 18}
+EGM18	EuroDollar {Jun 18}
+EGM19	EuroDollar {Jun 19}
+EGM20	EuroDollar {Jun 20}
+EGM21	EuroDollar {Jun 21}
+EGM22	EuroDollar {Jun 22}
+EGM23	EuroDollar {Jun 23}
+EGN18	EuroDollar {Jul 18}
+EGU18	EuroDollar {Sep 18}
+EGU19	EuroDollar {Sep 19}
+EGU20	EuroDollar {Sep 20}
+EGU21	EuroDollar {Sep 21}
+EGU22	EuroDollar {Sep 22}
+EGZ18	EuroDollar {Dec 18}
+EGZ19	EuroDollar {Dec 19}
+EGZ20	EuroDollar {Dec 20}
+EGZ21	EuroDollar {Dec 21}
+EGZ22	EuroDollar {Dec 22}
+F.C	3-Month Euroswiss Continuation
+F6.C	MSCI World NTR Index Continuation
+F6H19	MSCI World NTR Index {Mar 19}
+F6M18	MSCI World NTR Index {Jun 18}
+F6M19	MSCI World NTR Index {Jun 19}
+F6U18	MSCI World NTR Index {Sep 18}
+F6Z18	MSCI World NTR Index {Dec 18}
+FH19	3-Month Euroswiss {Mar 19}
+FH20	3-Month Euroswiss {Mar 20}
+FH21	3-Month Euroswiss {Mar 21}
+FH22	3-Month Euroswiss {Mar 22}
+FJ	1-Month EONIA {Apr 11}
+FK	1-Month EONIA {Apr 11}
+FM18	3-Month Euroswiss {Jun 18}
+FM19	3-Month Euroswiss {Jun 19}
+FM20	3-Month Euroswiss {Jun 20}
+FM21	3-Month Euroswiss {Jun 21}
+FU18	3-Month Euroswiss {Sep 18}
+FU19	3-Month Euroswiss {Sep 19}
+FU20	3-Month Euroswiss {Sep 20}
+FU21	3-Month Euroswiss {Sep 21}
+FZ18	3-Month Euroswiss {Dec 18}
+FZ19	3-Month Euroswiss {Dec 19}
+FZ20	3-Month Euroswiss {Dec 20}
+FZ21	3-Month Euroswiss {Dec 21}
+G.C	10-Year Gilt Continuation
+GM18	10-Year Gilt {Jun 18}
+GU18	10-Year Gilt {Sep 18}
+GZ18	10-Year Gilt {Dec 18}
+IB.C	FTSE 100 Dividend Index Continuation
+IBZ18	FTSE 100 Dividend Index {Dec 18}
+IBZ19	FTSE 100 Dividend Index {Dec 19}
+IBZ20	FTSE 100 Dividend Index {Dec 20}
+IBZ21	FTSE 100 Dividend Index {Dec 21}
+IBZ22	FTSE 100 Dividend Index {Dec 22}
+IBZ23	FTSE 100 Dividend Index {Dec 23}
+IBZ24	FTSE 100 Dividend Index {Dec 24}
+IJ.C	1-Month EONIA Continuation
+IJF19	1-Month EONIA {Jan 19}
+IJG19	1-Month EONIA {Feb 19}
+IJH19	1-Month EONIA {Mar 19}
+IJJ18	1-Month EONIA {Apr 18}
+IJK18	1-Month EONIA {May 18}
+IJM18	1-Month EONIA {Jun 18}
+IJN18	1-Month EONIA {Jul 18}
+IJQ18	1-Month EONIA {Aug 18}
+IJU18	1-Month EONIA {Sep 18}
+IJV18	1-Month EONIA {Oct 18}
+IJX18	1-Month EONIA {Nov 18}
+IJZ18	1-Month EONIA {Dec 18}
+IM.C	3-Month EuriBor Continuation
+IMH19	3-Month EuriBor {Mar 19}
+IMH20	3-Month EuriBor {Mar 20}
+IMH21	3-Month EuriBor {Mar 21}
+IMH22	3-Month EuriBor {Mar 22}
+IMH23	3-Month EuriBor {Mar 23}
+IMH24	3-Month EuriBor {Mar 24}
+IMJ18	3-Month EuriBor {Apr 18}
+IMK18	3-Month EuriBor {May 18}
+IMM18	3-Month EuriBor {Jun 18}
+IMM19	3-Month EuriBor {Jun 19}
+IMM20	3-Month EuriBor {Jun 20}
+IMM21	3-Month EuriBor {Jun 21}
+IMM22	3-Month EuriBor {Jun 22}
+IMM23	3-Month EuriBor {Jun 23}
+IMN18	3-Month EuriBor {Jul 18}
+IMQ18	3-Month EuriBor {Aug 18}
+IMU18	3-Month EuriBor {Sep 18}
+IMU19	3-Month EuriBor {Sep 19}
+IMU20	3-Month EuriBor {Sep 20}
+IMU21	3-Month EuriBor {Sep 21}
+IMU22	3-Month EuriBor {Sep 22}
+IMU23	3-Month EuriBor {Sep 23}
+IMV18	3-Month EuriBor {Oct 18}
+IMZ18	3-Month EuriBor {Dec 18}
+IMZ19	3-Month EuriBor {Dec 19}
+IMZ20	3-Month EuriBor {Dec 20}
+IMZ21	3-Month EuriBor {Dec 21}
+IMZ22	3-Month EuriBor {Dec 22}
+IMZ23	3-Month EuriBor {Dec 23}
+JH.C	U.S Treasury Repo Continuation
+JHF19	U.S Treasury Repo {Jan 19}
+JHF20	U.S Treasury Repo {Jan 20}
+JHG19	U.S Treasury Repo {Feb 19}
+JHG20	U.S Treasury Repo {Feb 20}
+JHH19	U.S Treasury Repo {Mar 19}
+JHH20	U.S Treasury Repo {Mar 20}
+JHJ18	U.S Treasury Repo {Apr 18}
+JHJ19	U.S Treasury Repo {Apr 19}
+JHK18	U.S Treasury Repo {May 18}
+JHK19	U.S Treasury Repo {May 19}
+JHM18	U.S Treasury Repo {Jun 18}
+JHM19	U.S Treasury Repo {Jun 19}
+JHN18	U.S Treasury Repo {Jul 18}
+JHN19	U.S Treasury Repo {Jul 19}
+JHQ18	U.S Treasury Repo {Aug 18}
+JHQ19	U.S Treasury Repo {Aug 19}
+JHU18	U.S Treasury Repo {Sep 18}
+JHU19	U.S Treasury Repo {Sep 19}
+JHV18	U.S Treasury Repo {Oct 18}
+JHV19	U.S Treasury Repo {Oct 19}
+JHX18	U.S Treasury Repo {Nov 18}
+JHX19	U.S Treasury Repo {Nov 19}
+JHZ18	U.S Treasury Repo {Dec 18}
+JHZ19	U.S Treasury Repo {Dec 19}
+JR.C	Mortgage-Backed Repo Continuation
+JRF19	Mortgage-Backed Repo {Jan 19}
+JRG19	Mortgage-Backed Repo {Feb 19}
+JRH19	Mortgage-Backed Repo {Mar 19}
+JRJ18	Mortgage-Backed Repo {Apr 18}
+JRK18	Mortgage-Backed Repo {May 18}
+JRM18	Mortgage-Backed Repo {Jun 18}
+JRN18	Mortgage-Backed Repo {Jul 18}
+JRQ18	Mortgage-Backed Repo {Aug 18}
+JRU18	Mortgage-Backed Repo {Sep 18}
+JRV18	Mortgage-Backed Repo {Oct 18}
+JRX18	Mortgage-Backed Repo {Nov 18}
+JRZ18	Mortgage-Backed Repo {Dec 18}
+JU.C	Mortgage-Backed Repo Continuation
+JUJ18	Agency Repo {Apr 18}
+JUK18	Agency Repo {May 18}
+JUM18	Agency Repo {Jun 18}
+JUN18	Agency Repo {Jul 18}
+JUQ18	Agency Repo {Aug 18}
+JUU18	Agency Repo {Sep 18}
+L.C	3-Month Sterling Continuation
+L7.C	MSCI Europe NTR Index Continuation
+L7H19	MSCI Europe NTR Index {Mar 19}
+L7M18	MSCI Europe NTR Index {Jun 18}
+L7M19	MSCI Europe NTR Index {Jun 19}
+L7U18	MSCI Europe NTR Index {Sep 18}
+L7Z18	MSCI Europe NTR Index {Dec 18}
+LH19	3-Month Sterling {Mar 19}
+LH20	3-Month Sterling {Mar 20}
+LH21	3-Month Sterling {Mar 21}
+LH22	3-Month Sterling {Mar 22}
+LH23	3-Month Sterling {Mar 23}
+LH24	3-Month Sterling {Mar 24}
+LJ18	3-Month Sterling {Apr 18}
+LK18	3-Month Sterling {May 18}
+LM18	3-Month Sterling {Jun 18}
+LM19	3-Month Sterling {Jun 19}
+LM20	3-Month Sterling {Jun 20}
+LM21	3-Month Sterling {Jun 21}
+LM22	3-Month Sterling {Jun 22}
+LM23	3-Month Sterling {Jun 23}
+LN18	3-Month Sterling {Jul 18}
+LU18	3-Month Sterling {Sep 18}
+LU19	3-Month Sterling {Sep 19}
+LU20	3-Month Sterling {Sep 20}
+LU21	3-Month Sterling {Sep 21}
+LU22	3-Month Sterling {Sep 22}
+LU23	3-Month Sterling {Sep 23}
+LW.C	Wheat Continuation
+LWF19	Wheat {Jan 19}
+LWF20	Wheat {Jan 20}
+LWH19	Wheat {Mar 19}
+LWH20	Wheat {Mar 20}
+LWK18	Wheat {May 18}
+LWK19	Wheat {May 19}
+LWN18	Wheat {Jul 18}
+LWN19	Wheat {Jul 19}
+LWX18	Wheat {Nov 18}
+LWX19	Wheat {Nov 19}
+LZ18	3-Month Sterling {Dec 18}
+LZ19	3-Month Sterling {Dec 19}
+LZ20	3-Month Sterling {Dec 20}
+LZ21	3-Month Sterling {Dec 21}
+LZ22	3-Month Sterling {Dec 22}
+LZ23	3-Month Sterling {Dec 23}
+N3.C	UK Base Electric Gregorian Continuation
+N3H19	UK Base Electricity {Mar 19}
+N3M18	UK Base Electricity {Jun 18}
+N3M19	UK Base Electricity {Jun 19}
+N3U18	UK Base Electricity {Sep 18}
+N3Z18	UK Base Electricity {Dec 18}
+N7.C	UK Base Electric Gregorian Continuation
+N7H19	UK Peak Electricity {Mar 19}
+N7M18	UK Peak Electricity {Jun 18}
+N7M19	UK Peak Electricity {Jun 19}
+N7U18	UK Peak Electricity {Sep 18}
+N7Z18	UK Peak Electricity {Dec 18}
+QB.C	Ultra Gilt Continuation
+QBM18	Ultra Gilt {Jun 18}
+QBU18	Ultra Gilt {Sep 18}
+QBZ18	Ultra Gilt {Dec 18}
+QDM18	5-Year Gilt {Jun 18}
+QDU18	5-Year Gilt {Sep 18}
+QEM18	2-Year Gilt {Jun 18}
+QEU18	2-Year Gilt {Sep 18}
+RM.C	Robusta Coffee 10-T Continuation
+RMF19	Robusta Coffee 10-T {Jan 19}
+RMH19	Robusta Coffee 10-T {Mar 19}
+RMK18	Robusta Coffee 10-T {May 18}
+RMK19	Robusta Coffee 10-T {May 19}
+RMN18	Robusta Coffee 10-T {Jul 18}
+RMN19	Robusta Coffee 10-T {Jul 19}
+RMU18	Robusta Coffee 10-T {Sep 18}
+RMU19	Robusta Coffee 10-T {Sep 19}
+RMX18	Robusta Coffee 10-T {Nov 18}
+RMX19	Robusta Coffee 10-T {Nov 19}
+SW.C	No. 5 White Sugar Continuation
+SWH19	No. 5 White Sugar {Mar 19}
+SWK18	No. 5 White Sugar {May 18}
+SWK19	No. 5 White Sugar {May 19}
+SWQ18	No. 5 White Sugar {Aug 18}
+SWQ19	No. 5 White Sugar {Aug 19}
+SWV18	No. 5 White Sugar {Oct 18}
+SWV19	No. 5 White Sugar {Oct 19}
+SWZ18	No. 5 White Sugar {Dec 18}
+SWZ19	No. 5 White Sugar {Dec 19}
+VFM18	5-Yr Euro Swapnote {Jun 18}
+VFU18	5-Yr Euro Swapnote {Sep 18}
+VTM18	10-Yr Euro Swapnote {Jun 18}
+VTU18	10-Yr Euro Swapnote {Sep 18}
+VWM18	2-Yr Euro Swapnote {Jun 18}
+VWU18	2-Yr Euro Swapnote {Sep 18}
+VXM18	2-Yr Dollar Swapnote {Jun 18}
+VXU18	2-Yr Dollar Swapnote {Sep 18}
+VYM18	5-Yr Dollar Swapnote {Jun 18}
+VYU18	5-Yr Dollar Swapnote {Sep 18}
+VZM18	10Yr Dollar Swapnote {Jun 18}
+VZU18	10Yr Dollar Swapnote {Sep 18}
+X.C	FTSE 100 Continuation
+XH19	FTSE 100 {Mar 19}
+XM18	FTSE 100 {Jun 18}
+XU18	FTSE 100 {Sep 18}
+XZ18	FTSE 100 {Dec 18}
+Y.C	FTSE 250 Continuation
+YM18	FTSE 250 {Jun 18}
+YU18	FTSE 250 {Sep 18}

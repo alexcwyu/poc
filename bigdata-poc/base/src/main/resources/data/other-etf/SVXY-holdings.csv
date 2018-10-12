@@ -1,0 +1,16 @@
+SVXY: ProShares Short VIX Short-Term Futures
+Inception Date: 2011-10-03
+Fund Holdings as of: 2018-05-02
+Total Assets Under Management (in thousands):	584547
+Shares Outstanding: 47300000
+Expense Ratio: 1.38%
+Tracks This Index: S&P 500 VIX Short-Term Futures Index (-100%)
+ETFdb.com Category: Leveraged Volatility
+Issuer: ProShares
+Structure: Commodity Pool
+ETF Home Page: http://etfdb.com/etf/SVXY
+
+
+Holding,Symbol,Weighting
+ProShares VIX Short-Term Futures ETF,VIXY,100.0%
+CBOE Volatility Index (VIX) Futures,UX,100.0%

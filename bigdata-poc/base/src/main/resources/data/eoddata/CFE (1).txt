@@ -1,0 +1,26 @@
+Symbol	Description
+BG	
+BGJ18	
+BGK18	
+BGM18	
+N2J18	
+N2K18	
+N2M18	
+Q6	S&P 100 VIX
+R3	Nasdaq 100 VIX
+VA	
+VI	S&P 500 VIX
+VI.C	S&P 500 VIX Continuation
+VIJ18	
+VIK18	
+VIM18	
+VIN18	
+VIQ18	
+VIU18	
+VIV18	
+VIX18	
+VN	Gold ETF VIX
+W1	Crude Oil ETF VIX
+W3	Euro FX VIX
+Y8	
+Y9	

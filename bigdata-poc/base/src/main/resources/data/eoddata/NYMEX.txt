@@ -1,0 +1,1342 @@
+Symbol	Description
+BH.C	ULSD NY Harbor (F) Continuation
+BHF19	ULSD NY Harbor (F) {Jan 19}
+BHF20	ULSD NY Harbor (F) {Jan 20}
+BHG19	ULSD NY Harbor (F) {Feb 19}
+BHG20	ULSD NY Harbor (F) {Feb 20}
+BHH19	ULSD NY Harbor (F) {Mar 19}
+BHH20	ULSD NY Harbor (F) {Mar 20}
+BHJ19	ULSD NY Harbor (F) {Apr 19}
+BHJ20	ULSD NY Harbor (F) {Apr 20}
+BHK18	ULSD NY Harbor (F) {May 18}
+BHK19	ULSD NY Harbor (F) {May 19}
+BHK20	ULSD NY Harbor (F) {May 20}
+BHM18	ULSD NY Harbor (F) {Jun 18}
+BHM19	ULSD NY Harbor (F) {Jun 19}
+BHM20	ULSD NY Harbor (F) {Jun 20}
+BHN18	ULSD NY Harbor (F) {Jul 18}
+BHN19	ULSD NY Harbor (F) {Jul 19}
+BHN20	ULSD NY Harbor (F) {Jul 20}
+BHQ18	ULSD NY Harbor (F) {Aug 18}
+BHQ19	ULSD NY Harbor (F) {Aug 19}
+BHQ20	ULSD NY Harbor (F) {Aug 20}
+BHU18	ULSD NY Harbor (F) {Sep 18}
+BHU19	ULSD NY Harbor (F) {Sep 19}
+BHU20	ULSD NY Harbor (F) {Sep 20}
+BHV18	ULSD NY Harbor (F) {Oct 18}
+BHV19	ULSD NY Harbor (F) {Oct 19}
+BHV20	ULSD NY Harbor (F) {Oct 20}
+BHX18	ULSD NY Harbor (F) {Nov 18}
+BHX19	ULSD NY Harbor (F) {Nov 19}
+BHX20	ULSD NY Harbor (F) {Nov 20}
+BHZ18	ULSD NY Harbor (F) {Dec 18}
+BHZ19	ULSD NY Harbor (F) {Dec 19}
+BHZ20	ULSD NY Harbor (F) {Dec 20}
+CJ.C	CME Cocoa Continuation
+CJH19	CME Cocoa {Mar 19}
+CJH20	CME Cocoa {Mar 20}
+CJK18	CME Cocoa {May 18}
+CJK19	CME Cocoa {May 19}
+CJN18	CME Cocoa {Jul 18}
+CJN19	CME Cocoa {Jul 19}
+CJU18	CME Cocoa {Sep 18}
+CJU19	CME Cocoa {Sep 19}
+CJZ18	CME Cocoa {Dec 18}
+CJZ19	CME Cocoa {Dec 19}
+CL	Crude Oil WTI
+CL.C	Crude Oil WTI Continuation
+CLF19	Crude Oil WTI {Jan 19}
+CLF20	Crude Oil WTI {Jan 20}
+CLF21	Crude Oil WTI {Jan 21}
+CLF22	Crude Oil WTI {Jan 22}
+CLF23	Crude Oil WTI {Jan 23}
+CLF24	Crude Oil WTI {Jan 24}
+CLF25	Crude Oil WTI {Jan 25}
+CLF26	Crude Oil WTI {Jan 26}
+CLF27	Crude Oil WTI {Jan 27}
+CLG19	Crude Oil WTI {Feb 19}
+CLG20	Crude Oil WTI {Feb 20}
+CLG21	Crude Oil WTI {Feb 21}
+CLG22	Crude Oil WTI {Feb 22}
+CLG23	Crude Oil WTI {Feb 23}
+CLG24	Crude Oil WTI {Feb 24}
+CLG25	Crude Oil WTI {Feb 25}
+CLG26	Crude Oil WTI {Feb 26}
+CLG27	Crude Oil WTI {Feb 27}
+CLH19	Crude Oil WTI {Mar 19}
+CLH20	Crude Oil WTI {Mar 20}
+CLH21	Crude Oil WTI {Mar 21}
+CLH22	Crude Oil WTI {Mar 22}
+CLH23	Crude Oil WTI {Mar 23}
+CLH24	Crude Oil WTI {Mar 24}
+CLH25	Crude Oil WTI {Mar 25}
+CLH26	Crude Oil WTI {Mar 26}
+CLJ19	Crude Oil WTI {Apr 19}
+CLJ20	Crude Oil WTI {Apr 20}
+CLJ21	Crude Oil WTI {Apr 21}
+CLJ22	Crude Oil WTI {Apr 22}
+CLJ23	Crude Oil WTI {Apr 23}
+CLJ24	Crude Oil WTI {Apr 24}
+CLJ25	Crude Oil WTI {Apr 25}
+CLJ26	Crude Oil WTI {Apr 26}
+CLK18	Crude Oil WTI {May 18}
+CLK19	Crude Oil WTI {May 19}
+CLK20	Crude Oil WTI {May 20}
+CLK21	Crude Oil WTI {May 21}
+CLK22	Crude Oil WTI {May 22}
+CLK23	Crude Oil WTI {May 23}
+CLK24	Crude Oil WTI {May 24}
+CLK25	Crude Oil WTI {May 25}
+CLK26	Crude Oil WTI {May 26}
+CLM18	Crude Oil WTI {Jun 18}
+CLM19	Crude Oil WTI {Jun 19}
+CLM20	Crude Oil WTI {Jun 20}
+CLM21	Crude Oil WTI {Jun 21}
+CLM22	Crude Oil WTI {Jun 22}
+CLM23	Crude Oil WTI {Jun 23}
+CLM24	Crude Oil WTI {Jun 24}
+CLM25	Crude Oil WTI {Jun 25}
+CLM26	Crude Oil WTI {Jun 26}
+CLN18	Crude Oil WTI {Jul 18}
+CLN19	Crude Oil WTI {Jul 19}
+CLN20	Crude Oil WTI {Jul 20}
+CLN21	Crude Oil WTI {Jul 21}
+CLN22	Crude Oil WTI {Jul 22}
+CLN23	Crude Oil WTI {Jul 23}
+CLN24	Crude Oil WTI {Jul 24}
+CLN25	Crude Oil WTI {Jul 25}
+CLN26	Crude Oil WTI {Jul 26}
+CLQ18	Crude Oil WTI {Aug 18}
+CLQ19	Crude Oil WTI {Aug 19}
+CLQ20	Crude Oil WTI {Aug 20}
+CLQ21	Crude Oil WTI {Aug 21}
+CLQ22	Crude Oil WTI {Aug 22}
+CLQ23	Crude Oil WTI {Aug 23}
+CLQ24	Crude Oil WTI {Aug 24}
+CLQ25	Crude Oil WTI {Aug 25}
+CLQ26	Crude Oil WTI {Aug 26}
+CLU18	Crude Oil WTI {Sep 18}
+CLU19	Crude Oil WTI {Sep 19}
+CLU20	Crude Oil WTI {Sep 20}
+CLU21	Crude Oil WTI {Sep 21}
+CLU22	Crude Oil WTI {Sep 22}
+CLU23	Crude Oil WTI {Sep 23}
+CLU24	Crude Oil WTI {Sep 24}
+CLU25	Crude Oil WTI {Sep 25}
+CLU26	Crude Oil WTI {Sep 26}
+CLV18	Crude Oil WTI {Oct 18}
+CLV19	Crude Oil WTI {Oct 19}
+CLV20	Crude Oil WTI {Oct 20}
+CLV21	Crude Oil WTI {Oct 21}
+CLV22	Crude Oil WTI {Oct 22}
+CLV23	Crude Oil WTI {Oct 23}
+CLV24	Crude Oil WTI {Oct 24}
+CLV25	Crude Oil WTI {Oct 25}
+CLV26	Crude Oil WTI {Oct 26}
+CLX18	Crude Oil WTI {Nov 18}
+CLX19	Crude Oil WTI {Nov 19}
+CLX20	Crude Oil WTI {Nov 20}
+CLX21	Crude Oil WTI {Nov 21}
+CLX22	Crude Oil WTI {Nov 22}
+CLX23	Crude Oil WTI {Nov 23}
+CLX24	Crude Oil WTI {Nov 24}
+CLX25	Crude Oil WTI {Nov 25}
+CLX26	Crude Oil WTI {Nov 26}
+CLZ18	Crude Oil WTI {Dec 18}
+CLZ19	Crude Oil WTI {Dec 19}
+CLZ20	Crude Oil WTI {Dec 20}
+CLZ21	Crude Oil WTI {Dec 21}
+CLZ22	Crude Oil WTI {Dec 22}
+CLZ23	Crude Oil WTI {Dec 23}
+CLZ24	Crude Oil WTI {Dec 24}
+CLZ25	Crude Oil WTI {Dec 25}
+CLZ26	Crude Oil WTI {Dec 26}
+D2.C	Ethanol T2 ROB Continuation
+D2F19	Ethanol T2 ROB {Jan 19}
+D2G19	Ethanol T2 ROB {Feb 19}
+D2H19	Ethanol T2 ROB {Mar 19}
+D2J18	Ethanol T2 ROB {Apr 18}
+D2K18	Ethanol T2 ROB {May 18}
+D2M18	Ethanol T2 ROB {Jun 18}
+D2N18	Ethanol T2 ROB {Jul 18}
+D2Q18	Ethanol T2 ROB {Aug 18}
+D2U18	Ethanol T2 ROB {Sep 18}
+D2V18	Ethanol T2 ROB {Oct 18}
+D2X18	Ethanol T2 ROB {Nov 18}
+D2Z18	Ethanol T2 ROB {Dec 18}
+FH.C	Ethanol Swaps-NY Continuation
+FHJ18	Ethanol Swaps-NY {Apr 18}
+FHK18	Ethanol Swaps-NY {May 18}
+FHM18	Ethanol Swaps-NY {Jun 18}
+FHN18	Ethanol Swaps-NY {Jul 18}
+FHQ18	Ethanol Swaps-NY {Aug 18}
+FHU18	Ethanol Swaps-NY {Sep 18}
+FHV18	Ethanol Swaps-NY {Oct 18}
+FHX18	Ethanol Swaps-NY {Nov 18}
+FHZ18	Ethanol Swaps-NY {Dec 18}
+FL.C	Ethanol Swaps-Chgo Continuation
+FLF19	Ethanol Swaps-Chgo {Jan 19}
+FLG19	Ethanol Swaps-Chgo {Feb 19}
+FLH19	Ethanol Swaps-Chgo {Mar 19}
+FLJ18	Ethanol Swaps-Chgo {Apr 18}
+FLK18	Ethanol Swaps-Chgo {May 18}
+FLM18	Ethanol Swaps-Chgo {Jun 18}
+FLN18	Ethanol Swaps-Chgo {Jul 18}
+FLQ18	Ethanol Swaps-Chgo {Aug 18}
+FLU18	Ethanol Swaps-Chgo {Sep 18}
+FLV18	Ethanol Swaps-Chgo {Oct 18}
+FLX18	Ethanol Swaps-Chgo {Nov 18}
+FLZ18	Ethanol Swaps-Chgo {Dec 18}
+FLZ19	Ethanol Swaps-Chgo {Dec 19}
+HH.C	Natural Gas LDay (F) Continuation
+HHF19	Natural Gas LDay (F) {Jan 19}
+HHF20	Natural Gas LDay (F) {Jan 20}
+HHF21	Natural Gas LDay (F) {Jan 21}
+HHF22	Natural Gas LDay (F) {Jan 22}
+HHF23	Natural Gas LDay (F) {Jan 23}
+HHF24	Natural Gas LDay (F) {Jan 24}
+HHF25	Natural Gas LDay (F) {Jan 25}
+HHF26	Natural Gas LDay (F) {Jan 26}
+HHF27	Natural Gas LDay (F) {Jan 27}
+HHF28	Natural Gas LDay (F) {Jan 28}
+HHF29	Natural Gas LDay (F) {Jan 29}
+HHF30	Natural Gas LDay (F) {Jan 30}
+HHG19	Natural Gas LDay (F) {Feb 19}
+HHG20	Natural Gas LDay (F) {Feb 20}
+HHG21	Natural Gas LDay (F) {Feb 21}
+HHG22	Natural Gas LDay (F) {Feb 22}
+HHG23	Natural Gas LDay (F) {Feb 23}
+HHG24	Natural Gas LDay (F) {Feb 24}
+HHG25	Natural Gas LDay (F) {Feb 25}
+HHG26	Natural Gas LDay (F) {Feb 26}
+HHG27	Natural Gas LDay (F) {Feb 27}
+HHG28	Natural Gas LDay (F) {Feb 28}
+HHG29	Natural Gas LDay (F) {Feb 29}
+HHG30	Natural Gas LDay (F) {Feb 30}
+HHH19	Natural Gas LDay (F) {Mar 19}
+HHH20	Natural Gas LDay (F) {Mar 20}
+HHH21	Natural Gas LDay (F) {Mar 21}
+HHH22	Natural Gas LDay (F) {Mar 22}
+HHH23	Natural Gas LDay (F) {Mar 23}
+HHH24	Natural Gas LDay (F) {Mar 24}
+HHH25	Natural Gas LDay (F) {Mar 25}
+HHH26	Natural Gas LDay (F) {Mar 26}
+HHH27	Natural Gas LDay (F) {Mar 27}
+HHH28	Natural Gas LDay (F) {Mar 28}
+HHH29	Natural Gas LDay (F) {Mar 29}
+HHH30	Natural Gas LDay (F) {Mar 30}
+HHJ19	Natural Gas LDay (F) {Apr 19}
+HHJ20	Natural Gas LDay (F) {Apr 20}
+HHJ21	Natural Gas LDay (F) {Apr 21}
+HHJ22	Natural Gas LDay (F) {Apr 22}
+HHJ23	Natural Gas LDay (F) {Apr 23}
+HHJ24	Natural Gas LDay (F) {Apr 24}
+HHJ25	Natural Gas LDay (F) {Apr 25}
+HHJ26	Natural Gas LDay (F) {Apr 26}
+HHJ27	Natural Gas LDay (F) {Apr 27}
+HHJ28	Natural Gas LDay (F) {Apr 28}
+HHJ29	Natural Gas LDay (F) {Apr 29}
+HHJ30	Natural Gas LDay (F) {Apr 30}
+HHK18	Natural Gas LDay (F) {May 18}
+HHK19	Natural Gas LDay (F) {May 19}
+HHK20	Natural Gas LDay (F) {May 20}
+HHK21	Natural Gas LDay (F) {May 21}
+HHK22	Natural Gas LDay (F) {May 22}
+HHK23	Natural Gas LDay (F) {May 23}
+HHK24	Natural Gas LDay (F) {May 24}
+HHK25	Natural Gas LDay (F) {May 25}
+HHK26	Natural Gas LDay (F) {May 26}
+HHK27	Natural Gas LDay (F) {May 27}
+HHK28	Natural Gas LDay (F) {May 28}
+HHK29	Natural Gas LDay (F) {May 29}
+HHK30	Natural Gas LDay (F) {May 30}
+HHM18	Natural Gas LDay (F) {Jun 18}
+HHM19	Natural Gas LDay (F) {Jun 19}
+HHM20	Natural Gas LDay (F) {Jun 20}
+HHM21	Natural Gas LDay (F) {Jun 21}
+HHM22	Natural Gas LDay (F) {Jun 22}
+HHM23	Natural Gas LDay (F) {Jun 23}
+HHM24	Natural Gas LDay (F) {Jun 24}
+HHM25	Natural Gas LDay (F) {Jun 25}
+HHM26	Natural Gas LDay (F) {Jun 26}
+HHM27	Natural Gas LDay (F) {Jun 27}
+HHM28	Natural Gas LDay (F) {Jun 28}
+HHM29	Natural Gas LDay (F) {Jun 29}
+HHM30	Natural Gas LDay (F) {Jun 30}
+HHN18	Natural Gas LDay (F) {Jul 18}
+HHN19	Natural Gas LDay (F) {Jul 19}
+HHN20	Natural Gas LDay (F) {Jul 20}
+HHN21	Natural Gas LDay (F) {Jul 21}
+HHN22	Natural Gas LDay (F) {Jul 22}
+HHN23	Natural Gas LDay (F) {Jul 23}
+HHN24	Natural Gas LDay (F) {Jul 24}
+HHN25	Natural Gas LDay (F) {Jul 25}
+HHN26	Natural Gas LDay (F) {Jul 26}
+HHN27	Natural Gas LDay (F) {Jul 27}
+HHN28	Natural Gas LDay (F) {Jul 28}
+HHN29	Natural Gas LDay (F) {Jul 29}
+HHN30	Natural Gas LDay (F) {Jul 30}
+HHQ18	Natural Gas LDay (F) {Aug 18}
+HHQ19	Natural Gas LDay (F) {Aug 19}
+HHQ20	Natural Gas LDay (F) {Aug 20}
+HHQ21	Natural Gas LDay (F) {Aug 21}
+HHQ22	Natural Gas LDay (F) {Aug 22}
+HHQ23	Natural Gas LDay (F) {Aug 23}
+HHQ24	Natural Gas LDay (F) {Aug 24}
+HHQ25	Natural Gas LDay (F) {Aug 25}
+HHQ26	Natural Gas LDay (F) {Aug 26}
+HHQ27	Natural Gas LDay (F) {Aug 27}
+HHQ28	Natural Gas LDay (F) {Aug 28}
+HHQ29	Natural Gas LDay (F) {Aug 29}
+HHQ30	Natural Gas LDay (F) {Aug 30}
+HHU18	Natural Gas LDay (F) {Sep 18}
+HHU19	Natural Gas LDay (F) {Sep 19}
+HHU20	Natural Gas LDay (F) {Sep 20}
+HHU21	Natural Gas LDay (F) {Sep 21}
+HHU22	Natural Gas LDay (F) {Sep 22}
+HHU23	Natural Gas LDay (F) {Sep 23}
+HHU24	Natural Gas LDay (F) {Sep 24}
+HHU25	Natural Gas LDay (F) {Sep 25}
+HHU26	Natural Gas LDay (F) {Sep 26}
+HHU27	Natural Gas LDay (F) {Sep 27}
+HHU28	Natural Gas LDay (F) {Sep 28}
+HHU29	Natural Gas LDay (F) {Sep 29}
+HHU30	Natural Gas LDay (F) {Sep 30}
+HHV18	Natural Gas LDay (F) {Oct 18}
+HHV19	Natural Gas LDay (F) {Oct 19}
+HHV20	Natural Gas LDay (F) {Oct 20}
+HHV21	Natural Gas LDay (F) {Oct 21}
+HHV22	Natural Gas LDay (F) {Oct 22}
+HHV23	Natural Gas LDay (F) {Oct 23}
+HHV24	Natural Gas LDay (F) {Oct 24}
+HHV25	Natural Gas LDay (F) {Oct 25}
+HHV26	Natural Gas LDay (F) {Oct 26}
+HHV27	Natural Gas LDay (F) {Oct 27}
+HHV28	Natural Gas LDay (F) {Oct 28}
+HHV29	Natural Gas LDay (F) {Oct 29}
+HHV30	Natural Gas LDay (F) {Oct 30}
+HHX18	Natural Gas LDay (F) {Nov 18}
+HHX19	Natural Gas LDay (F) {Nov 19}
+HHX20	Natural Gas LDay (F) {Nov 20}
+HHX21	Natural Gas LDay (F) {Nov 21}
+HHX22	Natural Gas LDay (F) {Nov 22}
+HHX23	Natural Gas LDay (F) {Nov 23}
+HHX24	Natural Gas LDay (F) {Nov 24}
+HHX25	Natural Gas LDay (F) {Nov 25}
+HHX26	Natural Gas LDay (F) {Nov 26}
+HHX27	Natural Gas LDay (F) {Nov 27}
+HHX28	Natural Gas LDay (F) {Nov 28}
+HHX29	Natural Gas LDay (F) {Nov 29}
+HHX30	Natural Gas LDay (F) {Nov 30}
+HHZ18	Natural Gas LDay (F) {Dec 18}
+HHZ19	Natural Gas LDay (F) {Dec 19}
+HHZ20	Natural Gas LDay (F) {Dec 20}
+HHZ21	Natural Gas LDay (F) {Dec 21}
+HHZ22	Natural Gas LDay (F) {Dec 22}
+HHZ23	Natural Gas LDay (F) {Dec 23}
+HHZ24	Natural Gas LDay (F) {Dec 24}
+HHZ25	Natural Gas LDay (F) {Dec 25}
+HHZ26	Natural Gas LDay (F) {Dec 26}
+HHZ27	Natural Gas LDay (F) {Dec 27}
+HHZ28	Natural Gas LDay (F) {Dec 28}
+HHZ29	Natural Gas LDay (F) {Dec 29}
+HHZ30	Natural Gas LDay (F) {Dec 30}
+HO	ULSD NY Harbor
+HO.C	ULSD NY Harbor Continuation
+HOF19	ULSD NY Harbor {Jan 19}
+HOF20	ULSD NY Harbor {Jan 20}
+HOF21	ULSD NY Harbor {Jan 21}
+HOF22	ULSD NY Harbor {Jan 22}
+HOG19	ULSD NY Harbor {Feb 19}
+HOG20	ULSD NY Harbor {Feb 20}
+HOG21	ULSD NY Harbor {Feb 21}
+HOH19	ULSD NY Harbor {Mar 19}
+HOH20	ULSD NY Harbor {Mar 20}
+HOH21	ULSD NY Harbor {Mar 21}
+HOJ19	ULSD NY Harbor {Apr 19}
+HOJ20	ULSD NY Harbor {Apr 20}
+HOJ21	ULSD NY Harbor {Apr 21}
+HOK18	ULSD NY Harbor {May 18}
+HOK19	ULSD NY Harbor {May 19}
+HOK20	ULSD NY Harbor {May 20}
+HOK21	ULSD NY Harbor {May 21}
+HOM18	ULSD NY Harbor {Jun 18}
+HOM19	ULSD NY Harbor {Jun 19}
+HOM20	ULSD NY Harbor {Jun 20}
+HOM21	ULSD NY Harbor {Jun 21}
+HON18	ULSD NY Harbor {Jul 18}
+HON19	ULSD NY Harbor {Jul 19}
+HON20	ULSD NY Harbor {Jul 20}
+HON21	ULSD NY Harbor {Jul 21}
+HOQ18	ULSD NY Harbor {Aug 18}
+HOQ19	ULSD NY Harbor {Aug 19}
+HOQ20	ULSD NY Harbor {Aug 20}
+HOQ21	ULSD NY Harbor {Aug 21}
+HOU18	ULSD NY Harbor {Sep 18}
+HOU19	ULSD NY Harbor {Sep 19}
+HOU20	ULSD NY Harbor {Sep 20}
+HOU21	ULSD NY Harbor {Sep 21}
+HOV18	ULSD NY Harbor {Oct 18}
+HOV19	ULSD NY Harbor {Oct 19}
+HOV20	ULSD NY Harbor {Oct 20}
+HOV21	ULSD NY Harbor {Oct 21}
+HOX18	ULSD NY Harbor {Nov 18}
+HOX19	ULSD NY Harbor {Nov 19}
+HOX20	ULSD NY Harbor {Nov 20}
+HOX21	ULSD NY Harbor {Nov 21}
+HOZ18	ULSD NY Harbor {Dec 18}
+HOZ19	ULSD NY Harbor {Dec 19}
+HOZ20	ULSD NY Harbor {Dec 20}
+HOZ21	ULSD NY Harbor {Dec 21}
+HP.C	Natural Gas (F) Continuation
+HPF19	Natural Gas (F) {Jan 19}
+HPF20	Natural Gas (F) {Jan 20}
+HPF21	Natural Gas (F) {Jan 21}
+HPF22	Natural Gas (F) {Jan 22}
+HPF23	Natural Gas (F) {Jan 23}
+HPG19	Natural Gas (F) {Feb 19}
+HPG20	Natural Gas (F) {Feb 20}
+HPG21	Natural Gas (F) {Feb 21}
+HPG22	Natural Gas (F) {Feb 22}
+HPG23	Natural Gas (F) {Feb 23}
+HPH19	Natural Gas (F) {Mar 19}
+HPH20	Natural Gas (F) {Mar 20}
+HPH21	Natural Gas (F) {Mar 21}
+HPH22	Natural Gas (F) {Mar 22}
+HPH23	Natural Gas (F) {Mar 23}
+HPJ19	Natural Gas (F) {Apr 19}
+HPJ20	Natural Gas (F) {Apr 20}
+HPJ21	Natural Gas (F) {Apr 21}
+HPJ22	Natural Gas (F) {Apr 22}
+HPJ23	Natural Gas (F) {Apr 23}
+HPK18	Natural Gas (F) {May 18}
+HPK19	Natural Gas (F) {May 19}
+HPK20	Natural Gas (F) {May 20}
+HPK21	Natural Gas (F) {May 21}
+HPK22	Natural Gas (F) {May 22}
+HPK23	Natural Gas (F) {May 23}
+HPM18	Natural Gas (F) {Jun 18}
+HPM19	Natural Gas (F) {Jun 19}
+HPM20	Natural Gas (F) {Jun 20}
+HPM21	Natural Gas (F) {Jun 21}
+HPM22	Natural Gas (F) {Jun 22}
+HPM23	Natural Gas (F) {Jun 23}
+HPN18	Natural Gas (F) {Jul 18}
+HPN19	Natural Gas (F) {Jul 19}
+HPN20	Natural Gas (F) {Jul 20}
+HPN21	Natural Gas (F) {Jul 21}
+HPN22	Natural Gas (F) {Jul 22}
+HPN23	Natural Gas (F) {Jul 23}
+HPQ18	Natural Gas (F) {Aug 18}
+HPQ19	Natural Gas (F) {Aug 19}
+HPQ20	Natural Gas (F) {Aug 20}
+HPQ21	Natural Gas (F) {Aug 21}
+HPQ22	Natural Gas (F) {Aug 22}
+HPQ23	Natural Gas (F) {Aug 23}
+HPU18	Natural Gas (F) {Sep 18}
+HPU19	Natural Gas (F) {Sep 19}
+HPU20	Natural Gas (F) {Sep 20}
+HPU21	Natural Gas (F) {Sep 21}
+HPU22	Natural Gas (F) {Sep 22}
+HPU23	Natural Gas (F) {Sep 23}
+HPV18	Natural Gas (F) {Oct 18}
+HPV19	Natural Gas (F) {Oct 19}
+HPV20	Natural Gas (F) {Oct 20}
+HPV21	Natural Gas (F) {Oct 21}
+HPV22	Natural Gas (F) {Oct 22}
+HPV23	Natural Gas (F) {Oct 23}
+HPX18	Natural Gas (F) {Nov 18}
+HPX19	Natural Gas (F) {Nov 19}
+HPX20	Natural Gas (F) {Nov 20}
+HPX21	Natural Gas (F) {Nov 21}
+HPX22	Natural Gas (F) {Nov 22}
+HPX23	Natural Gas (F) {Nov 23}
+HPZ18	Natural Gas (F) {Dec 18}
+HPZ19	Natural Gas (F) {Dec 19}
+HPZ20	Natural Gas (F) {Dec 20}
+HPZ21	Natural Gas (F) {Dec 21}
+HPZ22	Natural Gas (F) {Dec 22}
+HPZ23	Natural Gas (F) {Dec 23}
+HV.C	US Steel Coil Continuation
+HVF19	US Steel Coil {Jan 19}
+HVF20	US Steel Coil {Jan 20}
+HVG19	US Steel Coil {Feb 19}
+HVG20	US Steel Coil {Feb 20}
+HVH19	US Steel Coil {Mar 19}
+HVH20	US Steel Coil {Mar 20}
+HVJ18	US Steel Coil {Apr 18}
+HVJ19	US Steel Coil {Apr 19}
+HVK18	US Steel Coil {May 18}
+HVK19	US Steel Coil {May 19}
+HVM18	US Steel Coil {Jun 18}
+HVM19	US Steel Coil {Jun 19}
+HVN18	US Steel Coil {Jul 18}
+HVN19	US Steel Coil {Jul 19}
+HVQ18	US Steel Coil {Aug 18}
+HVQ19	US Steel Coil {Aug 19}
+HVU18	US Steel Coil {Sep 18}
+HVU19	US Steel Coil {Sep 19}
+HVV18	US Steel Coil {Oct 18}
+HVV19	US Steel Coil {Oct 19}
+HVX18	US Steel Coil {Nov 18}
+HVX19	US Steel Coil {Nov 19}
+HVZ18	US Steel Coil {Dec 18}
+HVZ19	US Steel Coil {Dec 19}
+JM	PJM Monthly On Peak
+JM.C	PJM Monthly On Peak Continuation
+JMF19	PJM Monthly On Peak {Jan 19}
+JMG19	PJM Monthly On Peak {Feb 19}
+JMH19	PJM Monthly On Peak {Mar 19}
+JMJ18	PJM Monthly On Peak {Apr 18}
+JMJ19	PJM Monthly On Peak {Apr 19}
+JMK18	PJM Monthly On Peak {May 18}
+JMK19	PJM Monthly On Peak {May 19}
+JMM18	PJM Monthly On Peak {Jun 18}
+JMM19	PJM Monthly On Peak {Jun 19}
+JMN18	PJM Monthly On Peak {Jul 18}
+JMN19	PJM Monthly On Peak {Jul 19}
+JMQ18	PJM Monthly On Peak {Aug 18}
+JMQ19	PJM Monthly On Peak {Aug 19}
+JMU18	PJM Monthly On Peak {Sep 18}
+JMU19	PJM Monthly On Peak {Sep 19}
+JMV18	PJM Monthly On Peak {Oct 18}
+JMV19	PJM Monthly On Peak {Oct 19}
+JMX18	PJM Monthly On Peak {Nov 18}
+JMX19	PJM Monthly On Peak {Nov 19}
+JMZ18	PJM Monthly On Peak {Dec 18}
+JMZ19	PJM Monthly On Peak {Dec 19}
+JP.C	PJM Monthly Off Peak Continuation
+JPJ18	PJM Monthly Off Peak {Apr 18}
+JPK18	PJM Monthly Off Peak {May 18}
+JPM18	PJM Monthly Off Peak {Jun 18}
+JPN18	PJM Monthly Off Peak {Jul 18}
+JPQ18	PJM Monthly Off Peak {Aug 18}
+JPU18	PJM Monthly Off Peak {Sep 18}
+JPV18	PJM Monthly Off Peak {Oct 18}
+JPX18	PJM Monthly Off Peak {Nov 18}
+JPZ18	PJM Monthly Off Peak {Dec 18}
+KA.C	CME Sugar #11 Continuation
+KAH19	CME Sugar #11 {Mar 19}
+KAH20	CME Sugar #11 {Mar 20}
+KAK18	CME Sugar #11 {May 18}
+KAK19	CME Sugar #11 {May 19}
+KAK20	CME Sugar #11 {May 20}
+KAN18	CME Sugar #11 {Jul 18}
+KAN19	CME Sugar #11 {Jul 19}
+KAV18	CME Sugar #11 {Oct 18}
+KAV19	CME Sugar #11 {Oct 19}
+KG.C	CME Cotton #2 Continuation
+KGH19	CME Cotton #2 {Mar 19}
+KGH20	CME Cotton #2 {Mar 20}
+KGK18	CME Cotton #2 {May 18}
+KGK19	CME Cotton #2 {May 19}
+KGK20	CME Cotton #2 {May 20}
+KGN18	CME Cotton #2 {Jul 18}
+KGN19	CME Cotton #2 {Jul 19}
+KGV18	CME Cotton #2 {Oct 18}
+KGV19	CME Cotton #2 {Oct 19}
+KGZ18	CME Cotton #2 {Dec 18}
+KGZ19	CME Cotton #2 {Dec 19}
+KT.C	CME Coffee Continuation
+KTH19	CME Coffee {Mar 19}
+KTH20	CME Coffee {Mar 20}
+KTK18	CME Coffee {May 18}
+KTK19	CME Coffee {May 19}
+KTN18	CME Coffee {Jul 18}
+KTN19	CME Coffee {Jul 19}
+KTU18	CME Coffee {Sep 18}
+KTU19	CME Coffee {Sep 19}
+KTZ18	CME Coffee {Dec 18}
+KTZ19	CME Coffee {Dec 19}
+MT.C	Gulf Sour Crude Oil Continuation
+MTF19	Gulf Sour Crude Oil {Jan 19}
+MTF20	Gulf Sour Crude Oil {Jan 20}
+MTF21	Gulf Sour Crude Oil {Jan 21}
+MTG19	Gulf Sour Crude Oil {Feb 19}
+MTG20	Gulf Sour Crude Oil {Feb 20}
+MTG21	Gulf Sour Crude Oil {Feb 21}
+MTH19	Gulf Sour Crude Oil {Mar 19}
+MTH20	Gulf Sour Crude Oil {Mar 20}
+MTH21	Gulf Sour Crude Oil {Mar 21}
+MTJ19	Gulf Sour Crude Oil {Apr 19}
+MTJ20	Gulf Sour Crude Oil {Apr 20}
+MTJ21	Gulf Sour Crude Oil {Apr 21}
+MTK18	Gulf Sour Crude Oil {May 18}
+MTK19	Gulf Sour Crude Oil {May 19}
+MTK20	Gulf Sour Crude Oil {May 20}
+MTK21	Gulf Sour Crude Oil {May 21}
+MTM18	Gulf Sour Crude Oil {Jun 18}
+MTM19	Gulf Sour Crude Oil {Jun 19}
+MTM20	Gulf Sour Crude Oil {Jun 20}
+MTN18	Gulf Sour Crude Oil {Jul 18}
+MTN19	Gulf Sour Crude Oil {Jul 19}
+MTN20	Gulf Sour Crude Oil {Jul 20}
+MTQ18	Gulf Sour Crude Oil {Aug 18}
+MTQ19	Gulf Sour Crude Oil {Aug 19}
+MTQ20	Gulf Sour Crude Oil {Aug 20}
+MTU18	Gulf Sour Crude Oil {Sep 18}
+MTU19	Gulf Sour Crude Oil {Sep 19}
+MTU20	Gulf Sour Crude Oil {Sep 20}
+MTV18	Gulf Sour Crude Oil {Oct 18}
+MTV19	Gulf Sour Crude Oil {Oct 19}
+MTV20	Gulf Sour Crude Oil {Oct 20}
+MTX18	Gulf Sour Crude Oil {Nov 18}
+MTX19	Gulf Sour Crude Oil {Nov 19}
+MTX20	Gulf Sour Crude Oil {Nov 20}
+MTZ18	Gulf Sour Crude Oil {Dec 18}
+MTZ19	Gulf Sour Crude Oil {Dec 19}
+MTZ20	Gulf Sour Crude Oil {Dec 20}
+NG	Natural Gas
+NG.C	Natural Gas Continuation
+NGF19	Natural Gas {Jan 19}
+NGF20	Natural Gas {Jan 20}
+NGF21	Natural Gas {Jan 21}
+NGF22	Natural Gas {Jan 22}
+NGF23	Natural Gas {Jan 23}
+NGF24	Natural Gas {Jan 24}
+NGF25	Natural Gas {Jan 25}
+NGF26	Natural Gas {Jan 26}
+NGF27	Natural Gas {Jan 27}
+NGF28	Natural Gas {Jan 28}
+NGF29	Natural Gas {Jan 29}
+NGF30	Natural Gas {Jan 30}
+NGG19	Natural Gas {Feb 19}
+NGG20	Natural Gas {Feb 20}
+NGG21	Natural Gas {Feb 21}
+NGG22	Natural Gas {Feb 22}
+NGG23	Natural Gas {Feb 23}
+NGG24	Natural Gas {Feb 24}
+NGG25	Natural Gas {Feb 25}
+NGG26	Natural Gas {Feb 26}
+NGG27	Natural Gas {Feb 27}
+NGG28	Natural Gas {Feb 28}
+NGG29	Natural Gas {Feb 29}
+NGG30	Natural Gas {Feb 30}
+NGH19	Natural Gas {Mar 19}
+NGH20	Natural Gas {Mar 20}
+NGH21	Natural Gas {Mar 21}
+NGH22	Natural Gas {Mar 22}
+NGH23	Natural Gas {Mar 23}
+NGH24	Natural Gas {Mar 24}
+NGH25	Natural Gas {Mar 25}
+NGH26	Natural Gas {Mar 26}
+NGH27	Natural Gas {Mar 27}
+NGH28	Natural Gas {Mar 28}
+NGH29	Natural Gas {Mar 29}
+NGH30	Natural Gas {Mar 30}
+NGJ19	Natural Gas {Apr 19}
+NGJ20	Natural Gas {Apr 20}
+NGJ21	Natural Gas {Apr 21}
+NGJ22	Natural Gas {Apr 22}
+NGJ23	Natural Gas {Apr 23}
+NGJ24	Natural Gas {Apr 24}
+NGJ25	Natural Gas {Apr 25}
+NGJ26	Natural Gas {Apr 26}
+NGJ27	Natural Gas {Apr 27}
+NGJ28	Natural Gas {Apr 28}
+NGJ29	Natural Gas {Apr 29}
+NGJ30	Natural Gas {Apr 30}
+NGK18	Natural Gas {May 18}
+NGK19	Natural Gas {May 19}
+NGK20	Natural Gas {May 20}
+NGK21	Natural Gas {May 21}
+NGK22	Natural Gas {May 22}
+NGK23	Natural Gas {May 23}
+NGK24	Natural Gas {May 24}
+NGK25	Natural Gas {May 25}
+NGK26	Natural Gas {May 26}
+NGK27	Natural Gas {May 27}
+NGK28	Natural Gas {May 28}
+NGK29	Natural Gas {May 29}
+NGK30	Natural Gas {May 30}
+NGM18	Natural Gas {Jun 18}
+NGM19	Natural Gas {Jun 19}
+NGM20	Natural Gas {Jun 20}
+NGM21	Natural Gas {Jun 21}
+NGM22	Natural Gas {Jun 22}
+NGM23	Natural Gas {Jun 23}
+NGM24	Natural Gas {Jun 24}
+NGM25	Natural Gas {Jun 25}
+NGM26	Natural Gas {Jun 26}
+NGM27	Natural Gas {Jun 27}
+NGM28	Natural Gas {Jun 28}
+NGM29	Natural Gas {Jun 29}
+NGM30	Natural Gas {Jun 30}
+NGN18	Natural Gas {Jul 18}
+NGN19	Natural Gas {Jul 19}
+NGN20	Natural Gas {Jul 20}
+NGN21	Natural Gas {Jul 21}
+NGN22	Natural Gas {Jul 22}
+NGN23	Natural Gas {Jul 23}
+NGN24	Natural Gas {Jul 24}
+NGN25	Natural Gas {Jul 25}
+NGN26	Natural Gas {Jul 26}
+NGN27	Natural Gas {Jul 27}
+NGN28	Natural Gas {Jul 28}
+NGN29	Natural Gas {Jul 29}
+NGN30	Natural Gas {Jul 30}
+NGQ18	Natural Gas {Aug 18}
+NGQ19	Natural Gas {Aug 19}
+NGQ20	Natural Gas {Aug 20}
+NGQ21	Natural Gas {Aug 21}
+NGQ22	Natural Gas {Aug 22}
+NGQ23	Natural Gas {Aug 23}
+NGQ24	Natural Gas {Aug 24}
+NGQ25	Natural Gas {Aug 25}
+NGQ26	Natural Gas {Aug 26}
+NGQ27	Natural Gas {Aug 27}
+NGQ28	Natural Gas {Aug 28}
+NGQ29	Natural Gas {Aug 29}
+NGQ30	Natural Gas {Aug 30}
+NGU18	Natural Gas {Sep 18}
+NGU19	Natural Gas {Sep 19}
+NGU20	Natural Gas {Sep 20}
+NGU21	Natural Gas {Sep 21}
+NGU22	Natural Gas {Sep 22}
+NGU23	Natural Gas {Sep 23}
+NGU24	Natural Gas {Sep 24}
+NGU25	Natural Gas {Sep 25}
+NGU26	Natural Gas {Sep 26}
+NGU27	Natural Gas {Sep 27}
+NGU28	Natural Gas {Sep 28}
+NGU29	Natural Gas {Sep 29}
+NGU30	Natural Gas {Sep 30}
+NGV18	Natural Gas {Oct 18}
+NGV19	Natural Gas {Oct 19}
+NGV20	Natural Gas {Oct 20}
+NGV21	Natural Gas {Oct 21}
+NGV22	Natural Gas {Oct 22}
+NGV23	Natural Gas {Oct 23}
+NGV24	Natural Gas {Oct 24}
+NGV25	Natural Gas {Oct 25}
+NGV26	Natural Gas {Oct 26}
+NGV27	Natural Gas {Oct 27}
+NGV28	Natural Gas {Oct 28}
+NGV29	Natural Gas {Oct 29}
+NGV30	Natural Gas {Oct 30}
+NGX18	Natural Gas {Nov 18}
+NGX19	Natural Gas {Nov 19}
+NGX20	Natural Gas {Nov 20}
+NGX21	Natural Gas {Nov 21}
+NGX22	Natural Gas {Nov 22}
+NGX23	Natural Gas {Nov 23}
+NGX24	Natural Gas {Nov 24}
+NGX25	Natural Gas {Nov 25}
+NGX26	Natural Gas {Nov 26}
+NGX27	Natural Gas {Nov 27}
+NGX28	Natural Gas {Nov 28}
+NGX29	Natural Gas {Nov 29}
+NGX30	Natural Gas {Nov 30}
+NGZ18	Natural Gas {Dec 18}
+NGZ19	Natural Gas {Dec 19}
+NGZ20	Natural Gas {Dec 20}
+NGZ21	Natural Gas {Dec 21}
+NGZ22	Natural Gas {Dec 22}
+NGZ23	Natural Gas {Dec 23}
+NGZ24	Natural Gas {Dec 24}
+NGZ25	Natural Gas {Dec 25}
+NGZ26	Natural Gas {Dec 26}
+NGZ27	Natural Gas {Dec 27}
+NGZ28	Natural Gas {Dec 28}
+NGZ29	Natural Gas {Dec 29}
+NGZ30	Natural Gas {Dec 30}
+PA	Palladium
+PA.C	Palladium Continuation
+PAH19	Palladium {Mar 19}
+PAJ18	Palladium {Apr 18}
+PAK18	Palladium {May 18}
+PAM18	Palladium {Jun 18}
+PAM19	Palladium {Jun 19}
+PAN18	Palladium {Jul 18}
+PAU18	Palladium {Sep 18}
+PAZ18	Palladium {Dec 18}
+PL	Platinum
+PL.C	Platinum Continuation
+PLF19	Platinum {Jan 19}
+PLJ18	Platinum {Apr 18}
+PLJ19	Platinum {Apr 19}
+PLK18	Platinum {May 18}
+PLM18	Platinum {Jun 18}
+PLN18	Platinum {Jul 18}
+PLN19	Platinum {Jul 19}
+PLV18	Platinum {Oct 18}
+PN	Propane
+QA	Crude Oil Brent (F)
+QA.C	Crude Oil Brent (F) Continuation
+QAF19	Crude Oil Brent (F) {Jan 19}
+QAF20	Crude Oil Brent (F) {Jan 20}
+QAF21	Crude Oil Brent (F) {Jan 21}
+QAF22	Crude Oil Brent (F) {Jan 22}
+QAF23	Crude Oil Brent (F) {Jan 23}
+QAF24	Crude Oil Brent (F) {Jan 24}
+QAF25	Crude Oil Brent (F) {Jan 25}
+QAF26	Crude Oil Brent (F) {Jan 26}
+QAG19	Crude Oil Brent (F) {Feb 19}
+QAG20	Crude Oil Brent (F) {Feb 20}
+QAG21	Crude Oil Brent (F) {Feb 21}
+QAG22	Crude Oil Brent (F) {Feb 22}
+QAG23	Crude Oil Brent (F) {Feb 23}
+QAG24	Crude Oil Brent (F) {Feb 24}
+QAG25	Crude Oil Brent (F) {Feb 25}
+QAG26	Crude Oil Brent (F) {Feb 26}
+QAH19	Crude Oil Brent (F) {Mar 19}
+QAH20	Crude Oil Brent (F) {Mar 20}
+QAH21	Crude Oil Brent (F) {Mar 21}
+QAH22	Crude Oil Brent (F) {Mar 22}
+QAH23	Crude Oil Brent (F) {Mar 23}
+QAH24	Crude Oil Brent (F) {Mar 24}
+QAH25	Crude Oil Brent (F) {Mar 25}
+QAH26	Crude Oil Brent (F) {Mar 26}
+QAJ19	Crude Oil Brent (F) {Apr 19}
+QAJ20	Crude Oil Brent (F) {Apr 20}
+QAJ21	Crude Oil Brent (F) {Apr 21}
+QAJ22	Crude Oil Brent (F) {Apr 22}
+QAJ23	Crude Oil Brent (F) {Apr 23}
+QAJ24	Crude Oil Brent (F) {Apr 24}
+QAJ25	Crude Oil Brent (F) {Apr 25}
+QAK19	Crude Oil Brent (F) {May 19}
+QAK20	Crude Oil Brent (F) {May 20}
+QAK21	Crude Oil Brent (F) {May 21}
+QAK22	Crude Oil Brent (F) {May 22}
+QAK23	Crude Oil Brent (F) {May 23}
+QAK24	Crude Oil Brent (F) {May 24}
+QAK25	Crude Oil Brent (F) {May 25}
+QAM18	Crude Oil Brent (F) {Jun 18}
+QAM19	Crude Oil Brent (F) {Jun 19}
+QAM20	Crude Oil Brent (F) {Jun 20}
+QAM21	Crude Oil Brent (F) {Jun 21}
+QAM22	Crude Oil Brent (F) {Jun 22}
+QAM23	Crude Oil Brent (F) {Jun 23}
+QAM24	Crude Oil Brent (F) {Jun 24}
+QAM25	Crude Oil Brent (F) {Jun 25}
+QAN18	Crude Oil Brent (F) {Jul 18}
+QAN19	Crude Oil Brent (F) {Jul 19}
+QAN20	Crude Oil Brent (F) {Jul 20}
+QAN21	Crude Oil Brent (F) {Jul 21}
+QAN22	Crude Oil Brent (F) {Jul 22}
+QAN23	Crude Oil Brent (F) {Jul 23}
+QAN24	Crude Oil Brent (F) {Jul 24}
+QAN25	Crude Oil Brent (F) {Jul 25}
+QAQ18	Crude Oil Brent (F) {Aug 18}
+QAQ19	Crude Oil Brent (F) {Aug 19}
+QAQ20	Crude Oil Brent (F) {Aug 20}
+QAQ21	Crude Oil Brent (F) {Aug 21}
+QAQ22	Crude Oil Brent (F) {Aug 22}
+QAQ23	Crude Oil Brent (F) {Aug 23}
+QAQ24	Crude Oil Brent (F) {Aug 24}
+QAQ25	Crude Oil Brent (F) {Aug 25}
+QAU18	Crude Oil Brent (F) {Sep 18}
+QAU19	Crude Oil Brent (F) {Sep 19}
+QAU20	Crude Oil Brent (F) {Sep 20}
+QAU21	Crude Oil Brent (F) {Sep 21}
+QAU22	Crude Oil Brent (F) {Sep 22}
+QAU23	Crude Oil Brent (F) {Sep 23}
+QAU24	Crude Oil Brent (F) {Sep 24}
+QAU25	Crude Oil Brent (F) {Sep 25}
+QAV18	Crude Oil Brent (F) {Oct 18}
+QAV19	Crude Oil Brent (F) {Oct 19}
+QAV20	Crude Oil Brent (F) {Oct 20}
+QAV21	Crude Oil Brent (F) {Oct 21}
+QAV22	Crude Oil Brent (F) {Oct 22}
+QAV23	Crude Oil Brent (F) {Oct 23}
+QAV24	Crude Oil Brent (F) {Oct 24}
+QAV25	Crude Oil Brent (F) {Oct 25}
+QAX18	Crude Oil Brent (F) {Nov 18}
+QAX19	Crude Oil Brent (F) {Nov 19}
+QAX20	Crude Oil Brent (F) {Nov 20}
+QAX21	Crude Oil Brent (F) {Nov 21}
+QAX22	Crude Oil Brent (F) {Nov 22}
+QAX23	Crude Oil Brent (F) {Nov 23}
+QAX24	Crude Oil Brent (F) {Nov 24}
+QAX25	Crude Oil Brent (F) {Nov 25}
+QAZ18	Crude Oil Brent (F) {Dec 18}
+QAZ19	Crude Oil Brent (F) {Dec 19}
+QAZ20	Crude Oil Brent (F) {Dec 20}
+QAZ21	Crude Oil Brent (F) {Dec 21}
+QAZ22	Crude Oil Brent (F) {Dec 22}
+QAZ23	Crude Oil Brent (F) {Dec 23}
+QAZ24	Crude Oil Brent (F) {Dec 24}
+QAZ25	Crude Oil Brent (F) {Dec 25}
+QG	E-Mini Natural Gas
+QG.C	E-Mini Natural Gas Continuation
+QGF19	E-Mini Natural Gas {Jan 19}
+QGF20	E-Mini Natural Gas {Jan 20}
+QGF21	E-Mini Natural Gas {Jan 21}
+QGF22	E-Mini Natural Gas {Jan 22}
+QGF23	E-Mini Natural Gas {Jan 23}
+QGG19	E-Mini Natural Gas {Feb 19}
+QGG20	E-Mini Natural Gas {Feb 20}
+QGG21	E-Mini Natural Gas {Feb 21}
+QGG22	E-Mini Natural Gas {Feb 22}
+QGG23	E-Mini Natural Gas {Feb 23}
+QGH19	E-Mini Natural Gas {Mar 19}
+QGH20	E-Mini Natural Gas {Mar 20}
+QGH21	E-Mini Natural Gas {Mar 21}
+QGH22	E-Mini Natural Gas {Mar 22}
+QGH23	E-Mini Natural Gas {Mar 23}
+QGJ19	E-Mini Natural Gas {Apr 19}
+QGJ20	E-Mini Natural Gas {Apr 20}
+QGJ21	E-Mini Natural Gas {Apr 21}
+QGJ22	E-Mini Natural Gas {Apr 22}
+QGJ23	E-Mini Natural Gas {Apr 23}
+QGK18	E-Mini Natural Gas {May 18}
+QGK19	E-Mini Natural Gas {May 19}
+QGK20	E-Mini Natural Gas {May 20}
+QGK21	E-Mini Natural Gas {May 21}
+QGK22	E-Mini Natural Gas {May 22}
+QGK23	E-Mini Natural Gas {May 23}
+QGM18	E-Mini Natural Gas {Jun 18}
+QGM19	E-Mini Natural Gas {Jun 19}
+QGM20	E-Mini Natural Gas {Jun 20}
+QGM21	E-Mini Natural Gas {Jun 21}
+QGM22	E-Mini Natural Gas {Jun 22}
+QGM23	E-Mini Natural Gas {Jun 23}
+QGN18	E-Mini Natural Gas {Jul 18}
+QGN19	E-Mini Natural Gas {Jul 19}
+QGN20	E-Mini Natural Gas {Jul 20}
+QGN21	E-Mini Natural Gas {Jul 21}
+QGN22	E-Mini Natural Gas {Jul 22}
+QGN23	E-Mini Natural Gas {Jul 23}
+QGQ18	E-Mini Natural Gas {Aug 18}
+QGQ19	E-Mini Natural Gas {Aug 19}
+QGQ20	E-Mini Natural Gas {Aug 20}
+QGQ21	E-Mini Natural Gas {Aug 21}
+QGQ22	E-Mini Natural Gas {Aug 22}
+QGQ23	E-Mini Natural Gas {Aug 23}
+QGU18	E-Mini Natural Gas {Sep 18}
+QGU19	E-Mini Natural Gas {Sep 19}
+QGU20	E-Mini Natural Gas {Sep 20}
+QGU21	E-Mini Natural Gas {Sep 21}
+QGU22	E-Mini Natural Gas {Sep 22}
+QGU23	E-Mini Natural Gas {Sep 23}
+QGV18	E-Mini Natural Gas {Oct 18}
+QGV19	E-Mini Natural Gas {Oct 19}
+QGV20	E-Mini Natural Gas {Oct 20}
+QGV21	E-Mini Natural Gas {Oct 21}
+QGV22	E-Mini Natural Gas {Oct 22}
+QGV23	E-Mini Natural Gas {Oct 23}
+QGX18	E-Mini Natural Gas {Nov 18}
+QGX19	E-Mini Natural Gas {Nov 19}
+QGX20	E-Mini Natural Gas {Nov 20}
+QGX21	E-Mini Natural Gas {Nov 21}
+QGX22	E-Mini Natural Gas {Nov 22}
+QGX23	E-Mini Natural Gas {Nov 23}
+QGZ18	E-Mini Natural Gas {Dec 18}
+QGZ19	E-Mini Natural Gas {Dec 19}
+QGZ20	E-Mini Natural Gas {Dec 20}
+QGZ21	E-Mini Natural Gas {Dec 21}
+QGZ22	E-Mini Natural Gas {Dec 22}
+QGZ23	E-Mini Natural Gas {Dec 23}
+QH	E-Mini ULSD NYHarbor
+QH.C	E-Mini ULSD NYHarbor Continuation
+QHF19	E-Mini ULSD NYHarbor {Jan 19}
+QHG19	E-Mini ULSD NYHarbor {Feb 19}
+QHH19	E-Mini ULSD NYHarbor {Mar 19}
+QHJ19	E-Mini ULSD NYHarbor {Apr 19}
+QHK18	E-Mini ULSD NYHarbor {May 18}
+QHK19	E-Mini ULSD NYHarbor {May 19}
+QHM18	E-Mini ULSD NYHarbor {Jun 18}
+QHN18	E-Mini ULSD NYHarbor {Jul 18}
+QHQ18	E-Mini ULSD NYHarbor {Aug 18}
+QHU18	E-Mini ULSD NYHarbor {Sep 18}
+QHV18	E-Mini ULSD NYHarbor {Oct 18}
+QHX18	E-Mini ULSD NYHarbor {Nov 18}
+QHZ18	E-Mini ULSD NYHarbor {Dec 18}
+QM	E-Mini Crude Oil
+QM.C	E-Mini Crude Oil Continuation
+QMF19	E-Mini Crude Oil {Jan 19}
+QMF20	E-Mini Crude Oil {Jan 20}
+QMF21	E-Mini Crude Oil {Jan 21}
+QMF22	E-Mini Crude Oil {Jan 22}
+QMF23	E-Mini Crude Oil {Jan 23}
+QMG19	E-Mini Crude Oil {Feb 19}
+QMG20	E-Mini Crude Oil {Feb 20}
+QMG21	E-Mini Crude Oil {Feb 21}
+QMG22	E-Mini Crude Oil {Feb 22}
+QMG23	E-Mini Crude Oil {Feb 23}
+QMH19	E-Mini Crude Oil {Mar 19}
+QMH20	E-Mini Crude Oil {Mar 20}
+QMH21	E-Mini Crude Oil {Mar 21}
+QMH22	E-Mini Crude Oil {Mar 22}
+QMH23	E-Mini Crude Oil {Mar 23}
+QMJ19	E-Mini Crude Oil {Apr 19}
+QMJ20	E-Mini Crude Oil {Apr 20}
+QMJ21	E-Mini Crude Oil {Apr 21}
+QMJ22	E-Mini Crude Oil {Apr 22}
+QMJ23	E-Mini Crude Oil {Apr 23}
+QMK18	E-Mini Crude Oil {May 18}
+QMK19	E-Mini Crude Oil {May 19}
+QMK20	E-Mini Crude Oil {May 20}
+QMK21	E-Mini Crude Oil {May 21}
+QMK22	E-Mini Crude Oil {May 22}
+QMK23	E-Mini Crude Oil {May 23}
+QMM18	E-Mini Crude Oil {Jun 18}
+QMM19	E-Mini Crude Oil {Jun 19}
+QMM20	E-Mini Crude Oil {Jun 20}
+QMM21	E-Mini Crude Oil {Jun 21}
+QMM22	E-Mini Crude Oil {Jun 22}
+QMM23	E-Mini Crude Oil {Jun 23}
+QMN18	E-Mini Crude Oil {Jul 18}
+QMN19	E-Mini Crude Oil {Jul 19}
+QMN20	E-Mini Crude Oil {Jul 20}
+QMN21	E-Mini Crude Oil {Jul 21}
+QMN22	E-Mini Crude Oil {Jul 22}
+QMN23	E-Mini Crude Oil {Jul 23}
+QMQ18	E-Mini Crude Oil {Aug 18}
+QMQ19	E-Mini Crude Oil {Aug 19}
+QMQ20	E-Mini Crude Oil {Aug 20}
+QMQ21	E-Mini Crude Oil {Aug 21}
+QMQ22	E-Mini Crude Oil {Aug 22}
+QMQ23	E-Mini Crude Oil {Aug 23}
+QMU18	E-Mini Crude Oil {Sep 18}
+QMU19	E-Mini Crude Oil {Sep 19}
+QMU20	E-Mini Crude Oil {Sep 20}
+QMU21	E-Mini Crude Oil {Sep 21}
+QMU22	E-Mini Crude Oil {Sep 22}
+QMU23	E-Mini Crude Oil {Sep 23}
+QMV18	E-Mini Crude Oil {Oct 18}
+QMV19	E-Mini Crude Oil {Oct 19}
+QMV20	E-Mini Crude Oil {Oct 20}
+QMV21	E-Mini Crude Oil {Oct 21}
+QMV22	E-Mini Crude Oil {Oct 22}
+QMV23	E-Mini Crude Oil {Oct 23}
+QMX18	E-Mini Crude Oil {Nov 18}
+QMX19	E-Mini Crude Oil {Nov 19}
+QMX20	E-Mini Crude Oil {Nov 20}
+QMX21	E-Mini Crude Oil {Nov 21}
+QMX22	E-Mini Crude Oil {Nov 22}
+QMX23	E-Mini Crude Oil {Nov 23}
+QMZ18	E-Mini Crude Oil {Dec 18}
+QMZ19	E-Mini Crude Oil {Dec 19}
+QMZ20	E-Mini Crude Oil {Dec 20}
+QMZ21	E-Mini Crude Oil {Dec 21}
+QMZ22	E-Mini Crude Oil {Dec 22}
+QMZ23	E-Mini Crude Oil {Dec 23}
+QU.C	E-Mini Gasoline Continuation
+QUF19	E-Mini Gasoline {Jan 19}
+QUG19	E-Mini Gasoline {Feb 19}
+QUH19	E-Mini Gasoline {Mar 19}
+QUJ19	E-Mini Gasoline {Apr 19}
+QUK18	E-Mini Gasoline {May 18}
+QUK19	E-Mini Gasoline {May 19}
+QUM18	E-Mini Gasoline {Jun 18}
+QUN18	E-Mini Gasoline {Jul 18}
+QUQ18	E-Mini Gasoline {Aug 18}
+QUU18	E-Mini Gasoline {Sep 18}
+QUV18	E-Mini Gasoline {Oct 18}
+QUX18	E-Mini Gasoline {Nov 18}
+QUZ18	E-Mini Gasoline {Dec 18}
+RB	Gasoline RBOB
+RB.C	Gasoline RBOB Continuation
+RBF19	Gasoline RBOB {Jan 19}
+RBF20	Gasoline RBOB {Jan 20}
+RBF21	Gasoline RBOB {Jan 21}
+RBF22	Gasoline RBOB {Jan 22}
+RBG19	Gasoline RBOB {Feb 19}
+RBG20	Gasoline RBOB {Feb 20}
+RBG21	Gasoline RBOB {Feb 21}
+RBH19	Gasoline RBOB {Mar 19}
+RBH20	Gasoline RBOB {Mar 20}
+RBH21	Gasoline RBOB {Mar 21}
+RBJ19	Gasoline RBOB {Apr 19}
+RBJ20	Gasoline RBOB {Apr 20}
+RBJ21	Gasoline RBOB {Apr 21}
+RBK18	Gasoline RBOB {May 18}
+RBK19	Gasoline RBOB {May 19}
+RBK20	Gasoline RBOB {May 20}
+RBK21	Gasoline RBOB {May 21}
+RBM18	Gasoline RBOB {Jun 18}
+RBM19	Gasoline RBOB {Jun 19}
+RBM20	Gasoline RBOB {Jun 20}
+RBM21	Gasoline RBOB {Jun 21}
+RBN18	Gasoline RBOB {Jul 18}
+RBN19	Gasoline RBOB {Jul 19}
+RBN20	Gasoline RBOB {Jul 20}
+RBN21	Gasoline RBOB {Jul 21}
+RBQ18	Gasoline RBOB {Aug 18}
+RBQ19	Gasoline RBOB {Aug 19}
+RBQ20	Gasoline RBOB {Aug 20}
+RBQ21	Gasoline RBOB {Aug 21}
+RBU18	Gasoline RBOB {Sep 18}
+RBU19	Gasoline RBOB {Sep 19}
+RBU20	Gasoline RBOB {Sep 20}
+RBU21	Gasoline RBOB {Sep 21}
+RBV18	Gasoline RBOB {Oct 18}
+RBV19	Gasoline RBOB {Oct 19}
+RBV20	Gasoline RBOB {Oct 20}
+RBV21	Gasoline RBOB {Oct 21}
+RBX18	Gasoline RBOB {Nov 18}
+RBX19	Gasoline RBOB {Nov 19}
+RBX20	Gasoline RBOB {Nov 20}
+RBX21	Gasoline RBOB {Nov 21}
+RBZ18	Gasoline RBOB {Dec 18}
+RBZ19	Gasoline RBOB {Dec 19}
+RBZ20	Gasoline RBOB {Dec 20}
+RBZ21	Gasoline RBOB {Dec 21}
+RT.C	Gasoline RBOB (F) Continuation
+RTF19	Gasoline RBOB (F) {Jan 19}
+RTF20	Gasoline RBOB (F) {Jan 20}
+RTF21	Gasoline RBOB (F) {Jan 21}
+RTG19	Gasoline RBOB (F) {Feb 19}
+RTG20	Gasoline RBOB (F) {Feb 20}
+RTG21	Gasoline RBOB (F) {Feb 21}
+RTH19	Gasoline RBOB (F) {Mar 19}
+RTH20	Gasoline RBOB (F) {Mar 20}
+RTH21	Gasoline RBOB (F) {Mar 21}
+RTJ19	Gasoline RBOB (F) {Apr 19}
+RTJ20	Gasoline RBOB (F) {Apr 20}
+RTJ21	Gasoline RBOB (F) {Apr 21}
+RTK18	Gasoline RBOB (F) {May 18}
+RTK19	Gasoline RBOB (F) {May 19}
+RTK20	Gasoline RBOB (F) {May 20}
+RTK21	Gasoline RBOB (F) {May 21}
+RTM18	Gasoline RBOB (F) {Jun 18}
+RTM19	Gasoline RBOB (F) {Jun 19}
+RTM20	Gasoline RBOB (F) {Jun 20}
+RTN18	Gasoline RBOB (F) {Jul 18}
+RTN19	Gasoline RBOB (F) {Jul 19}
+RTN20	Gasoline RBOB (F) {Jul 20}
+RTQ18	Gasoline RBOB (F) {Aug 18}
+RTQ19	Gasoline RBOB (F) {Aug 19}
+RTQ20	Gasoline RBOB (F) {Aug 20}
+RTU18	Gasoline RBOB (F) {Sep 18}
+RTU19	Gasoline RBOB (F) {Sep 19}
+RTU20	Gasoline RBOB (F) {Sep 20}
+RTV18	Gasoline RBOB (F) {Oct 18}
+RTV19	Gasoline RBOB (F) {Oct 19}
+RTV20	Gasoline RBOB (F) {Oct 20}
+RTX18	Gasoline RBOB (F) {Nov 18}
+RTX19	Gasoline RBOB (F) {Nov 19}
+RTX20	Gasoline RBOB (F) {Nov 20}
+RTZ18	Gasoline RBOB (F) {Dec 18}
+RTZ19	Gasoline RBOB (F) {Dec 19}
+RTZ20	Gasoline RBOB (F) {Dec 20}
+SC	Crude Oil Brent
+SC.C	Crude Oil Brent Continuation
+SCF19	Crude Oil Brent {Jan 19}
+SCF20	Crude Oil Brent {Jan 20}
+SCF21	Crude Oil Brent {Jan 21}
+SCF22	Crude Oil Brent {Jan 22}
+SCF23	Crude Oil Brent {Jan 23}
+SCF24	Crude Oil Brent {Jan 24}
+SCF25	Crude Oil Brent {Jan 25}
+SCG19	Crude Oil Brent {Feb 19}
+SCG20	Crude Oil Brent {Feb 20}
+SCG21	Crude Oil Brent {Feb 21}
+SCG22	Crude Oil Brent {Feb 22}
+SCG23	Crude Oil Brent {Feb 23}
+SCG24	Crude Oil Brent {Feb 24}
+SCG25	Crude Oil Brent {Feb 25}
+SCH19	Crude Oil Brent {Mar 19}
+SCH20	Crude Oil Brent {Mar 20}
+SCH21	Crude Oil Brent {Mar 21}
+SCH22	Crude Oil Brent {Mar 22}
+SCH23	Crude Oil Brent {Mar 23}
+SCH24	Crude Oil Brent {Mar 24}
+SCH25	Crude Oil Brent {Mar 25}
+SCJ19	Crude Oil Brent {Apr 19}
+SCJ20	Crude Oil Brent {Apr 20}
+SCJ21	Crude Oil Brent {Apr 21}
+SCJ22	Crude Oil Brent {Apr 22}
+SCJ23	Crude Oil Brent {Apr 23}
+SCJ24	Crude Oil Brent {Apr 24}
+SCJ25	Crude Oil Brent {Apr 25}
+SCK19	Crude Oil Brent {May 19}
+SCK20	Crude Oil Brent {May 20}
+SCK21	Crude Oil Brent {May 21}
+SCK22	Crude Oil Brent {May 22}
+SCK23	Crude Oil Brent {May 23}
+SCK24	Crude Oil Brent {May 24}
+SCK25	Crude Oil Brent {May 25}
+SCM18	Crude Oil Brent {Jun 18}
+SCM19	Crude Oil Brent {Jun 19}
+SCM20	Crude Oil Brent {Jun 20}
+SCM21	Crude Oil Brent {Jun 21}
+SCM22	Crude Oil Brent {Jun 22}
+SCM23	Crude Oil Brent {Jun 23}
+SCM24	Crude Oil Brent {Jun 24}
+SCM25	Crude Oil Brent {Jun 25}
+SCN18	Crude Oil Brent {Jul 18}
+SCN19	Crude Oil Brent {Jul 19}
+SCN20	Crude Oil Brent {Jul 20}
+SCN21	Crude Oil Brent {Jul 21}
+SCN22	Crude Oil Brent {Jul 22}
+SCN23	Crude Oil Brent {Jul 23}
+SCN24	Crude Oil Brent {Jul 24}
+SCN25	Crude Oil Brent {Jul 25}
+SCQ18	Crude Oil Brent {Aug 18}
+SCQ19	Crude Oil Brent {Aug 19}
+SCQ20	Crude Oil Brent {Aug 20}
+SCQ21	Crude Oil Brent {Aug 21}
+SCQ22	Crude Oil Brent {Aug 22}
+SCQ23	Crude Oil Brent {Aug 23}
+SCQ24	Crude Oil Brent {Aug 24}
+SCQ25	Crude Oil Brent {Aug 25}
+SCU18	Crude Oil Brent {Sep 18}
+SCU19	Crude Oil Brent {Sep 19}
+SCU20	Crude Oil Brent {Sep 20}
+SCU21	Crude Oil Brent {Sep 21}
+SCU22	Crude Oil Brent {Sep 22}
+SCU23	Crude Oil Brent {Sep 23}
+SCU24	Crude Oil Brent {Sep 24}
+SCU25	Crude Oil Brent {Sep 25}
+SCV18	Crude Oil Brent {Oct 18}
+SCV19	Crude Oil Brent {Oct 19}
+SCV20	Crude Oil Brent {Oct 20}
+SCV21	Crude Oil Brent {Oct 21}
+SCV22	Crude Oil Brent {Oct 22}
+SCV23	Crude Oil Brent {Oct 23}
+SCV24	Crude Oil Brent {Oct 24}
+SCV25	Crude Oil Brent {Oct 25}
+SCX18	Crude Oil Brent {Nov 18}
+SCX19	Crude Oil Brent {Nov 19}
+SCX20	Crude Oil Brent {Nov 20}
+SCX21	Crude Oil Brent {Nov 21}
+SCX22	Crude Oil Brent {Nov 22}
+SCX23	Crude Oil Brent {Nov 23}
+SCX24	Crude Oil Brent {Nov 24}
+SCX25	Crude Oil Brent {Nov 25}
+SCZ18	Crude Oil Brent {Dec 18}
+SCZ19	Crude Oil Brent {Dec 19}
+SCZ20	Crude Oil Brent {Dec 20}
+SCZ21	Crude Oil Brent {Dec 21}
+SCZ22	Crude Oil Brent {Dec 22}
+SCZ23	Crude Oil Brent {Dec 23}
+SCZ24	Crude Oil Brent {Dec 24}
+SCZ25	Crude Oil Brent {Dec 25}
+TR	Iron Ore 62% Fe CFR
+TR.C	Iron Ore 62% Fe CFR Continuation
+TRF19	Iron Ore 62% Fe CFR {Jan 19}
+TRF20	Iron Ore 62% Fe CFR {Jan 20}
+TRG19	Iron Ore 62% Fe CFR {Feb 19}
+TRG20	Iron Ore 62% Fe CFR {Feb 20}
+TRH19	Iron Ore 62% Fe CFR {Mar 19}
+TRH20	Iron Ore 62% Fe CFR {Mar 20}
+TRJ18	Iron Ore 62% Fe CFR {Apr 18}
+TRJ19	Iron Ore 62% Fe CFR {Apr 19}
+TRJ20	Iron Ore 62% Fe CFR {Apr 20}
+TRK18	Iron Ore 62% Fe CFR {May 18}
+TRK19	Iron Ore 62% Fe CFR {May 19}
+TRK20	Iron Ore 62% Fe CFR {May 20}
+TRM18	Iron Ore 62% Fe CFR {Jun 18}
+TRM19	Iron Ore 62% Fe CFR {Jun 19}
+TRM20	Iron Ore 62% Fe CFR {Jun 20}
+TRN18	Iron Ore 62% Fe CFR {Jul 18}
+TRN19	Iron Ore 62% Fe CFR {Jul 19}
+TRN20	Iron Ore 62% Fe CFR {Jul 20}
+TRQ18	Iron Ore 62% Fe CFR {Aug 18}
+TRQ19	Iron Ore 62% Fe CFR {Aug 19}
+TRQ20	Iron Ore 62% Fe CFR {Aug 20}
+TRU18	Iron Ore 62% Fe CFR {Sep 18}
+TRU19	Iron Ore 62% Fe CFR {Sep 19}
+TRU20	Iron Ore 62% Fe CFR {Sep 20}
+TRV18	Iron Ore 62% Fe CFR {Oct 18}
+TRV19	Iron Ore 62% Fe CFR {Oct 19}
+TRV20	Iron Ore 62% Fe CFR {Oct 20}
+TRX18	Iron Ore 62% Fe CFR {Nov 18}
+TRX19	Iron Ore 62% Fe CFR {Nov 19}
+TRX20	Iron Ore 62% Fe CFR {Nov 20}
+TRZ18	Iron Ore 62% Fe CFR {Dec 18}
+TRZ19	Iron Ore 62% Fe CFR {Dec 19}
+TRZ20	Iron Ore 62% Fe CFR {Dec 20}
+UX.C	Uranium Continuation
+UXF19	Uranium {Jan 19}
+UXF20	Uranium {Jan 20}
+UXG19	Uranium {Feb 19}
+UXG20	Uranium {Feb 20}
+UXH19	Uranium {Mar 19}
+UXH20	Uranium {Mar 20}
+UXJ18	Uranium {Apr 18}
+UXJ19	Uranium {Apr 19}
+UXK18	Uranium {May 18}
+UXK19	Uranium {May 19}
+UXM18	Uranium {Jun 18}
+UXM19	Uranium {Jun 19}
+UXN18	Uranium {Jul 18}
+UXN19	Uranium {Jul 19}
+UXQ18	Uranium {Aug 18}
+UXQ19	Uranium {Aug 19}
+UXU18	Uranium {Sep 18}
+UXU19	Uranium {Sep 19}
+UXV18	Uranium {Oct 18}
+UXV19	Uranium {Oct 19}
+UXX18	Uranium {Nov 18}
+UXX19	Uranium {Nov 19}
+UXZ18	Uranium {Dec 18}
+UXZ19	Uranium {Dec 19}
+VE	Crude Oil VIX
+WS.C	Crude Oil WTI (F) Continuation
+WSF19	Crude Oil WTI (F) {Jan 19}
+WSF20	Crude Oil WTI (F) {Jan 20}
+WSF21	Crude Oil WTI (F) {Jan 21}
+WSF22	Crude Oil WTI (F) {Jan 22}
+WSF23	Crude Oil WTI (F) {Jan 23}
+WSG19	Crude Oil WTI (F) {Feb 19}
+WSG20	Crude Oil WTI (F) {Feb 20}
+WSG21	Crude Oil WTI (F) {Feb 21}
+WSG22	Crude Oil WTI (F) {Feb 22}
+WSG23	Crude Oil WTI (F) {Feb 23}
+WSH19	Crude Oil WTI (F) {Mar 19}
+WSH20	Crude Oil WTI (F) {Mar 20}
+WSH21	Crude Oil WTI (F) {Mar 21}
+WSH22	Crude Oil WTI (F) {Mar 22}
+WSH23	Crude Oil WTI (F) {Mar 23}
+WSJ19	Crude Oil WTI (F) {Apr 19}
+WSJ20	Crude Oil WTI (F) {Apr 20}
+WSJ21	Crude Oil WTI (F) {Apr 21}
+WSJ22	Crude Oil WTI (F) {Apr 22}
+WSJ23	Crude Oil WTI (F) {Apr 23}
+WSK18	Crude Oil WTI (F) {May 18}
+WSK19	Crude Oil WTI (F) {May 19}
+WSK20	Crude Oil WTI (F) {May 20}
+WSK21	Crude Oil WTI (F) {May 21}
+WSK22	Crude Oil WTI (F) {May 22}
+WSK23	Crude Oil WTI (F) {May 23}
+WSM18	Crude Oil WTI (F) {Jun 18}
+WSM19	Crude Oil WTI (F) {Jun 19}
+WSM20	Crude Oil WTI (F) {Jun 20}
+WSM21	Crude Oil WTI (F) {Jun 21}
+WSM22	Crude Oil WTI (F) {Jun 22}
+WSM23	Crude Oil WTI (F) {Jun 23}
+WSM24	Crude Oil WTI (F) {Jun 24}
+WSM25	Crude Oil WTI (F) {Jun 25}
+WSM26	Crude Oil WTI (F) {Jun 26}
+WSN18	Crude Oil WTI (F) {Jul 18}
+WSN19	Crude Oil WTI (F) {Jul 19}
+WSN20	Crude Oil WTI (F) {Jul 20}
+WSN21	Crude Oil WTI (F) {Jul 21}
+WSN22	Crude Oil WTI (F) {Jul 22}
+WSN23	Crude Oil WTI (F) {Jul 23}
+WSQ18	Crude Oil WTI (F) {Aug 18}
+WSQ19	Crude Oil WTI (F) {Aug 19}
+WSQ20	Crude Oil WTI (F) {Aug 20}
+WSQ21	Crude Oil WTI (F) {Aug 21}
+WSQ22	Crude Oil WTI (F) {Aug 22}
+WSQ23	Crude Oil WTI (F) {Aug 23}
+WSU18	Crude Oil WTI (F) {Sep 18}
+WSU19	Crude Oil WTI (F) {Sep 19}
+WSU20	Crude Oil WTI (F) {Sep 20}
+WSU21	Crude Oil WTI (F) {Sep 21}
+WSU22	Crude Oil WTI (F) {Sep 22}
+WSU23	Crude Oil WTI (F) {Sep 23}
+WSV18	Crude Oil WTI (F) {Oct 18}
+WSV19	Crude Oil WTI (F) {Oct 19}
+WSV20	Crude Oil WTI (F) {Oct 20}
+WSV21	Crude Oil WTI (F) {Oct 21}
+WSV22	Crude Oil WTI (F) {Oct 22}
+WSV23	Crude Oil WTI (F) {Oct 23}
+WSX18	Crude Oil WTI (F) {Nov 18}
+WSX19	Crude Oil WTI (F) {Nov 19}
+WSX20	Crude Oil WTI (F) {Nov 20}
+WSX21	Crude Oil WTI (F) {Nov 21}
+WSX22	Crude Oil WTI (F) {Nov 22}
+WSX23	Crude Oil WTI (F) {Nov 23}
+WSZ18	Crude Oil WTI (F) {Dec 18}
+WSZ19	Crude Oil WTI (F) {Dec 19}
+WSZ20	Crude Oil WTI (F) {Dec 20}
+WSZ21	Crude Oil WTI (F) {Dec 21}
+WSZ22	Crude Oil WTI (F) {Dec 22}
+WSZ23	Crude Oil WTI (F) {Dec 23}
+WSZ24	Crude Oil WTI (F) {Dec 24}
+WSZ25	Crude Oil WTI (F) {Dec 25}
+WSZ26	Crude Oil WTI (F) {Dec 26}

@@ -1,0 +1,784 @@
+Symbol	Description
+AH	BBerg Commodity Inde
+AH.C	BBerg Commodity Inde Continuation
+AHH19	BBerg Commodity Inde {Mar 19}
+AHM18	BBerg Commodity Inde {Jun 18}
+AHU18	BBerg Commodity Inde {Sep 18}
+AHZ18	BBerg Commodity Inde {Dec 18}
+AHZ19	BBerg Commodity Inde {Dec 19}
+AHZ20	BBerg Commodity Inde {Dec 20}
+AHZ21	BBerg Commodity Inde {Dec 21}
+AHZ22	BBerg Commodity Inde {Dec 22}
+AK	Ethanol Futures (Pit
+AK.C	Ethanol Futures (Pit Continuation
+AKF19	Ethanol Futures (Pit {Jan 19}
+AKF20	Ethanol Futures (Pit {Jan 20}
+AKF21	Ethanol Futures (Pit {Jan 21}
+AKG19	Ethanol Futures (Pit {Feb 19}
+AKG20	Ethanol Futures (Pit {Feb 20}
+AKG21	Ethanol Futures (Pit {Feb 21}
+AKH19	Ethanol Futures (Pit {Mar 19}
+AKH20	Ethanol Futures (Pit {Mar 20}
+AKH21	Ethanol Futures (Pit {Mar 21}
+AKJ19	Ethanol Futures (Pit {Apr 19}
+AKJ20	Ethanol Futures (Pit {Apr 20}
+AKJ21	Ethanol Futures (Pit {Apr 21}
+AKK18	Ethanol Futures (Pit {May 18}
+AKK19	Ethanol Futures (Pit {May 19}
+AKK20	Ethanol Futures (Pit {May 20}
+AKK21	Ethanol Futures (Pit {May 21}
+AKM18	Ethanol Futures (Pit {Jun 18}
+AKM19	Ethanol Futures (Pit {Jun 19}
+AKM20	Ethanol Futures (Pit {Jun 20}
+AKN18	Ethanol Futures (Pit {Jul 18}
+AKN19	Ethanol Futures (Pit {Jul 19}
+AKN20	Ethanol Futures (Pit {Jul 20}
+AKQ18	Ethanol Futures (Pit {Aug 18}
+AKQ19	Ethanol Futures (Pit {Aug 19}
+AKQ20	Ethanol Futures (Pit {Aug 20}
+AKU18	Ethanol Futures (Pit {Sep 18}
+AKU19	Ethanol Futures (Pit {Sep 19}
+AKU20	Ethanol Futures (Pit {Sep 20}
+AKV18	Ethanol Futures (Pit {Oct 18}
+AKV19	Ethanol Futures (Pit {Oct 19}
+AKV20	Ethanol Futures (Pit {Oct 20}
+AKX18	Ethanol Futures (Pit {Nov 18}
+AKX19	Ethanol Futures (Pit {Nov 19}
+AKX20	Ethanol Futures (Pit {Nov 20}
+AKZ18	Ethanol Futures (Pit {Dec 18}
+AKZ19	Ethanol Futures (Pit {Dec 19}
+AKZ20	Ethanol Futures (Pit {Dec 20}
+BO	Soybean Oil (Pit)
+BO.C	Soybean Oil (Pit) Continuation
+BOF19	Soybean Oil (Pit) {Jan 19}
+BOF20	Soybean Oil (Pit) {Jan 20}
+BOH19	Soybean Oil (Pit) {Mar 19}
+BOH20	Soybean Oil (Pit) {Mar 20}
+BOK18	Soybean Oil (Pit) {May 18}
+BOK19	Soybean Oil (Pit) {May 19}
+BOK20	Soybean Oil (Pit) {May 20}
+BON18	Soybean Oil (Pit) {Jul 18}
+BON19	Soybean Oil (Pit) {Jul 19}
+BON20	Soybean Oil (Pit) {Jul 20}
+BON21	Soybean Oil (Pit) {Jul 21}
+BOQ18	Soybean Oil (Pit) {Aug 18}
+BOQ19	Soybean Oil (Pit) {Aug 19}
+BOQ20	Soybean Oil (Pit) {Aug 20}
+BOU18	Soybean Oil (Pit) {Sep 18}
+BOU19	Soybean Oil (Pit) {Sep 19}
+BOU20	Soybean Oil (Pit) {Sep 20}
+BOV18	Soybean Oil (Pit) {Oct 18}
+BOV19	Soybean Oil (Pit) {Oct 19}
+BOV20	Soybean Oil (Pit) {Oct 20}
+BOV21	Soybean Oil (Pit) {Oct 21}
+BOZ18	Soybean Oil (Pit) {Dec 18}
+BOZ19	Soybean Oil (Pit) {Dec 19}
+BOZ20	Soybean Oil (Pit) {Dec 20}
+BOZ21	Soybean Oil (Pit) {Dec 21}
+C	Corn (Pit)
+C.C	Corn (Pit) Continuation
+CH19	Corn (Pit) {Mar 19}
+CH20	Corn (Pit) {Mar 20}
+CK18	Corn (Pit) {May 18}
+CK19	Corn (Pit) {May 19}
+CK20	Corn (Pit) {May 20}
+CN18	Corn (Pit) {Jul 18}
+CN19	Corn (Pit) {Jul 19}
+CN20	Corn (Pit) {Jul 20}
+CN21	Corn (Pit) {Jul 21}
+CS.C	Soybean Crush Continuation
+CSF19	Soybean Crush {Jan 19}
+CSH19	Soybean Crush {Mar 19}
+CSK18	Soybean Crush {May 18}
+CSK19	Soybean Crush {May 19}
+CSN18	Soybean Crush {Jul 18}
+CSN19	Soybean Crush {Jul 19}
+CSQ18	Soybean Crush {Aug 18}
+CSQ19	Soybean Crush {Aug 19}
+CSU18	Soybean Crush {Sep 18}
+CSV18	Soybean Crush {Oct 18}
+CSZ18	Soybean Crush {Dec 18}
+CU18	Corn (Pit) {Sep 18}
+CU19	Corn (Pit) {Sep 19}
+CU20	Corn (Pit) {Sep 20}
+CZ18	Corn (Pit) {Dec 18}
+CZ19	Corn (Pit) {Dec 19}
+CZ20	Corn (Pit) {Dec 20}
+CZ21	Corn (Pit) {Dec 21}
+D1	Wheat VIX
+DH	DJ Real Estate Index
+DH.C	DJ Real Estate Index Continuation
+DHH19	DJ Real Estate Index {Mar 19}
+DHM18	DJ Real Estate Index {Jun 18}
+DHU18	DJ Real Estate Index {Sep 18}
+DHZ18	DJ Real Estate Index {Dec 18}
+DJ	DJIA
+F0.C	Urea FOB Egypt Swap Continuation
+F0J18	Urea FOB Egypt Swap {Apr 18}
+F0K18	Urea FOB Egypt Swap {May 18}
+F3	Australian Wheat FOB
+F3.C	Australian Wheat FOB Continuation
+F3F19	Australian Wheat FOB {Jan 19}
+F3G19	Australian Wheat FOB {Feb 19}
+F3H19	Australian Wheat FOB {Mar 19}
+F3J18	Australian Wheat FOB {Apr 18}
+F3J19	Australian Wheat FOB {Apr 19}
+F3K18	Australian Wheat FOB {May 18}
+F3M18	Australian Wheat FOB {Jun 18}
+F3N18	Australian Wheat FOB {Jul 18}
+F3Q18	Australian Wheat FOB {Aug 18}
+F3U18	Australian Wheat FOB {Sep 18}
+F3V18	Australian Wheat FOB {Oct 18}
+F3X18	Australian Wheat FOB {Nov 18}
+F3Z18	Australian Wheat FOB {Dec 18}
+F4	Urea FOB MidEast Swa
+F4.C	Urea FOB MidEast Swa Continuation
+F4J18	Urea FOB MidEast Swa {Apr 18}
+F4K18	Urea FOB MidEast Swa {May 18}
+F4M18	Urea FOB MidEast Swa {Jun 18}
+F5.C	Urea FOB NOLA Swap Continuation
+F5F19	Urea FOB NOLA Swap {Jan 19}
+F5G19	Urea FOB NOLA Swap {Feb 19}
+F5H19	Urea FOB NOLA Swap {Mar 19}
+F5J18	Urea FOB NOLA Swap {Apr 18}
+F5K18	Urea FOB NOLA Swap {May 18}
+F5M18	Urea FOB NOLA Swap {Jun 18}
+F5N18	Urea FOB NOLA Swap {Jul 18}
+F5Q18	Urea FOB NOLA Swap {Aug 18}
+F5U18	Urea FOB NOLA Swap {Sep 18}
+F5V18	Urea FOB NOLA Swap {Oct 18}
+F5X18	Urea FOB NOLA Swap {Nov 18}
+F5Z18	Urea FOB NOLA Swap {Dec 18}
+F7.C	UAN FOB NOLA Swap Continuation
+F7J18	UAN FOB NOLA Swap {Apr 18}
+F7K18	UAN FOB NOLA Swap {May 18}
+F7M18	UAN FOB NOLA Swap {Jun 18}
+F7N18	UAN FOB NOLA Swap {Jul 18}
+F7Q18	UAN FOB NOLA Swap {Aug 18}
+F7U18	UAN FOB NOLA Swap {Sep 18}
+F7V18	UAN FOB NOLA Swap {Oct 18}
+F7X18	UAN FOB NOLA Swap {Nov 18}
+F7Z18	UAN FOB NOLA Swap {Dec 18}
+F8.C	DAP FOB NOLA Swap Continuation
+F8J18	DAP FOB NOLA Swap {Apr 18}
+F8K18	DAP FOB NOLA Swap {May 18}
+F8N18	DAP FOB NOLA Swap {Jul 18}
+F8Q18	DAP FOB NOLA Swap {Aug 18}
+F8U18	DAP FOB NOLA Swap {Sep 18}
+F8V18	DAP FOB NOLA Swap {Oct 18}
+F8X18	DAP FOB NOLA Swap {Nov 18}
+F8Z18	DAP FOB NOLA Swap {Dec 18}
+FF	30-Day Fed Funds(Pit
+FF.C	30-Day Fed Funds(Pit Continuation
+FFF19	30-Day Fed Funds(Pit {Jan 19}
+FFF20	30-Day Fed Funds(Pit {Jan 20}
+FFF21	30-Day Fed Funds(Pit {Jan 21}
+FFG19	30-Day Fed Funds(Pit {Feb 19}
+FFG20	30-Day Fed Funds(Pit {Feb 20}
+FFG21	30-Day Fed Funds(Pit {Feb 21}
+FFH19	30-Day Fed Funds(Pit {Mar 19}
+FFH20	30-Day Fed Funds(Pit {Mar 20}
+FFH21	30-Day Fed Funds(Pit {Mar 21}
+FFJ18	30-Day Fed Funds(Pit {Apr 18}
+FFJ19	30-Day Fed Funds(Pit {Apr 19}
+FFJ20	30-Day Fed Funds(Pit {Apr 20}
+FFJ21	30-Day Fed Funds(Pit {Apr 21}
+FFK18	30-Day Fed Funds(Pit {May 18}
+FFK19	30-Day Fed Funds(Pit {May 19}
+FFK20	30-Day Fed Funds(Pit {May 20}
+FFM18	30-Day Fed Funds(Pit {Jun 18}
+FFM19	30-Day Fed Funds(Pit {Jun 19}
+FFM20	30-Day Fed Funds(Pit {Jun 20}
+FFN18	30-Day Fed Funds(Pit {Jul 18}
+FFN19	30-Day Fed Funds(Pit {Jul 19}
+FFN20	30-Day Fed Funds(Pit {Jul 20}
+FFQ18	30-Day Fed Funds(Pit {Aug 18}
+FFQ19	30-Day Fed Funds(Pit {Aug 19}
+FFQ20	30-Day Fed Funds(Pit {Aug 20}
+FFU18	30-Day Fed Funds(Pit {Sep 18}
+FFU19	30-Day Fed Funds(Pit {Sep 19}
+FFU20	30-Day Fed Funds(Pit {Sep 20}
+FFV18	30-Day Fed Funds(Pit {Oct 18}
+FFV19	30-Day Fed Funds(Pit {Oct 19}
+FFV20	30-Day Fed Funds(Pit {Oct 20}
+FFX18	30-Day Fed Funds(Pit {Nov 18}
+FFX19	30-Day Fed Funds(Pit {Nov 19}
+FFX20	30-Day Fed Funds(Pit {Nov 20}
+FFZ18	30-Day Fed Funds(Pit {Dec 18}
+FFZ19	30-Day Fed Funds(Pit {Dec 19}
+FFZ20	30-Day Fed Funds(Pit {Dec 20}
+FV.C	5-Year T-Note (Pit) Continuation
+FVM18	5-Year T-Note (Pit) {Jun 18}
+FVU18	5-Year T-Note (Pit) {Sep 18}
+FVZ18	5-Year T-Note (Pit) {Dec 18}
+FZ.C	Ethanol Forward Continuation
+FZF19	Ethanol Forward {Jan 19}
+FZF20	Ethanol Forward {Jan 20}
+FZF21	Ethanol Forward {Jan 21}
+FZG19	Ethanol Forward {Feb 19}
+FZG20	Ethanol Forward {Feb 20}
+FZG21	Ethanol Forward {Feb 21}
+FZH19	Ethanol Forward {Mar 19}
+FZH20	Ethanol Forward {Mar 20}
+FZH21	Ethanol Forward {Mar 21}
+FZJ18	Ethanol Forward {Apr 18}
+FZJ19	Ethanol Forward {Apr 19}
+FZJ20	Ethanol Forward {Apr 20}
+FZJ21	Ethanol Forward {Apr 21}
+FZK18	Ethanol Forward {May 18}
+FZK19	Ethanol Forward {May 19}
+FZK20	Ethanol Forward {May 20}
+FZM18	Ethanol Forward {Jun 18}
+FZM19	Ethanol Forward {Jun 19}
+FZM20	Ethanol Forward {Jun 20}
+FZN18	Ethanol Forward {Jul 18}
+FZN19	Ethanol Forward {Jul 19}
+FZN20	Ethanol Forward {Jul 20}
+FZQ18	Ethanol Forward {Aug 18}
+FZQ19	Ethanol Forward {Aug 19}
+FZQ20	Ethanol Forward {Aug 20}
+FZU18	Ethanol Forward {Sep 18}
+FZU19	Ethanol Forward {Sep 19}
+FZU20	Ethanol Forward {Sep 20}
+FZV18	Ethanol Forward {Oct 18}
+FZV19	Ethanol Forward {Oct 19}
+FZV20	Ethanol Forward {Oct 20}
+FZX18	Ethanol Forward {Nov 18}
+FZX19	Ethanol Forward {Nov 19}
+FZX20	Ethanol Forward {Nov 20}
+FZZ18	Ethanol Forward {Dec 18}
+FZZ19	Ethanol Forward {Dec 19}
+FZZ20	Ethanol Forward {Dec 20}
+KF.C	Black Sea Wheat Continuation
+KFF19	Black Sea Wheat {Jan 19}
+KFG19	Black Sea Wheat {Feb 19}
+KFH19	Black Sea Wheat {Mar 19}
+KFJ18	Black Sea Wheat {Apr 18}
+KFJ19	Black Sea Wheat {Apr 19}
+KFK18	Black Sea Wheat {May 18}
+KFM18	Black Sea Wheat {Jun 18}
+KFN18	Black Sea Wheat {Jul 18}
+KFQ18	Black Sea Wheat {Aug 18}
+KFU18	Black Sea Wheat {Sep 18}
+KFV18	Black Sea Wheat {Oct 18}
+KFX18	Black Sea Wheat {Nov 18}
+KFZ18	Black Sea Wheat {Dec 18}
+KH.C	Black Sea Corn Continuation
+KHF19	Black Sea Corn {Jan 19}
+KHG19	Black Sea Corn {Feb 19}
+KHH19	Black Sea Corn {Mar 19}
+KHJ18	Black Sea Corn {Apr 18}
+KHJ19	Black Sea Corn {Apr 19}
+KHK18	Black Sea Corn {May 18}
+KHM18	Black Sea Corn {Jun 18}
+KHN18	Black Sea Corn {Jul 18}
+KHQ18	Black Sea Corn {Aug 18}
+KHU18	Black Sea Corn {Sep 18}
+KHV18	Black Sea Corn {Oct 18}
+KHX18	Black Sea Corn {Nov 18}
+KHZ18	Black Sea Corn {Dec 18}
+M0M18	2-Year EUR I/R Swap {Jun 18}
+M0U18	2-Year EUR I/R Swap {Sep 18}
+M1M18	5-Year EUR I/R Swap {Jun 18}
+M1U18	5-Year EUR I/R Swap {Sep 18}
+M2M18	10-Year EUR I/R Swap {Jun 18}
+M2U18	10-Year EUR I/R Swap {Sep 18}
+MK	HRW Wheat mini-sized
+MK.C	HRW Wheat mini-sized Continuation
+MKH19	HRW Wheat mini-sized {Mar 19}
+MKH20	HRW Wheat mini-sized {Mar 20}
+MKK18	HRW Wheat mini-sized {May 18}
+MKK19	HRW Wheat mini-sized {May 19}
+MKK20	HRW Wheat mini-sized {May 20}
+MKN18	HRW Wheat mini-sized {Jul 18}
+MKN19	HRW Wheat mini-sized {Jul 19}
+MKN20	HRW Wheat mini-sized {Jul 20}
+MKU18	HRW Wheat mini-sized {Sep 18}
+MKU19	HRW Wheat mini-sized {Sep 19}
+MKZ18	HRW Wheat mini-sized {Dec 18}
+MKZ19	HRW Wheat mini-sized {Dec 19}
+O	Oats (Pit)
+O.C	Oats (Pit) Continuation
+OH19	Oats (Pit) {Mar 19}
+OH20	Oats (Pit) {Mar 20}
+OK18	Oats (Pit) {May 18}
+OK19	Oats (Pit) {May 19}
+ON18	Oats (Pit) {Jul 18}
+ON19	Oats (Pit) {Jul 19}
+ON20	Oats (Pit) {Jul 20}
+OU18	Oats (Pit) {Sep 18}
+OU19	Oats (Pit) {Sep 19}
+OU20	Oats (Pit) {Sep 20}
+OZ18	Oats (Pit) {Dec 18}
+OZ19	Oats (Pit) {Dec 19}
+RD.C	2-Year USD I/R Swap Continuation
+RDM18	2-Year USD I/R Swap {Jun 18}
+RDU18	2-Year USD I/R Swap {Sep 18}
+RH.C	5-Year USD I/R Swap Continuation
+RHM18	5-Year USD I/R Swap {Jun 18}
+RHU18	5-Year USD I/R Swap {Sep 18}
+RQ.C	10-Year USD I/R Swap Continuation
+RQM18	10-Year USD I/R Swap {Jun 18}
+RQU18	10-Year USD I/R Swap {Sep 18}
+RR	Rough Rice (Pit)
+RR.C	Rough Rice (Pit) Continuation
+RRF19	Rough Rice (Pit) {Jan 19}
+RRH19	Rough Rice (Pit) {Mar 19}
+RRK18	Rough Rice (Pit) {May 18}
+RRK19	Rough Rice (Pit) {May 19}
+RRN18	Rough Rice (Pit) {Jul 18}
+RRU18	Rough Rice (Pit) {Sep 18}
+RRX18	Rough Rice (Pit) {Nov 18}
+RW.C	30-Year USD I/R Swap Continuation
+RWM18	30-Year USD I/R Swap {Jun 18}
+RWU18	30-Year USD I/R Swap {Sep 18}
+S	Soybeans (Pit)
+S.C	Soybeans (Pit) Continuation
+SA.C	7-Year USD I/R Swap Continuation
+SAM18	7-Year USD I/R Swap {Jun 18}
+SAU18	7-Year USD I/R Swap {Sep 18}
+SF19	Soybeans (Pit) {Jan 19}
+SF20	Soybeans (Pit) {Jan 20}
+SH19	Soybeans (Pit) {Mar 19}
+SH20	Soybeans (Pit) {Mar 20}
+SK18	Soybeans (Pit) {May 18}
+SK19	Soybeans (Pit) {May 19}
+SK20	Soybeans (Pit) {May 20}
+SM	Soybean Meal (Pit)
+SM.C	Soybean Meal (Pit) Continuation
+SMF19	Soybean Meal (Pit) {Jan 19}
+SMF20	Soybean Meal (Pit) {Jan 20}
+SMH19	Soybean Meal (Pit) {Mar 19}
+SMH20	Soybean Meal (Pit) {Mar 20}
+SMK18	Soybean Meal (Pit) {May 18}
+SMK19	Soybean Meal (Pit) {May 19}
+SMK20	Soybean Meal (Pit) {May 20}
+SMN18	Soybean Meal (Pit) {Jul 18}
+SMN19	Soybean Meal (Pit) {Jul 19}
+SMN20	Soybean Meal (Pit) {Jul 20}
+SMN21	Soybean Meal (Pit) {Jul 21}
+SMQ18	Soybean Meal (Pit) {Aug 18}
+SMQ19	Soybean Meal (Pit) {Aug 19}
+SMQ20	Soybean Meal (Pit) {Aug 20}
+SMU18	Soybean Meal (Pit) {Sep 18}
+SMU19	Soybean Meal (Pit) {Sep 19}
+SMU20	Soybean Meal (Pit) {Sep 20}
+SMV18	Soybean Meal (Pit) {Oct 18}
+SMV19	Soybean Meal (Pit) {Oct 19}
+SMV20	Soybean Meal (Pit) {Oct 20}
+SMV21	Soybean Meal (Pit) {Oct 21}
+SMZ18	Soybean Meal (Pit) {Dec 18}
+SMZ19	Soybean Meal (Pit) {Dec 19}
+SMZ20	Soybean Meal (Pit) {Dec 20}
+SMZ21	Soybean Meal (Pit) {Dec 21}
+SN18	Soybeans (Pit) {Jul 18}
+SN19	Soybeans (Pit) {Jul 19}
+SN20	Soybeans (Pit) {Jul 20}
+SN21	Soybeans (Pit) {Jul 21}
+SQ18	Soybeans (Pit) {Aug 18}
+SQ19	Soybeans (Pit) {Aug 19}
+SQ20	Soybeans (Pit) {Aug 20}
+SR.C	20-Year USD I/R Swap Continuation
+SRM18	20-Year USD I/R Swap {Jun 18}
+SRU18	20-Year USD I/R Swap {Sep 18}
+SU18	Soybeans (Pit) {Sep 18}
+SU19	Soybeans (Pit) {Sep 19}
+SU20	Soybeans (Pit) {Sep 20}
+SX18	Soybeans (Pit) {Nov 18}
+SX19	Soybeans (Pit) {Nov 19}
+SX20	Soybeans (Pit) {Nov 20}
+SX21	Soybeans (Pit) {Nov 21}
+TF.C	3-Year T-Note (Pit) Continuation
+TFM18	3-Year T-Note (Pit) {Jun 18}
+TFU18	3-Year T-Note (Pit) {Sep 18}
+TFZ18	3-Year T-Note (Pit) {Dec 18}
+TN.C	Ultra 10-Year T-Note Continuation
+TNM18	Ultra 10-Year T-Note {Jun 18}
+TNU18	Ultra 10-Year T-Note {Sep 18}
+TNZ18	Ultra 10-Year T-Note {Dec 18}
+TU.C	2-Year T-Note (Pit) Continuation
+TUM18	2-Year T-Note (Pit) {Jun 18}
+TUU18	2-Year T-Note (Pit) {Sep 18}
+TUZ18	2-Year T-Note (Pit) {Dec 18}
+TY.C	10-Year T-Note (Pit) Continuation
+TYM18	10-Year T-Note (Pit) {Jun 18}
+TYU18	10-Year T-Note (Pit) {Sep 18}
+TYZ18	10-Year T-Note (Pit) {Dec 18}
+UD.C	Ultra T-Bond Continuation
+UDM18	Ultra T-Bond {Jun 18}
+UDU18	Ultra T-Bond {Sep 18}
+UDZ18	Ultra T-Bond {Dec 18}
+UL.C	Ultra T-Bond (Pit) Continuation
+ULM18	Ultra T-Bond (Pit) {Jun 18}
+ULU18	Ultra T-Bond (Pit) {Sep 18}
+ULZ18	Ultra T-Bond (Pit) {Dec 18}
+US.C	T-Bond (Pit) Continuation
+USM18	T-Bond (Pit) {Jun 18}
+USU18	T-Bond (Pit) {Sep 18}
+USZ18	T-Bond (Pit) {Dec 18}
+VO	Corn VIX
+W	Wheat (Pit)
+W.C	Wheat (Pit) Continuation
+WH19	Wheat (Pit) {Mar 19}
+WH20	Wheat (Pit) {Mar 20}
+WK18	Wheat (Pit) {May 18}
+WK19	Wheat (Pit) {May 19}
+WK20	Wheat (Pit) {May 20}
+WL.C	EU Wheat Continuation
+WLH19	EU Wheat {Mar 19}
+WLH20	EU Wheat {Mar 20}
+WLK18	EU Wheat {May 18}
+WLK19	EU Wheat {May 19}
+WLU18	EU Wheat {Sep 18}
+WLU19	EU Wheat {Sep 19}
+WLZ18	EU Wheat {Dec 18}
+WLZ19	EU Wheat {Dec 19}
+WN18	Wheat (Pit) {Jul 18}
+WN19	Wheat (Pit) {Jul 19}
+WN20	Wheat (Pit) {Jul 20}
+WU18	Wheat (Pit) {Sep 18}
+WU19	Wheat (Pit) {Sep 19}
+WX	Soybean VIX
+WZ18	Wheat (Pit) {Dec 18}
+WZ19	Wheat (Pit) {Dec 19}
+XK.C	Soybeans mini-sized Continuation
+XKF19	Soybeans mini-sized {Jan 19}
+XKF20	Soybeans mini-sized {Jan 20}
+XKH19	Soybeans mini-sized {Mar 19}
+XKH20	Soybeans mini-sized {Mar 20}
+XKK18	Soybeans mini-sized {May 18}
+XKK19	Soybeans mini-sized {May 19}
+XKK20	Soybeans mini-sized {May 20}
+XKN18	Soybeans mini-sized {Jul 18}
+XKN19	Soybeans mini-sized {Jul 19}
+XKN20	Soybeans mini-sized {Jul 20}
+XKN21	Soybeans mini-sized {Jul 21}
+XKQ18	Soybeans mini-sized {Aug 18}
+XKQ19	Soybeans mini-sized {Aug 19}
+XKQ20	Soybeans mini-sized {Aug 20}
+XKU18	Soybeans mini-sized {Sep 18}
+XKU19	Soybeans mini-sized {Sep 19}
+XKU20	Soybeans mini-sized {Sep 20}
+XKX18	Soybeans mini-sized {Nov 18}
+XKX19	Soybeans mini-sized {Nov 19}
+XKX20	Soybeans mini-sized {Nov 20}
+XKX21	Soybeans mini-sized {Nov 21}
+XN.C	Corn mini-sized Continuation
+XNH19	Corn mini-sized {Mar 19}
+XNH20	Corn mini-sized {Mar 20}
+XNK18	Corn mini-sized {May 18}
+XNK19	Corn mini-sized {May 19}
+XNK20	Corn mini-sized {May 20}
+XNN18	Corn mini-sized {Jul 18}
+XNN19	Corn mini-sized {Jul 19}
+XNN20	Corn mini-sized {Jul 20}
+XNN21	Corn mini-sized {Jul 21}
+XNU18	Corn mini-sized {Sep 18}
+XNU19	Corn mini-sized {Sep 19}
+XNU20	Corn mini-sized {Sep 20}
+XNZ18	Corn mini-sized {Dec 18}
+XNZ19	Corn mini-sized {Dec 19}
+XNZ20	Corn mini-sized {Dec 20}
+XNZ21	Corn mini-sized {Dec 21}
+XW.C	Wheat mini-sized Continuation
+XWH19	Wheat mini-sized {Mar 19}
+XWH20	Wheat mini-sized {Mar 20}
+XWK18	Wheat mini-sized {May 18}
+XWK19	Wheat mini-sized {May 19}
+XWK20	Wheat mini-sized {May 20}
+XWN18	Wheat mini-sized {Jul 18}
+XWN19	Wheat mini-sized {Jul 19}
+XWN20	Wheat mini-sized {Jul 20}
+XWU18	Wheat mini-sized {Sep 18}
+XWU19	Wheat mini-sized {Sep 19}
+XWZ18	Wheat mini-sized {Dec 18}
+XWZ19	Wheat mini-sized {Dec 19}
+YC.C	Corn mini-sized (Pit Continuation
+YCH19	Corn mini-sized (Pit {Mar 19}
+YCH20	Corn mini-sized (Pit {Mar 20}
+YCK18	Corn mini-sized (Pit {May 18}
+YCK19	Corn mini-sized (Pit {May 19}
+YCK20	Corn mini-sized (Pit {May 20}
+YCN18	Corn mini-sized (Pit {Jul 18}
+YCN19	Corn mini-sized (Pit {Jul 19}
+YCN20	Corn mini-sized (Pit {Jul 20}
+YCN21	Corn mini-sized (Pit {Jul 21}
+YCU18	Corn mini-sized (Pit {Sep 18}
+YCU19	Corn mini-sized (Pit {Sep 19}
+YCU20	Corn mini-sized (Pit {Sep 20}
+YCZ18	Corn mini-sized (Pit {Dec 18}
+YCZ19	Corn mini-sized (Pit {Dec 19}
+YCZ20	Corn mini-sized (Pit {Dec 20}
+YCZ21	Corn mini-sized (Pit {Dec 21}
+YK.C	Soybeans mini-siz(P) Continuation
+YKF19	Soybeans mini-siz(P) {Jan 19}
+YKF20	Soybeans mini-siz(P) {Jan 20}
+YKH19	Soybeans mini-siz(P) {Mar 19}
+YKH20	Soybeans mini-siz(P) {Mar 20}
+YKK18	Soybeans mini-siz(P) {May 18}
+YKK19	Soybeans mini-siz(P) {May 19}
+YKK20	Soybeans mini-siz(P) {May 20}
+YKN18	Soybeans mini-siz(P) {Jul 18}
+YKN19	Soybeans mini-siz(P) {Jul 19}
+YKN20	Soybeans mini-siz(P) {Jul 20}
+YKN21	Soybeans mini-siz(P) {Jul 21}
+YKQ18	Soybeans mini-siz(P) {Aug 18}
+YKQ19	Soybeans mini-siz(P) {Aug 19}
+YKQ20	Soybeans mini-siz(P) {Aug 20}
+YKU18	Soybeans mini-siz(P) {Sep 18}
+YKU19	Soybeans mini-siz(P) {Sep 19}
+YKU20	Soybeans mini-siz(P) {Sep 20}
+YKX18	Soybeans mini-siz(P) {Nov 18}
+YKX19	Soybeans mini-siz(P) {Nov 19}
+YKX20	Soybeans mini-siz(P) {Nov 20}
+YKX21	Soybeans mini-siz(P) {Nov 21}
+YM	Dow Indu 30 E-Mini
+YM.C	Dow Indu 30 E-Mini Continuation
+YMH19	Dow Indu 30 E-Mini {Mar 19}
+YMM18	Dow Indu 30 E-Mini {Jun 18}
+YMU18	Dow Indu 30 E-Mini {Sep 18}
+YMZ18	Dow Indu 30 E-Mini {Dec 18}
+YW.C	Wheat mini-sized(Pit Continuation
+YWH19	Wheat mini-sized(Pit {Mar 19}
+YWH20	Wheat mini-sized(Pit {Mar 20}
+YWK18	Wheat mini-sized(Pit {May 18}
+YWK19	Wheat mini-sized(Pit {May 19}
+YWK20	Wheat mini-sized(Pit {May 20}
+YWN18	Wheat mini-sized(Pit {Jul 18}
+YWN19	Wheat mini-sized(Pit {Jul 19}
+YWN20	Wheat mini-sized(Pit {Jul 20}
+YWU18	Wheat mini-sized(Pit {Sep 18}
+YWU19	Wheat mini-sized(Pit {Sep 19}
+YWZ18	Wheat mini-sized(Pit {Dec 18}
+YWZ19	Wheat mini-sized(Pit {Dec 19}
+ZB.C	T-Bond Continuation
+ZBM18	T-Bond {Jun 18}
+ZBU18	T-Bond {Sep 18}
+ZBZ18	T-Bond {Dec 18}
+ZC	Corn
+ZC.C	Corn Continuation
+ZCH19	Corn {Mar 19}
+ZCH20	Corn {Mar 20}
+ZCK18	Corn {May 18}
+ZCK19	Corn {May 19}
+ZCK20	Corn {May 20}
+ZCN18	Corn {Jul 18}
+ZCN19	Corn {Jul 19}
+ZCN20	Corn {Jul 20}
+ZCN21	Corn {Jul 21}
+ZCU18	Corn {Sep 18}
+ZCU19	Corn {Sep 19}
+ZCU20	Corn {Sep 20}
+ZCZ18	Corn {Dec 18}
+ZCZ19	Corn {Dec 19}
+ZCZ20	Corn {Dec 20}
+ZCZ21	Corn {Dec 21}
+ZE.C	3-Year T-Note Continuation
+ZEM18	3-Year T-Note {Jun 18}
+ZEU18	3-Year T-Note {Sep 18}
+ZEZ18	3-Year T-Note {Dec 18}
+ZF	5-Year T-Note
+ZF.C	5-Year T-Note Continuation
+ZFM18	5-Year T-Note {Jun 18}
+ZFU18	5-Year T-Note {Sep 18}
+ZFZ18	5-Year T-Note {Dec 18}
+ZK	Ethanol Futures
+ZK.C	Ethanol Futures Continuation
+ZKF19	Ethanol Futures {Jan 19}
+ZKF20	Ethanol Futures {Jan 20}
+ZKF21	Ethanol Futures {Jan 21}
+ZKG19	Ethanol Futures {Feb 19}
+ZKG20	Ethanol Futures {Feb 20}
+ZKG21	Ethanol Futures {Feb 21}
+ZKH19	Ethanol Futures {Mar 19}
+ZKH20	Ethanol Futures {Mar 20}
+ZKH21	Ethanol Futures {Mar 21}
+ZKJ19	Ethanol Futures {Apr 19}
+ZKJ20	Ethanol Futures {Apr 20}
+ZKJ21	Ethanol Futures {Apr 21}
+ZKK18	Ethanol Futures {May 18}
+ZKK19	Ethanol Futures {May 19}
+ZKK20	Ethanol Futures {May 20}
+ZKK21	Ethanol Futures {May 21}
+ZKM18	Ethanol Futures {Jun 18}
+ZKM19	Ethanol Futures {Jun 19}
+ZKM20	Ethanol Futures {Jun 20}
+ZKN18	Ethanol Futures {Jul 18}
+ZKN19	Ethanol Futures {Jul 19}
+ZKN20	Ethanol Futures {Jul 20}
+ZKQ18	Ethanol Futures {Aug 18}
+ZKQ19	Ethanol Futures {Aug 19}
+ZKQ20	Ethanol Futures {Aug 20}
+ZKU18	Ethanol Futures {Sep 18}
+ZKU19	Ethanol Futures {Sep 19}
+ZKU20	Ethanol Futures {Sep 20}
+ZKV18	Ethanol Futures {Oct 18}
+ZKV19	Ethanol Futures {Oct 19}
+ZKV20	Ethanol Futures {Oct 20}
+ZKX18	Ethanol Futures {Nov 18}
+ZKX19	Ethanol Futures {Nov 19}
+ZKX20	Ethanol Futures {Nov 20}
+ZKZ18	Ethanol Futures {Dec 18}
+ZKZ19	Ethanol Futures {Dec 19}
+ZKZ20	Ethanol Futures {Dec 20}
+ZL	Soybean Oil
+ZL.C	Soybean Oil Continuation
+ZLF19	Soybean Oil {Jan 19}
+ZLF20	Soybean Oil {Jan 20}
+ZLH19	Soybean Oil {Mar 19}
+ZLH20	Soybean Oil {Mar 20}
+ZLK18	Soybean Oil {May 18}
+ZLK19	Soybean Oil {May 19}
+ZLK20	Soybean Oil {May 20}
+ZLN18	Soybean Oil {Jul 18}
+ZLN19	Soybean Oil {Jul 19}
+ZLN20	Soybean Oil {Jul 20}
+ZLN21	Soybean Oil {Jul 21}
+ZLQ18	Soybean Oil {Aug 18}
+ZLQ19	Soybean Oil {Aug 19}
+ZLQ20	Soybean Oil {Aug 20}
+ZLU18	Soybean Oil {Sep 18}
+ZLU19	Soybean Oil {Sep 19}
+ZLU20	Soybean Oil {Sep 20}
+ZLV18	Soybean Oil {Oct 18}
+ZLV19	Soybean Oil {Oct 19}
+ZLV20	Soybean Oil {Oct 20}
+ZLV21	Soybean Oil {Oct 21}
+ZLZ18	Soybean Oil {Dec 18}
+ZLZ19	Soybean Oil {Dec 19}
+ZLZ20	Soybean Oil {Dec 20}
+ZLZ21	Soybean Oil {Dec 21}
+ZM	Soybean Meal
+ZM.C	Soybean Meal Continuation
+ZMF19	Soybean Meal {Jan 19}
+ZMF20	Soybean Meal {Jan 20}
+ZMH19	Soybean Meal {Mar 19}
+ZMH20	Soybean Meal {Mar 20}
+ZMK18	Soybean Meal {May 18}
+ZMK19	Soybean Meal {May 19}
+ZMK20	Soybean Meal {May 20}
+ZMN18	Soybean Meal {Jul 18}
+ZMN19	Soybean Meal {Jul 19}
+ZMN20	Soybean Meal {Jul 20}
+ZMN21	Soybean Meal {Jul 21}
+ZMQ18	Soybean Meal {Aug 18}
+ZMQ19	Soybean Meal {Aug 19}
+ZMQ20	Soybean Meal {Aug 20}
+ZMU18	Soybean Meal {Sep 18}
+ZMU19	Soybean Meal {Sep 19}
+ZMU20	Soybean Meal {Sep 20}
+ZMV18	Soybean Meal {Oct 18}
+ZMV19	Soybean Meal {Oct 19}
+ZMV20	Soybean Meal {Oct 20}
+ZMV21	Soybean Meal {Oct 21}
+ZMZ18	Soybean Meal {Dec 18}
+ZMZ19	Soybean Meal {Dec 19}
+ZMZ20	Soybean Meal {Dec 20}
+ZMZ21	Soybean Meal {Dec 21}
+ZN.C	10-Year T-Note Continuation
+ZNM18	10-Year T-Note {Jun 18}
+ZNU18	10-Year T-Note {Sep 18}
+ZNZ18	10-Year T-Note {Dec 18}
+ZO	Oats
+ZO.C	Oats Continuation
+ZOH19	Oats {Mar 19}
+ZOH20	Oats {Mar 20}
+ZOK18	Oats {May 18}
+ZOK19	Oats {May 19}
+ZON18	Oats {Jul 18}
+ZON19	Oats {Jul 19}
+ZON20	Oats {Jul 20}
+ZOU18	Oats {Sep 18}
+ZOU19	Oats {Sep 19}
+ZOU20	Oats {Sep 20}
+ZOZ18	Oats {Dec 18}
+ZOZ19	Oats {Dec 19}
+ZQ	30-Day Fed Funds
+ZQ.C	30-Day Fed Funds Continuation
+ZQF19	30-Day Fed Funds {Jan 19}
+ZQF20	30-Day Fed Funds {Jan 20}
+ZQF21	30-Day Fed Funds {Jan 21}
+ZQG19	30-Day Fed Funds {Feb 19}
+ZQG20	30-Day Fed Funds {Feb 20}
+ZQG21	30-Day Fed Funds {Feb 21}
+ZQH19	30-Day Fed Funds {Mar 19}
+ZQH20	30-Day Fed Funds {Mar 20}
+ZQH21	30-Day Fed Funds {Mar 21}
+ZQJ18	30-Day Fed Funds {Apr 18}
+ZQJ19	30-Day Fed Funds {Apr 19}
+ZQJ20	30-Day Fed Funds {Apr 20}
+ZQJ21	30-Day Fed Funds {Apr 21}
+ZQK18	30-Day Fed Funds {May 18}
+ZQK19	30-Day Fed Funds {May 19}
+ZQK20	30-Day Fed Funds {May 20}
+ZQM18	30-Day Fed Funds {Jun 18}
+ZQM19	30-Day Fed Funds {Jun 19}
+ZQM20	30-Day Fed Funds {Jun 20}
+ZQN18	30-Day Fed Funds {Jul 18}
+ZQN19	30-Day Fed Funds {Jul 19}
+ZQN20	30-Day Fed Funds {Jul 20}
+ZQQ18	30-Day Fed Funds {Aug 18}
+ZQQ19	30-Day Fed Funds {Aug 19}
+ZQQ20	30-Day Fed Funds {Aug 20}
+ZQU18	30-Day Fed Funds {Sep 18}
+ZQU19	30-Day Fed Funds {Sep 19}
+ZQU20	30-Day Fed Funds {Sep 20}
+ZQV18	30-Day Fed Funds {Oct 18}
+ZQV19	30-Day Fed Funds {Oct 19}
+ZQV20	30-Day Fed Funds {Oct 20}
+ZQX18	30-Day Fed Funds {Nov 18}
+ZQX19	30-Day Fed Funds {Nov 19}
+ZQX20	30-Day Fed Funds {Nov 20}
+ZQZ18	30-Day Fed Funds {Dec 18}
+ZQZ19	30-Day Fed Funds {Dec 19}
+ZQZ20	30-Day Fed Funds {Dec 20}
+ZR.C	Rough Rice Continuation
+ZRF19	Rough Rice {Jan 19}
+ZRH19	Rough Rice {Mar 19}
+ZRK18	Rough Rice {May 18}
+ZRK19	Rough Rice {May 19}
+ZRN18	Rough Rice {Jul 18}
+ZRU18	Rough Rice {Sep 18}
+ZRX18	Rough Rice {Nov 18}
+ZS	Soybeans
+ZS.C	Soybeans Continuation
+ZSF19	Soybeans {Jan 19}
+ZSF20	Soybeans {Jan 20}
+ZSH19	Soybeans {Mar 19}
+ZSH20	Soybeans {Mar 20}
+ZSK18	Soybeans {May 18}
+ZSK19	Soybeans {May 19}
+ZSK20	Soybeans {May 20}
+ZSN18	Soybeans {Jul 18}
+ZSN19	Soybeans {Jul 19}
+ZSN20	Soybeans {Jul 20}
+ZSN21	Soybeans {Jul 21}
+ZSQ18	Soybeans {Aug 18}
+ZSQ19	Soybeans {Aug 19}
+ZSQ20	Soybeans {Aug 20}
+ZSU18	Soybeans {Sep 18}
+ZSU19	Soybeans {Sep 19}
+ZSU20	Soybeans {Sep 20}
+ZSX18	Soybeans {Nov 18}
+ZSX19	Soybeans {Nov 19}
+ZSX20	Soybeans {Nov 20}
+ZSX21	Soybeans {Nov 21}
+ZT	2-Year T-Note
+ZT.C	2-Year T-Note Continuation
+ZTM18	2-Year T-Note {Jun 18}
+ZTU18	2-Year T-Note {Sep 18}
+ZTZ18	2-Year T-Note {Dec 18}
+ZW	Wheat
+ZW.C	Wheat Continuation
+ZWH19	Wheat {Mar 19}
+ZWH20	Wheat {Mar 20}
+ZWK18	Wheat {May 18}
+ZWK19	Wheat {May 19}
+ZWK20	Wheat {May 20}
+ZWN18	Wheat {Jul 18}
+ZWN19	Wheat {Jul 19}
+ZWN20	Wheat {Jul 20}
+ZWU18	Wheat {Sep 18}
+ZWU19	Wheat {Sep 19}
+ZWZ18	Wheat {Dec 18}
+ZWZ19	Wheat {Dec 19}

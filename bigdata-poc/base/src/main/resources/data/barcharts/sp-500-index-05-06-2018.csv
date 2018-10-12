@@ -1,0 +1,507 @@
+Symbol,Name,Last,Name,Exchange,Industry,Sector,"ETF Full Name","Fund Family","Asset Class","Contract Name"
+A,"Agilent Technologies",67,"Agilent Technologies",NYSE,"Electronic Test Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+AAL,"American Airlines Gp",42.86,"American Airlines Gp",NASDAQ,"Transportation - Airline",Transportation,N/A,N/A,N/A,N/A
+AAP,"Advance Auto Parts Inc",116.67,"Advance Auto Parts Inc",NYSE,"Retail - Wholesale Auto Parts",Retail-Wholesale,N/A,N/A,N/A,N/A
+AAPL,"Apple Inc",183.83,"Apple Inc",NASDAQ,"Computer - Mini","Computers and Technology",N/A,N/A,N/A,N/A
+ABBV,"Abbvie Inc",100.17,"Abbvie Inc",NYSE,"Large Cap Pharma",Medical,N/A,N/A,N/A,N/A
+ABC,"Amerisourcebergen Corp",86.37,"Amerisourcebergen Corp",NYSE,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+ABT,"Abbott Laboratories",58.74,"Abbott Laboratories",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+ACN,"Accenture Plc",153.44,"Accenture Plc",NYSE,Consulting,"Business Services",N/A,N/A,N/A,N/A
+ADBE,"Adobe Systems Inc",228.51,"Adobe Systems Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+ADI,"Analog Devices",90.27,"Analog Devices",NASDAQ,"Semi Analog & Mixed","Computers and Technology",N/A,N/A,N/A,N/A
+ADM,"Archer Daniels Midland Company",43.86,"Archer Daniels Midland Company",NYSE,"Agriculture Operations","Consumer Staples",N/A,N/A,N/A,N/A
+ADP,"Automatic Data Procs",125.36,"Automatic Data Procs",NASDAQ,Outsourcing,"Business Services",N/A,N/A,N/A,N/A
+ADS,"Alliance Data Systems Corp",197.02,"Alliance Data Systems Corp",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+ADSK,"Autodesk Inc",129.46,"Autodesk Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+AEE,"Ameren Corp",58.9,"Ameren Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+AEP,"American Electric Power Company",69.39,"American Electric Power Company",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+AES,"The Aes Corp",12.33,"The Aes Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+AET,"Aetna Inc",172.26,"Aetna Inc",NYSE,"Medical - HMO",Medical,N/A,N/A,N/A,N/A
+AFL,"Aflac Incorporated",44.81,"Aflac Incorporated",NYSE,"Insurance - Accident & Health",Finance,N/A,N/A,N/A,N/A
+AGN,"Allergan Plc",149.3,"Allergan Plc",NYSE,"Medical - Generic Drugs",Medical,N/A,N/A,N/A,N/A
+AIG,"American International Group",52.84,"American International Group",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+AIV,"Apartment Investment and Management",41.06,"Apartment Investment and Management",NYSE,"REIT - Equity Trust Resident",Finance,N/A,N/A,N/A,N/A
+AIZ,"Assurant Inc",87.93,"Assurant Inc",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+AJG,"Arthur J. Gallagher & Co",68.94,"Arthur J. Gallagher & Co",NYSE,"Insurance - Brokers",Finance,N/A,N/A,N/A,N/A
+AKAM,"Akamai Technologies",72.01,"Akamai Technologies",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+ALB,"Albemarle Corp",100.06,"Albemarle Corp",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+ALGN,"Align Technology I",258.97,"Align Technology I",NASDAQ,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+ALK,"Alaska Air Group",62.8,"Alaska Air Group",NYSE,"Transportation - Airline",Transportation,N/A,N/A,N/A,N/A
+ALL,"Allstate Corp",94.52,"Allstate Corp",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+ALLE,"Allegion Plc Ordinary Shares Wh",76.15,"Allegion Plc Ordinary Shares Wh",NYSE,"Protection - Safety","Industrial Products",N/A,N/A,N/A,N/A
+ALXN,"Alexion Pharm Inc",116.81,"Alexion Pharm Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+AMAT,"Applied Materials",52.56,"Applied Materials",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+AMD,"Adv Micro Devices",11.28,"Adv Micro Devices",NASDAQ,"Electronics - Semiconductors","Computers and Technology",N/A,N/A,N/A,N/A
+AME,"Amtek Inc",71.5,"Amtek Inc",NYSE,"Electronic Test Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+AMG,"Affiliated Managers Group",161.72,"Affiliated Managers Group",NYSE,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+AMGN,Amgen,167.98,Amgen,NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+AMP,"Ameriprise Financial Services",134.57,"Ameriprise Financial Services",NYSE,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+AMT,"American Tower Corp",138.85,"American Tower Corp",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+AMZN,"Amazon.Com Inc",1580.95,"Amazon.Com Inc",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+ANDV,Andeavor,139.76,Andeavor,NYSE,"Oil - Refining and Marketing",Oils-Energy,N/A,N/A,N/A,N/A
+ANSS,"Ansys Inc",164.15,"Ansys Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+ANTM,"Anthem Inc",233.18,"Anthem Inc",NYSE,"Medical - HMO",Medical,N/A,N/A,N/A,N/A
+AON,"AON Plc",139.49,"AON Plc",NYSE,"Insurance - Brokers",Finance,N/A,N/A,N/A,N/A
+AOS,"Smith [A.O.] Corp",62.45,"Smith [A.O.] Corp",NYSE,"Machinery - Electrical","Industrial Products",N/A,N/A,N/A,N/A
+APA,"Apache Corp",39.49,"Apache Corp",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+APC,"Anadarko Petroleum Corp",66.58,"Anadarko Petroleum Corp",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+APD,"Air Products and Chemicals",162.76,"Air Products and Chemicals",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+APH,"Amphenol Corp",85.35,"Amphenol Corp",NYSE,"Electronics - Connectors","Computers and Technology",N/A,N/A,N/A,N/A
+APTV,"Aptiv Plc",92.59,"Aptiv Plc",NYSE,"Technology Services","Business Services",N/A,N/A,N/A,N/A
+ARE,"Alexandria Real Estate Equities",128.55,"Alexandria Real Estate Equities",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+ARNC,"Arconic Inc",17.22,"Arconic Inc",NYSE,"Mining - Non Ferrous","Basic Materials",N/A,N/A,N/A,N/A
+ATVI,"Activision Blizzard",69.84,"Activision Blizzard",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+AVB,"Avalonbay Communities",164.35,"Avalonbay Communities",NYSE,"REIT - Equity Trust Resident",Finance,N/A,N/A,N/A,N/A
+AVGO,"Broadcom Ltd",230.52,"Broadcom Ltd",NASDAQ,"Electronics - Semiconductors","Computers and Technology",N/A,N/A,N/A,N/A
+AVY,"Avery Dennison Corp",105.73,"Avery Dennison Corp",NYSE,"Office Supply & Forms","Industrial Products",N/A,N/A,N/A,N/A
+AWK,"American Water Works",85.72,"American Water Works",NYSE,"Utility - Water Supply",Utilities,N/A,N/A,N/A,N/A
+AXP,"American Express Company",98.35,"American Express Company",NYSE,"Finance - Misc Services",Finance,N/A,N/A,N/A,N/A
+AYI,"Acuity Brands Inc",112.12,"Acuity Brands Inc",NYSE,"Building Products - Ltg FX",Construction,N/A,N/A,N/A,N/A
+AZO,Autozone,649.94,Autozone,NYSE,"Retail - Wholesale Auto Parts",Retail-Wholesale,N/A,N/A,N/A,N/A
+BA,"Boeing Company",334.43,"Boeing Company",NYSE,"Aerospace - Defense",Aerospace,N/A,N/A,N/A,N/A
+BAC,"Bank of America Corp",29.3,"Bank of America Corp",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+BAX,"Baxter International Inc",70.38,"Baxter International Inc",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+BBT,"BB&T Corp",53.11,"BB&T Corp",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+BBY,"Best Buy Co",76.22,"Best Buy Co",NYSE,"Retail - Consumer Electronics",Retail-Wholesale,N/A,N/A,N/A,N/A
+BDX,"Becton Dickinson and Company",224.66,"Becton Dickinson and Company",NYSE,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+BEN,"Franklin Resources",32.86,"Franklin Resources",NYSE,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+BF.B,"Brown Forman Inc Cl B",55.86,"Brown Forman Inc Cl B",NYSE,"Beverages - Alcohol","Consumer Staples",N/A,N/A,N/A,N/A
+BHF,"Brighthouse Financial Inc",49.73,"Brighthouse Financial Inc",NASDAQ,"Insurance - Life",Finance,N/A,N/A,N/A,N/A
+BHGE,"Baker Hughes A Ge Co. Cl. A",36,"Baker Hughes A Ge Co. Cl. A",NYSE,"Oil - Field Services",Oils-Energy,N/A,N/A,N/A,N/A
+BIIB,"Biogen Inc",270.34,"Biogen Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+BK,"Bank of New York Mellon Corp",54.49,"Bank of New York Mellon Corp",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+BKNG,"Booking Holdings Inc.",2175.71,"Booking Holdings Inc.",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+BLK,Blackrock,520.4,Blackrock,NYSE,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+BLL,"Ball Corp",38.54,"Ball Corp",NYSE,"Containers - Metal & Glass","Industrial Products",N/A,N/A,N/A,N/A
+BMY,"Bristol-Myers Squibb Company",51.33,"Bristol-Myers Squibb Company",NYSE,"Large Cap Pharma",Medical,N/A,N/A,N/A,N/A
+BRK.B,"Berkshire Hath Hld Cl B",195.64,"Berkshire Hath Hld Cl B",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+BSX,"Boston Scientific Corp",29.55,"Boston Scientific Corp",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+BWA,"Borgwarner Inc",49.13,"Borgwarner Inc",NYSE,"Auto - Truck Original Parts",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+BXP,"Boston Properties",124.04,"Boston Properties",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+C,"Citigroup Inc",67.94,"Citigroup Inc",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+CA,"CA Inc",34.71,"CA Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+CAG,"Conagra Brands Inc",36.92,"Conagra Brands Inc",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+CAH,"Cardinal Health",53.01,"Cardinal Health",NYSE,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+CAT,"Caterpillar Inc",146.37,"Caterpillar Inc",NYSE,"Machinery - Construct & Mining","Industrial Products",N/A,N/A,N/A,N/A
+CB,"Chubb Ltd",132.75,"Chubb Ltd",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+CBOE,"CBOE Global Markets Inc",102.49,"CBOE Global Markets Inc",NASDAQ,"Securities Exchanges",Finance,N/A,N/A,N/A,N/A
+CBRE,"CBRE Group Inc",46.73,"CBRE Group Inc",NYSE,"Real Estate Operations",Finance,N/A,N/A,N/A,N/A
+CBS,"CBS Corp",53.17,"CBS Corp",NYSE,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+CCI,"Crown Castle International Corp",103.31,"Crown Castle International Corp",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+CCL,"Carnival Corp",63.57,"Carnival Corp",NYSE,"Leisure & Recreation Services","Consumer Discretionary",N/A,N/A,N/A,N/A
+CDNS,"Cadence Design Sys",40.8,"Cadence Design Sys",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+CELG,"Celgene Corp",86.89,"Celgene Corp",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+CERN,"Cerner Corp",57.24,"Cerner Corp",NASDAQ,"Medical Information Systems",Medical,N/A,N/A,N/A,N/A
+CF,"Cf Industries Holdings",38.51,"Cf Industries Holdings",NYSE,Fertilizers,"Basic Materials",N/A,N/A,N/A,N/A
+CFG,"Citizens Financial Group Inc/Ri",41.03,"Citizens Financial Group Inc/Ri",NYSE,"Finance - Savings & Loan",Finance,N/A,N/A,N/A,N/A
+CHD,"Church & Dwight Company",47.35,"Church & Dwight Company",NYSE,"Soap and Cleaning Products","Consumer Staples",N/A,N/A,N/A,N/A
+CHRW,"C.H. Robinson Ww",82.54,"C.H. Robinson Ww",NASDAQ,"Transportation - Services",Transportation,N/A,N/A,N/A,N/A
+CHTR,"Charter Communicatio",276.07,"Charter Communicatio",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+CI,"Cigna Corp",171.17,"Cigna Corp",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+CINF,"Cincinnati Financial",70.01,"Cincinnati Financial",NASDAQ,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+CL,"Colgate-Palmolive Company",63.71,"Colgate-Palmolive Company",NYSE,"Soap and Cleaning Products","Consumer Staples",N/A,N/A,N/A,N/A
+CLX,"Clorox Company",120.29,"Clorox Company",NYSE,"Soap and Cleaning Products","Consumer Staples",N/A,N/A,N/A,N/A
+CMA,"Comerica Inc",94.08,"Comerica Inc",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+CMCSA,"Comcast Corp A",31.96,"Comcast Corp A",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+CME,"CME Group Inc",159.16,"CME Group Inc",NASDAQ,"Securities Exchanges",Finance,N/A,N/A,N/A,N/A
+CMG,"Chipotle Mexican Grill",420.41,"Chipotle Mexican Grill",NYSE,"Retail - Restaurants",Retail-Wholesale,N/A,N/A,N/A,N/A
+CMI,"Cummins Inc",144.55,"Cummins Inc",NYSE,"Engines - Internal Combustion",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+CMS,"Cms Energy Corp",46.45,"Cms Energy Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+CNC,"Centene Corp",116.65,"Centene Corp",NYSE,"Medical - HMO",Medical,N/A,N/A,N/A,N/A
+CNP,"Centerpoint Energy Inc",26.39,"Centerpoint Energy Inc",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+COF,"Capital One Financial Corp",89.06,"Capital One Financial Corp",NYSE,"Finance - Consumer Loans",Finance,N/A,N/A,N/A,N/A
+COG,"Cabot Oil & Gas Corp",23.43,"Cabot Oil & Gas Corp",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+COL,"Rockwell Collins",132.54,"Rockwell Collins",NYSE,"Aerospace - Defense Equipment",Aerospace,N/A,N/A,N/A,N/A
+COO,"Cooper Companies",226.56,"Cooper Companies",NYSE,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+COP,Conocophillips,66.86,Conocophillips,NYSE,"Oil - US Integrated",Oils-Energy,N/A,N/A,N/A,N/A
+COST,"Costco Wholesale",195.19,"Costco Wholesale",NASDAQ,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+COTY,"Coty Inc",16.07,"Coty Inc",NYSE,"Cosmetics & Toiletries","Consumer Staples",N/A,N/A,N/A,N/A
+CPB,"Campbell Soup Company",41.02,"Campbell Soup Company",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+CRM,"Salesforce.Com Inc",125.12,"Salesforce.Com Inc",NYSE,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+CSCO,"Cisco Systems Inc",45.3,"Cisco Systems Inc",NASDAQ,"Computer - Networks","Computers and Technology",N/A,N/A,N/A,N/A
+CSX,"CSX Corp",59.97,"CSX Corp",NASDAQ,"Transportation - Rail",Transportation,N/A,N/A,N/A,N/A
+CTAS,"Cintas Corp",175.23,"Cintas Corp",NASDAQ,"Uniform & Related","Industrial Products",N/A,N/A,N/A,N/A
+CTL,Centurylink,18.49,Centurylink,NYSE,"Wireless National",Utilities,N/A,N/A,N/A,N/A
+CTSH,"Cognizant Tech Sol",82.17,"Cognizant Tech Sol",NASDAQ,"Business Software Services","Computers and Technology",N/A,N/A,N/A,N/A
+CTXS,"Citrix Systems Inc",105.23,"Citrix Systems Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+CVS,"CVS Corp",63.1,"CVS Corp",NYSE,"Retail - Drug Stores",Retail-Wholesale,N/A,N/A,N/A,N/A
+CVX,"Chevron Corp",125.53,"Chevron Corp",NYSE,"Oil - International Integrated",Oils-Energy,N/A,N/A,N/A,N/A
+CXO,"Concho Resources Inc",152.75,"Concho Resources Inc",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+D,"Dominion Resources",65.57,"Dominion Resources",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+DAL,"Delta Air Lines Inc",52.34,"Delta Air Lines Inc",NYSE,"Transportation - Airline",Transportation,N/A,N/A,N/A,N/A
+DE,"Deere & Company",137.3,"Deere & Company",NYSE,"Machinery - Farm","Industrial Products",N/A,N/A,N/A,N/A
+DFS,"Discover Financial Services",70.87,"Discover Financial Services",NYSE,"Finance - Consumer Loans",Finance,N/A,N/A,N/A,N/A
+DG,"Dollar General Corp",95.55,"Dollar General Corp",NYSE,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+DGX,"Quest Diagnostics Inc",101.5,"Quest Diagnostics Inc",NYSE,"Medical - Outpatient & Hm Care",Medical,N/A,N/A,N/A,N/A
+DHI,"D.R. Horton",44.71,"D.R. Horton",NYSE,"Building - Residential & Comm",Construction,N/A,N/A,N/A,N/A
+DHR,"Danaher Corp",100.2,"Danaher Corp",NYSE,"Conglomerates - Div Operations",Conglomerates,N/A,N/A,N/A,N/A
+DIS,"Walt Disney Company",101.15,"Walt Disney Company",NYSE,"Media Conglomerates","Consumer Discretionary",N/A,N/A,N/A,N/A
+DISCA,"Discovery Comm A",23.16,"Discovery Comm A",NASDAQ,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+DISCK,"Discovery Comm Inc",21.88,"Discovery Comm Inc",NASDAQ,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+DISH,"Dish Network Corp",33.39,"Dish Network Corp",NASDAQ,"Cable TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+DLR,"Digital Realty Trust",106.39,"Digital Realty Trust",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+DLTR,"Dollar Tree Inc",93.61,"Dollar Tree Inc",NASDAQ,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+DOV,"Dover Corp",91.51,"Dover Corp",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+DPS,"Dr Pepper Snapple Group Inc",118.71,"Dr Pepper Snapple Group Inc",NYSE,"Beverages - Soft","Consumer Staples",N/A,N/A,N/A,N/A
+DRE,"Duke Realty Corp",27.92,"Duke Realty Corp",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+DRI,"Darden Restaurants",92.83,"Darden Restaurants",NYSE,"Retail - Restaurants",Retail-Wholesale,N/A,N/A,N/A,N/A
+DTE,"Dte Energy Company",104.68,"Dte Energy Company",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+DUK,"Duke Energy Corp",79.88,"Duke Energy Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+DVA,"Davita Healthcare Partners Inc",66.38,"Davita Healthcare Partners Inc",NYSE,"Medical - Outpatient & Hm Care",Medical,N/A,N/A,N/A,N/A
+DVN,"Devon Energy Corp",37.87,"Devon Energy Corp",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+DWDP,"Dowdupont Inc",64.47,"Dowdupont Inc",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+DXC,"Dxc Technology Company",102.01,"Dxc Technology Company",NYSE,"IT Services","Computers and Technology",N/A,N/A,N/A,N/A
+EA,"Electronic Arts Inc",123.64,"Electronic Arts Inc",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+EBAY,"Ebay Inc",38,"Ebay Inc",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+ECL,"Ecolab Inc",145.39,"Ecolab Inc",NYSE,"Chemical - Specialty","Basic Materials",N/A,N/A,N/A,N/A
+ED,"Consolidated Edison Company of New York",79.25,"Consolidated Edison Company of New York",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+EFX,"Equifax Inc",112.46,"Equifax Inc",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+EIX,"Edison International",63.69,"Edison International",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+EL,"Estee Lauder Companies",135.74,"Estee Lauder Companies",NYSE,"Cosmetics & Toiletries","Consumer Staples",N/A,N/A,N/A,N/A
+EMN,"Eastman Chemical Company",104.8,"Eastman Chemical Company",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+EMR,"Emerson Electric Company",68.42,"Emerson Electric Company",NYSE,"Machinery - Electrical","Industrial Products",N/A,N/A,N/A,N/A
+EOG,"Eog Resources",114.66,"Eog Resources",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+EQIX,"Equinix Inc",403.88,"Equinix Inc",NASDAQ,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+EQR,"Equity Residential",62.1,"Equity Residential",NYSE,"REIT - Equity Trust Resident",Finance,N/A,N/A,N/A,N/A
+EQT,"Eqt Corp",48.63,"Eqt Corp",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+ES,"Eversource Energy",59.04,"Eversource Energy",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+ESRX,"Express Scripts",70.22,"Express Scripts",NASDAQ,"Medical Services",Medical,N/A,N/A,N/A,N/A
+ESS,"Essex Property Trust",241.17,"Essex Property Trust",NYSE,"REIT - Equity Trust Resident",Finance,N/A,N/A,N/A,N/A
+ETFC,"E*Trade Finl Corp",61.47,"E*Trade Finl Corp",NASDAQ,"Finance - Investment Brokers",Finance,N/A,N/A,N/A,N/A
+ETN,"Eaton Corp",74.87,"Eaton Corp",NYSE,"Machinery - Electrical","Industrial Products",N/A,N/A,N/A,N/A
+ETR,"Entergy Corp",82.2,"Entergy Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+EVHC,"Envision Healthcare Holdings",37.3,"Envision Healthcare Holdings",NYSE,"Medical - Outpatient & Hm Care",Medical,N/A,N/A,N/A,N/A
+EW,"Edwards Lifesciences Corp",134.77,"Edwards Lifesciences Corp",NYSE,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+EXC,"Exelon Corp",41.08,"Exelon Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+EXPD,"Expeditors Intl",63.54,"Expeditors Intl",NASDAQ,"Transportation - Services",Transportation,N/A,N/A,N/A,N/A
+EXPE,"Expedia Group Inc.",110.12,"Expedia Group Inc.",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+EXR,"Extra Space Storage Inc",92.19,"Extra Space Storage Inc",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+F,"Ford Motor Company",11.36,"Ford Motor Company",NYSE,"Auto - Domestic",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+FAST,"Fastenal Co",50.65,"Fastenal Co",NASDAQ,"Building Prds Retail - Wsale",Retail-Wholesale,N/A,N/A,N/A,N/A
+FB,"Facebook Inc",176.61,"Facebook Inc",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+FBHS,"Fortune Brands Home & Security",55.36,"Fortune Brands Home & Security",NYSE,"Protection - Safety","Industrial Products",N/A,N/A,N/A,N/A
+FCX,"Freeport-Mcmoran Inc",15.42,"Freeport-Mcmoran Inc",NYSE,"Mining - Non Ferrous","Basic Materials",N/A,N/A,N/A,N/A
+FDX,"Fedex Corp",244.94,"Fedex Corp",NYSE,"Transportation - Air Freight",Transportation,N/A,N/A,N/A,N/A
+FE,"Firstenergy Corp",34.11,"Firstenergy Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+FFIV,"F5 Networks Inc",168.13,"F5 Networks Inc",NASDAQ,"Internet - Software","Computers and Technology",N/A,N/A,N/A,N/A
+FIS,"Fidelity National Information Services",100.66,"Fidelity National Information Services",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+FISV,"Fiserv Inc",69.72,"Fiserv Inc",NASDAQ,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+FITB,"Fifth Third Bncp",32.63,"Fifth Third Bncp",NASDAQ,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+FL,"Footlocker Inc",41.67,"Footlocker Inc",NYSE,"Retail - Apparel & Shoes",Retail-Wholesale,N/A,N/A,N/A,N/A
+FLIR,"Flir Systems Inc",54.52,"Flir Systems Inc",NASDAQ,"Electronics - Military",Aerospace,N/A,N/A,N/A,N/A
+FLR,"Fluor Corp",45.76,"Fluor Corp",NYSE,"Engineering & R&D Services","Industrial Products",N/A,N/A,N/A,N/A
+FLS,"Flowserve Corp",45.74,"Flowserve Corp",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+FMC,"FMC Corp",87.43,"FMC Corp",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+FOX,"21st Centry Fox Class B",37.16,"21st Centry Fox Class B",NASDAQ,"Movie & TV Production & Dist","Consumer Discretionary",N/A,N/A,N/A,N/A
+FOXA,"21st Centry Fox Class A",37.66,"21st Centry Fox Class A",NASDAQ,"Movie & TV Production & Dist","Consumer Discretionary",N/A,N/A,N/A,N/A
+FRT,"Federal Realty Investment Trust",118.73,"Federal Realty Investment Trust",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+FTI,"Technipfmc Plc",33.24,"Technipfmc Plc",NYSE,"Oil - Field Services",Oils-Energy,N/A,N/A,N/A,N/A
+FTV,"Fortive Corp",73.29,"Fortive Corp",NYSE,"Electronic Test Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+GD,"General Dynamics Corp",195.07,"General Dynamics Corp",NYSE,"Aerospace - Defense",Aerospace,N/A,N/A,N/A,N/A
+GE,"General Electric Company",14.1,"General Electric Company",NYSE,"Conglomerates - Div Operations",Conglomerates,N/A,N/A,N/A,N/A
+GGP,"Ggp Inc",19.78,"Ggp Inc",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+GILD,"Gilead Sciences Inc",65.42,"Gilead Sciences Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+GIS,"General Mills",42.54,"General Mills",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+GLW,"Corning Inc",27.08,"Corning Inc",NYSE,"Communications Components","Computers and Technology",N/A,N/A,N/A,N/A
+GM,"General Motors Company",36.71,"General Motors Company",NYSE,"Auto - Domestic",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+GOOG,"Alphabet Class C",1048.21,"Alphabet Class C",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+GOOGL,"Alphabet Class A",1051,"Alphabet Class A",NASDAQ,"Internet - Services","Computers and Technology",N/A,N/A,N/A,N/A
+GPC,"Genuine Parts Company",89.92,"Genuine Parts Company",NYSE,"Auto - Truck Replacement Parts",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+GPN,"Global Payments Inc",112.85,"Global Payments Inc",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+GPS,"Gap Inc",28.8,"Gap Inc",NYSE,"Retail - Apparel & Shoes",Retail-Wholesale,N/A,N/A,N/A,N/A
+GRMN,"Garmin Ltd",59.89,"Garmin Ltd",NASDAQ,"Electronics Products - Misc","Computers and Technology",N/A,N/A,N/A,N/A
+GS,"Goldman Sachs Group",234.94,"Goldman Sachs Group",NYSE,"Finance - Investment Brokers",Finance,N/A,N/A,N/A,N/A
+GT,"Goodyear Tire Rubber",25.28,"Goodyear Tire Rubber",NASDAQ,"Rubber Tires",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+GWW,"W.W. Grainger",286.77,"W.W. Grainger",NYSE,"Industrial Services","Industrial Products",N/A,N/A,N/A,N/A
+HAL,"Halliburton Company",52.19,"Halliburton Company",NYSE,"Oil - Field Services",Oils-Energy,N/A,N/A,N/A,N/A
+HAS,"Hasbro Inc",86.87,"Hasbro Inc",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+HBAN,"Huntington Bcshs",14.7,"Huntington Bcshs",NASDAQ,"Banks - Midwest",Finance,N/A,N/A,N/A,N/A
+HBI,"Hanesbrands Inc",16.81,"Hanesbrands Inc",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+HCA,"Hca Holdings Inc",97.55,"Hca Holdings Inc",NYSE,"Medical - Hospitals",Medical,N/A,N/A,N/A,N/A
+HCP,"HCP Inc",23.44,"HCP Inc",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+HD,"Home Depot",185.03,"Home Depot",NYSE,"Building Prds Retail - Wsale",Retail-Wholesale,N/A,N/A,N/A,N/A
+HES,"Hess Corp",58.71,"Hess Corp",NYSE,"Oil - US Integrated",Oils-Energy,N/A,N/A,N/A,N/A
+HIG,"Hartford Financial Services Group",52.73,"Hartford Financial Services Group",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+HII,"Huntington Ingalls Industries",210.66,"Huntington Ingalls Industries",NYSE,"Aerospace - Defense",Aerospace,N/A,N/A,N/A,N/A
+HLT,"Hilton Inc",81.16,"Hilton Inc",NYSE,"Hotels & Motels","Consumer Discretionary",N/A,N/A,N/A,N/A
+HOG,"Harley-Davidson Inc",41,"Harley-Davidson Inc",NYSE,"Auto - Domestic",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+HOLX,"Hologic Inc",37.93,"Hologic Inc",NASDAQ,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+HON,"Honeywell International Inc",143.89,"Honeywell International Inc",NYSE,"Conglomerates - Div Operations",Conglomerates,N/A,N/A,N/A,N/A
+HP,"Helmerich & Payne",69.9,"Helmerich & Payne",NYSE,"Oil & Gas - Drilling",Oils-Energy,N/A,N/A,N/A,N/A
+HPE,"Hewlett Packard Enterprise Comp",17.21,"Hewlett Packard Enterprise Comp",NYSE,"Computer - Integrated Systems","Computers and Technology",N/A,N/A,N/A,N/A
+HPQ,"Hewlett-Packard Company",21.68,"Hewlett-Packard Company",NYSE,"Computer - Mini","Computers and Technology",N/A,N/A,N/A,N/A
+HRB,"H&R Block",27.49,"H&R Block",NYSE,"Consumer Services - Misc","Consumer Discretionary",N/A,N/A,N/A,N/A
+HRL,"Hormel Foods Corp",35.77,"Hormel Foods Corp",NYSE,"Food - Meat Products","Consumer Staples",N/A,N/A,N/A,N/A
+HRS,"Harris Corp",149.84,"Harris Corp",NYSE,"Wireless Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+HSIC,"Henry Schein Inc",75.55,"Henry Schein Inc",NASDAQ,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+HST,"Host Marriott Financial Trust",19.84,"Host Marriott Financial Trust",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+HSY,"Hershey Foods Corp",91.78,"Hershey Foods Corp",NYSE,"Food - Confectionery","Consumer Staples",N/A,N/A,N/A,N/A
+HUM,"Humana Inc",287.39,"Humana Inc",NYSE,"Medical - HMO",Medical,N/A,N/A,N/A,N/A
+IBM,"International Business Machines",143.91,"International Business Machines",NYSE,"Computer - Integrated Systems","Computers and Technology",N/A,N/A,N/A,N/A
+ICE,"Intercontinental Exchange",70.25,"Intercontinental Exchange",NYSE,"Securities Exchanges",Finance,N/A,N/A,N/A,N/A
+IDXX,"Idexx Laboratories",212.2,"Idexx Laboratories",NASDAQ,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+IFF,"International Flavors & Fragrances",142.15,"International Flavors & Fragrances",NYSE,"Chemical - Specialty","Basic Materials",N/A,N/A,N/A,N/A
+ILMN,"Illumina Inc",244.82,"Illumina Inc",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+INCY,"Incyte Corp",62.13,"Incyte Corp",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+INFO,"IHS Markit Ltd",49.37,"IHS Markit Ltd",NASDAQ,"Business Information","Business Services",N/A,N/A,N/A,N/A
+INTC,"Intel Corp",52.78,"Intel Corp",NASDAQ,"Semi General","Computers and Technology",N/A,N/A,N/A,N/A
+INTU,"Intuit Inc",189.45,"Intuit Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+IP,"International Paper Company",52.19,"International Paper Company",NYSE,"Paper & Related Products","Basic Materials",N/A,N/A,N/A,N/A
+IPG,"Interpublic Group of Companies",23.66,"Interpublic Group of Companies",NYSE,"Advertising Marketing Services","Business Services",N/A,N/A,N/A,N/A
+IPGP,"Ipg Photonics Corp",233.36,"Ipg Photonics Corp",NASDAQ,"Lasers - Systems & Components","Computers and Technology",N/A,N/A,N/A,N/A
+IQV,"Iqvia Holdings Inc",99.02,"Iqvia Holdings Inc",NYSE,"Technology Services","Business Services",N/A,N/A,N/A,N/A
+IR,"Ingersoll-Rand Plc [Ireland]",86.67,"Ingersoll-Rand Plc [Ireland]",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+IRM,"Iron Mountain Inc",34.49,"Iron Mountain Inc",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+ISRG,"Intuitive Surg Inc",460.42,"Intuitive Surg Inc",NASDAQ,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+IT,"Gartner Inc",123.02,"Gartner Inc",NYSE,Consulting,"Business Services",N/A,N/A,N/A,N/A
+ITW,"Illinois Tool Works Inc",145.47,"Illinois Tool Works Inc",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+IVZ,"Invesco Plc",28.39,"Invesco Plc",NYSE,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+JBHT,"J B Hunt Transport",117.42,"J B Hunt Transport",NASDAQ,"Transportation - Truck",Transportation,N/A,N/A,N/A,N/A
+JCI,"Johnson Controls Intl",36.25,"Johnson Controls Intl",NYSE,"Protection - Safety","Industrial Products",N/A,N/A,N/A,N/A
+JEC,"Jacobs Engineering Group Inc",56.84,"Jacobs Engineering Group Inc",NYSE,"Engineering & R&D Services","Industrial Products",N/A,N/A,N/A,N/A
+JNJ,"Johnson & Johnson",124.19,"Johnson & Johnson",NYSE,"Large Cap Pharma",Medical,N/A,N/A,N/A,N/A
+JNPR,"Juniper Networks",25.66,"Juniper Networks",NYSE,"Wireless Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+JPM,"JP Morgan Chase & Co",108.43,"JP Morgan Chase & Co",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+JWN,Nordstrom,49.49,Nordstrom,NYSE,"Retail - Apparel & Shoes",Retail-Wholesale,N/A,N/A,N/A,N/A
+K,"Kellogg Company",59.8,"Kellogg Company",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+KEY,Keycorp,19.7,Keycorp,NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+KHC,"Kraft Heinz Co",58.01,"Kraft Heinz Co",NASDAQ,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+KIM,"Kimco Realty Corp",14.67,"Kimco Realty Corp",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+KLAC,"K L A-Tencor Corp",106.66,"K L A-Tencor Corp",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+KMB,"Kimberly-Clark Corp",103.73,"Kimberly-Clark Corp",NYSE,"Consumer Prdts - Misc Staple","Consumer Staples",N/A,N/A,N/A,N/A
+KMI,"Kinder Morgan",16.11,"Kinder Morgan",NYSE,"Oil - Production & Pipeline",Oils-Energy,N/A,N/A,N/A,N/A
+KMX,"Carmax Inc",64.96,"Carmax Inc",NYSE,"Retail - Wholesale Auto Parts",Retail-Wholesale,N/A,N/A,N/A,N/A
+KO,"Coca-Cola Company",42.36,"Coca-Cola Company",NYSE,"Beverages - Soft","Consumer Staples",N/A,N/A,N/A,N/A
+KORS,"Michael Kors Holdings Ltd",61.56,"Michael Kors Holdings Ltd",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+KR,"Kroger Company",24.14,"Kroger Company",NYSE,"Retail - Supermarket",Retail-Wholesale,N/A,N/A,N/A,N/A
+KSS,"Kohl's Corp",63.1,"Kohl's Corp",NYSE,"Retail - Regional Dept Stores",Retail-Wholesale,N/A,N/A,N/A,N/A
+KSU,"Kansas City Southern",107.55,"Kansas City Southern",NYSE,"Transportation - Rail",Transportation,N/A,N/A,N/A,N/A
+L,"Loews Corp",50.97,"Loews Corp",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+LB,"L Brands Inc",34.35,"L Brands Inc",NYSE,"Retail - Apparel & Shoes",Retail-Wholesale,N/A,N/A,N/A,N/A
+LEG,"Leggett & Platt Inc",41.42,"Leggett & Platt Inc",NYSE,Furniture,"Consumer Discretionary",N/A,N/A,N/A,N/A
+LEN,"Lennar Corp",54.44,"Lennar Corp",NYSE,"Building - Residential & Comm",Construction,N/A,N/A,N/A,N/A
+LH,"Laboratory Corporation of America Holdings",171.3,"Laboratory Corporation of America Holdings",NYSE,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+LKQ,"LKQ Corp",30.13,"LKQ Corp",NASDAQ,"Auto - Truck Replacement Parts",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+LLL,"L-3 Communications Holdings",184,"L-3 Communications Holdings",NYSE,"Electronics - Military",Aerospace,N/A,N/A,N/A,N/A
+LLY,"Eli Lilly and Company",78.4,"Eli Lilly and Company",NYSE,"Large Cap Pharma",Medical,N/A,N/A,N/A,N/A
+LMT,"Lockheed Martin Corp",311.44,"Lockheed Martin Corp",NYSE,"Aerospace - Defense",Aerospace,N/A,N/A,N/A,N/A
+LNC,"Lincoln National Corp",68.95,"Lincoln National Corp",NYSE,"Insurance - Life",Finance,N/A,N/A,N/A,N/A
+LNT,"Alliant Energy Corp",43.27,"Alliant Energy Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+LOW,"Lowe's Companies",84.23,"Lowe's Companies",NYSE,"Building Prds Retail - Wsale",Retail-Wholesale,N/A,N/A,N/A,N/A
+LRCX,"Lam Research Corp",195.47,"Lam Research Corp",NASDAQ,"Semi-Eqpt Wafer Fabrication","Computers and Technology",N/A,N/A,N/A,N/A
+LUK,"Leucadia National Corp",24.45,"Leucadia National Corp",NYSE,"Conglomerates - Div Operations",Conglomerates,N/A,N/A,N/A,N/A
+LUV,"Southwest Airlines Company",52.78,"Southwest Airlines Company",NYSE,"Transportation - Airline",Transportation,N/A,N/A,N/A,N/A
+LYB,"Lyondellbasell Industries Nv",104.79,"Lyondellbasell Industries Nv",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+M,"Macy's Inc",31.24,"Macy's Inc",NYSE,"Retail - Regional Dept Stores",Retail-Wholesale,N/A,N/A,N/A,N/A
+MA,"Mastercard Inc",188.17,"Mastercard Inc",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+MAA,"Mid-America Apartment Communities",92.34,"Mid-America Apartment Communities",NYSE,"REIT - Equity Trust Resident",Finance,N/A,N/A,N/A,N/A
+MAC,"Macerich Company",59.01,"Macerich Company",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+MAR,"Marriot Int Class A",135.85,"Marriot Int Class A",NASDAQ,"Hotels & Motels","Consumer Discretionary",N/A,N/A,N/A,N/A
+MAS,"Masco Corp",38.32,"Masco Corp",NYSE,"Building & Construction - Misc",Construction,N/A,N/A,N/A,N/A
+MAT,"Mattel Inc",14.02,"Mattel Inc",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+MCD,"McDonald's Corp",165.03,"McDonald's Corp",NYSE,"Retail - Restaurants",Retail-Wholesale,N/A,N/A,N/A,N/A
+MCHP,"Microchip Technology",87.51,"Microchip Technology",NASDAQ,"Semi Analog & Mixed","Computers and Technology",N/A,N/A,N/A,N/A
+MCK,"Mckesson Corp",146.82,"Mckesson Corp",NYSE,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+MCO,"Moody's Corp",166.31,"Moody's Corp",NYSE,"Finance - Misc Services",Finance,N/A,N/A,N/A,N/A
+MDLZ,"Mondelez Intl Cmn A",38.9,"Mondelez Intl Cmn A",NASDAQ,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+MDT,"Medtronic Inc",81.08,"Medtronic Inc",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+MET,"Metlife Inc",46.23,"Metlife Inc",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+MGM,"MGM Resorts International",31.86,"MGM Resorts International",NYSE,Gaming,"Consumer Discretionary",N/A,N/A,N/A,N/A
+MHK,"Mohawk Industries",216.36,"Mohawk Industries",NYSE,"Textile - Home Furnishings","Consumer Discretionary",N/A,N/A,N/A,N/A
+MKC,"Mccormick & Company Inc",103.2,"Mccormick & Company Inc",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+MLM,"Martin Marietta Materials",204,"Martin Marietta Materials",NYSE,"Building - CMT & CNT & AG",Construction,N/A,N/A,N/A,N/A
+MMC,"Marsh & Mclennan Companies",81.15,"Marsh & Mclennan Companies",NYSE,"Insurance - Brokers",Finance,N/A,N/A,N/A,N/A
+MMM,"3M Company",199.36,"3M Company",NYSE,"Conglomerates - Div Operations",Conglomerates,N/A,N/A,N/A,N/A
+MNST,"Monster Beverage Cp",52.76,"Monster Beverage Cp",NASDAQ,"Beverages - Soft","Consumer Staples",N/A,N/A,N/A,N/A
+MO,"Altria Group",56.26,"Altria Group",NYSE,Tobacco,"Consumer Staples",N/A,N/A,N/A,N/A
+MON,"Monsanto Company",124.83,"Monsanto Company",NYSE,"Agriculture Products","Basic Materials",N/A,N/A,N/A,N/A
+MOS,"Mosaic Company",27.43,"Mosaic Company",NYSE,Fertilizers,"Basic Materials",N/A,N/A,N/A,N/A
+MPC,"Marathon Petroleum Corp",76.94,"Marathon Petroleum Corp",NYSE,"Oil - Refining and Marketing",Oils-Energy,N/A,N/A,N/A,N/A
+MRK,"Merck & Company",57.75,"Merck & Company",NYSE,"Large Cap Pharma",Medical,N/A,N/A,N/A,N/A
+MRO,"Marathon Oil Corp",19.72,"Marathon Oil Corp",NYSE,"Oil - US Integrated",Oils-Energy,N/A,N/A,N/A,N/A
+MS,"Morgan Stanley",51.4,"Morgan Stanley",NYSE,"Finance - Investment Brokers",Finance,N/A,N/A,N/A,N/A
+MSCI,"MSCI Inc",152.13,"MSCI Inc",NYSE,"Business Software Services","Computers and Technology",N/A,N/A,N/A,N/A
+MSFT,"Microsoft Corp",95.16,"Microsoft Corp",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+MSI,"Motorola Solutions",108.03,"Motorola Solutions",NYSE,"Wireless Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+MTB,"M&T Bank Corp",180.45,"M&T Bank Corp",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+MTD,"Mettler-Toledo International",552.97,"Mettler-Toledo International",NYSE,"Industrial Scientific","Computers and Technology",N/A,N/A,N/A,N/A
+MU,"Micron Technology",47.58,"Micron Technology",NASDAQ,"Semi Memory","Computers and Technology",N/A,N/A,N/A,N/A
+MYL,"Mylan Nv Ord Shs",35.98,"Mylan Nv Ord Shs",NASDAQ,"Medical - Generic Drugs",Medical,N/A,N/A,N/A,N/A
+NAVI,"Navient Cp",13.48,"Navient Cp",NASDAQ,"Finance - Consumer Loans",Finance,N/A,N/A,N/A,N/A
+NBL,"Noble Energy Inc",32.73,"Noble Energy Inc",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+NCLH,"Norwegian Cruise Ord",51.51,"Norwegian Cruise Ord",NYSE,"Leisure & Recreation Services","Consumer Discretionary",N/A,N/A,N/A,N/A
+NDAQ,"Nasdaq Inc",87.7,"Nasdaq Inc",NASDAQ,"Securities Exchanges",Finance,N/A,N/A,N/A,N/A
+NEE,"Nextera Energy",164.09,"Nextera Energy",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+NEM,"Newmont Mining Corp",39.65,"Newmont Mining Corp",NYSE,"Mining - Gold","Basic Materials",N/A,N/A,N/A,N/A
+NFLX,"Netflix Inc",320.09,"Netflix Inc",NASDAQ,"Broadcast - Radio & TV","Consumer Discretionary",N/A,N/A,N/A,N/A
+NFX,"Newfield Exploration Company",27.34,"Newfield Exploration Company",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+NI,"NiSource Inc",25.41,"NiSource Inc",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+NKE,"Nike Inc",68.1,"Nike Inc",NYSE,"Shoes and Related Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+NKTR,"Nektar Therapeutics",77.2,"Nektar Therapeutics",NASDAQ,"Medical - Drugs",Medical,N/A,N/A,N/A,N/A
+NLSN,"Nielsen Holdings Plc",30.19,"Nielsen Holdings Plc",NYSE,"Business Information","Business Services",N/A,N/A,N/A,N/A
+NOC,"Northrop Grumman Corp",313.85,"Northrop Grumman Corp",NYSE,"Aerospace - Defense",Aerospace,N/A,N/A,N/A,N/A
+NOV,National-Oilwell,38.5,National-Oilwell,NYSE,"Oil Field Machinery & Equip",Oils-Energy,N/A,N/A,N/A,N/A
+NRG,"NRG Energy",33.3,"NRG Energy",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+NSC,"Norfolk Southern Corp",143.92,"Norfolk Southern Corp",NYSE,"Transportation - Rail",Transportation,N/A,N/A,N/A,N/A
+NTAP,"Netapp Inc",68.01,"Netapp Inc",NASDAQ,"Computer - Storage Devices","Computers and Technology",N/A,N/A,N/A,N/A
+NTRS,"Northern Trust Corp",104.84,"Northern Trust Corp",NASDAQ,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+NUE,"Nucor Corp",62.94,"Nucor Corp",NYSE,"Steel - Producers","Basic Materials",N/A,N/A,N/A,N/A
+NVDA,"Nvidia Corp",239.06,"Nvidia Corp",NASDAQ,"Semi General","Computers and Technology",N/A,N/A,N/A,N/A
+NWL,"Newell Rubbermaid Inc",27.65,"Newell Rubbermaid Inc",NYSE,"Consumer Prdts - Misc Staple","Consumer Staples",N/A,N/A,N/A,N/A
+NWS,"News Cp Cl B Cmn ST",16.35,"News Cp Cl B Cmn ST",NASDAQ,"Movie & TV Production & Dist","Consumer Discretionary",N/A,N/A,N/A,N/A
+NWSA,"News Cp Cl A Cmn ST",16.14,"News Cp Cl A Cmn ST",NASDAQ,"Movie & TV Production & Dist","Consumer Discretionary",N/A,N/A,N/A,N/A
+O,"Realty Income Corp",52.27,"Realty Income Corp",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+OKE,"Oneok Inc",63.45,"Oneok Inc",NYSE,"Utility - Gas Distribution",Utilities,N/A,N/A,N/A,N/A
+OMC,"Omnicom Group Inc",74.58,"Omnicom Group Inc",NYSE,"Advertising Marketing Services","Business Services",N/A,N/A,N/A,N/A
+ORCL,"Oracle Corp",45.71,"Oracle Corp",NYSE,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+ORLY,"O'Reilly Automotive",259.51,"O'Reilly Automotive",NASDAQ,"Retail - Wholesale Auto Parts",Retail-Wholesale,N/A,N/A,N/A,N/A
+OXY,"Occidental Petroleum Corp",77.71,"Occidental Petroleum Corp",NYSE,"Oil - US Integrated",Oils-Energy,N/A,N/A,N/A,N/A
+PAYX,"Paychex Inc",62.41,"Paychex Inc",NASDAQ,Outsourcing,"Business Services",N/A,N/A,N/A,N/A
+PBCT,"People's United Finl",18.41,"People's United Finl",NASDAQ,"Finance - Savings & Loan",Finance,N/A,N/A,N/A,N/A
+PCAR,"Paccar Inc",63.8,"Paccar Inc",NASDAQ,"Auto - Domestic",Auto-Tires-Trucks,N/A,N/A,N/A,N/A
+PCG,"Pacific Gas & Electric Co",44.88,"Pacific Gas & Electric Co",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+PEG,"Public Service Enterprise Group Inc",52.1,"Public Service Enterprise Group Inc",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+PEP,"Pepsico Inc",98.99,"Pepsico Inc",NASDAQ,"Beverages - Soft","Consumer Staples",N/A,N/A,N/A,N/A
+PFE,"Pfizer Inc",34.84,"Pfizer Inc",NYSE,"Large Cap Pharma",Medical,N/A,N/A,N/A,N/A
+PFG,"Principal Financial Group Inc",57.15,"Principal Financial Group Inc",NASDAQ,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+PG,"Procter & Gamble Company",72.43,"Procter & Gamble Company",NYSE,"Soap and Cleaning Products","Consumer Staples",N/A,N/A,N/A,N/A
+PGR,"Progressive Corp",59.81,"Progressive Corp",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+PH,"Parker-Hannifin Corp",170.95,"Parker-Hannifin Corp",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+PHM,Pultegroup,30.98,Pultegroup,NYSE,"Building - Residential & Comm",Construction,N/A,N/A,N/A,N/A
+PKG,"Packaging Corporation of America",114.15,"Packaging Corporation of America",NYSE,"Containers - Paper Products","Industrial Products",N/A,N/A,N/A,N/A
+PKI,Perkinelmer,72.82,Perkinelmer,NYSE,"Industrial Scientific","Computers and Technology",N/A,N/A,N/A,N/A
+PLD,"Prologis Inc",65.25,"Prologis Inc",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+PM,"Philip Morris International Inc",81.87,"Philip Morris International Inc",NYSE,Tobacco,"Consumer Staples",N/A,N/A,N/A,N/A
+PNC,"PNC Bank",145.6,"PNC Bank",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+PNR,"Pentair Ltd",44.3,"Pentair Ltd",NYSE,"Machinery - Thermal Processing","Industrial Products",N/A,N/A,N/A,N/A
+PNW,"Pinnacle West Capital Corp",80.2,"Pinnacle West Capital Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+PPG,"PPG Industries",106.4,"PPG Industries",NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+PPL,"PPL Corp",28.95,"PPL Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+PRGO,"Perrigo Company",76.26,"Perrigo Company",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+PRU,"Prudential Financial Inflation Retail",100.66,"Prudential Financial Inflation Retail",NYSE,"Insurance - Multi Line",Finance,N/A,N/A,N/A,N/A
+PSA,"Public Storage",207.39,"Public Storage",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+PSX,"Phillips 66",115.61,"Phillips 66",NYSE,"Oil - Refining and Marketing",Oils-Energy,N/A,N/A,N/A,N/A
+PVH,"Phillips-Van Heusen Corp",152.27,"Phillips-Van Heusen Corp",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+PWR,"Quanta Services",34.95,"Quanta Services",NYSE,"Engineering & R&D Services","Industrial Products",N/A,N/A,N/A,N/A
+PX,Praxair,154.57,Praxair,NYSE,"Chemical - Diversified","Basic Materials",N/A,N/A,N/A,N/A
+PXD,"Pioneer Natural Resources Co",194.19,"Pioneer Natural Resources Co",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+PYPL,"Paypal Holdings",73.99,"Paypal Holdings",NASDAQ,"Internet - Software","Computers and Technology",N/A,N/A,N/A,N/A
+QCOM,"Qualcomm Inc",52.49,"Qualcomm Inc",NASDAQ,"Wireless Equipment","Computers and Technology",N/A,N/A,N/A,N/A
+QRVO,"Qorvo Inc",79.49,"Qorvo Inc",NASDAQ,"Semi Radio Frequency","Computers and Technology",N/A,N/A,N/A,N/A
+RCL,"Royal Caribbean Cruises Ltd",107.36,"Royal Caribbean Cruises Ltd",NYSE,"Leisure & Recreation Services","Consumer Discretionary",N/A,N/A,N/A,N/A
+RE,"Everest Re Group",227.52,"Everest Re Group",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+REG,"Regency Centers Corp",58.76,"Regency Centers Corp",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+REGN,"Regeneron Pharmaceutical",291.25,"Regeneron Pharmaceutical",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+RF,"Regions Financial Corp",18.72,"Regions Financial Corp",NYSE,"Banks - Southeast",Finance,N/A,N/A,N/A,N/A
+RHI,"Robert Half International Inc",62.05,"Robert Half International Inc",NYSE,Staffing,"Business Services",N/A,N/A,N/A,N/A
+RHT,"Red Hat Inc",166.1,"Red Hat Inc",NYSE,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+RJF,"Raymond James Financial",89.55,"Raymond James Financial",NYSE,"Finance - Investment Brokers",Finance,N/A,N/A,N/A,N/A
+RL,"Ralph Lauren Corp",106.8,"Ralph Lauren Corp",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+RMD,"Resmed Inc",97.72,"Resmed Inc",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+ROK,"Rockwell Automation Inc",173.49,"Rockwell Automation Inc",NYSE,"Industrial Robotics","Computers and Technology",N/A,N/A,N/A,N/A
+ROP,"Roper Industries",269.2,"Roper Industries",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+ROST,"Ross Stores Inc",80.71,"Ross Stores Inc",NASDAQ,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+RRC,"Range Resources Corp",13.62,"Range Resources Corp",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+RSG,"Republic Services",68.56,"Republic Services",NYSE,"Waste Removal Svcs","Business Services",N/A,N/A,N/A,N/A
+RTN,"Raytheon Company",202.54,"Raytheon Company",NYSE,"Aerospace - Defense Equipment",Aerospace,N/A,N/A,N/A,N/A
+SBAC,"SBA Communications",159.14,"SBA Communications",NASDAQ,"Communications Infrastructure","Computers and Technology",N/A,N/A,N/A,N/A
+SBUX,"Starbucks Corp",57.68,"Starbucks Corp",NASDAQ,"Retail - Restaurants",Retail-Wholesale,N/A,N/A,N/A,N/A
+SCG,"Scana Corp",36.5,"Scana Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+SCHW,"The Charles Schwab Corp",56.09,"The Charles Schwab Corp",NYSE,"Finance - Investment Brokers",Finance,N/A,N/A,N/A,N/A
+SEE,"Sealed Air Corp",44.45,"Sealed Air Corp",NYSE,"Containers - Paper Products","Industrial Products",N/A,N/A,N/A,N/A
+SHW,"Sherwin-Williams Company",377.53,"Sherwin-Williams Company",NYSE,"Paint & Related Products",Construction,N/A,N/A,N/A,N/A
+SIVB,"Svb Financial Grp",305.82,"Svb Financial Grp",NASDAQ,"Banks - West",Finance,N/A,N/A,N/A,N/A
+SJM,"J.M. Smucker Company",113.31,"J.M. Smucker Company",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+SLB,"Schlumberger N.V.",68.79,"Schlumberger N.V.",NYSE,"Oil - Field Services",Oils-Energy,N/A,N/A,N/A,N/A
+SLG,"SL Green Realty Corp",99.92,"SL Green Realty Corp",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+SNA,"Snap-On Inc",145.73,"Snap-On Inc",NYSE,"Tools - Hand Held","Consumer Discretionary",N/A,N/A,N/A,N/A
+SNPS,"Synopsys Inc",87.72,"Synopsys Inc",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+SO,"Southern Company",46.03,"Southern Company",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+SPG,"Simon Property Group",159.34,"Simon Property Group",NYSE,"REIT - Equity Trust Retail",Finance,N/A,N/A,N/A,N/A
+SPGI,"S&P Global Inc",192.17,"S&P Global Inc",NYSE,"Business Information","Business Services",N/A,N/A,N/A,N/A
+SRCL,"Stericycle Inc",63.84,"Stericycle Inc",NASDAQ,"Waste Removal Svcs","Business Services",N/A,N/A,N/A,N/A
+SRE,"Sempra Energy",111.8,"Sempra Energy",NYSE,"Utility - Gas Distribution",Utilities,N/A,N/A,N/A,N/A
+STI,"Suntrust Banks",66.6,"Suntrust Banks",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+STT,"State Street Corp",97.75,"State Street Corp",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+STX,"Seagate Tech Ord Shs",55.68,"Seagate Tech Ord Shs",NASDAQ,"Computer - Storage Devices","Computers and Technology",N/A,N/A,N/A,N/A
+STZ,"Constellation Brands Inc",221.28,"Constellation Brands Inc",NYSE,"Beverages - Alcohol","Consumer Staples",N/A,N/A,N/A,N/A
+SWK,"Stanley Black & Decker Inc",140.35,"Stanley Black & Decker Inc",NYSE,"Machinery - Tools & Related","Industrial Products",N/A,N/A,N/A,N/A
+SWKS,"Skyworks Solutions",96.2,"Skyworks Solutions",NASDAQ,"Semi Radio Frequency","Computers and Technology",N/A,N/A,N/A,N/A
+SYF,"Synchrony Financial",32.63,"Synchrony Financial",NYSE,"Finance - Misc Services",Finance,N/A,N/A,N/A,N/A
+SYK,"Stryker Corp",168,"Stryker Corp",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+SYMC,"Symantec Corp",27.84,"Symantec Corp",NASDAQ,"Computer - Software","Computers and Technology",N/A,N/A,N/A,N/A
+SYY,"Sysco Corp",62.29,"Sysco Corp",NYSE,"Food - Misc & Diversified","Consumer Staples",N/A,N/A,N/A,N/A
+T,"AT&T Inc",32.14,"AT&T Inc",NYSE,"Wireless National",Utilities,N/A,N/A,N/A,N/A
+TAP,"Molson Coors Brewing Company",60.48,"Molson Coors Brewing Company",NYSE,"Beverages - Alcohol","Consumer Staples",N/A,N/A,N/A,N/A
+TDG,"Transdigm Group Inc",322.97,"Transdigm Group Inc",NYSE,"Aerospace - Defense Equipment",Aerospace,N/A,N/A,N/A,N/A
+TEL,"Te Connectivity Ltd",92.43,"Te Connectivity Ltd",NYSE,"Electronics - Misc Components","Computers and Technology",N/A,N/A,N/A,N/A
+TGT,"Target Corp",71.05,"Target Corp",NYSE,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+TIF,"Tiffany & Co",103.01,"Tiffany & Co",NYSE,"Retail - Jewelry",Retail-Wholesale,N/A,N/A,N/A,N/A
+TJX,"TJX Companies",82.83,"TJX Companies",NYSE,"Retail - Discount",Retail-Wholesale,N/A,N/A,N/A,N/A
+TMK,"Torchmark Corp",85.46,"Torchmark Corp",NYSE,"Insurance - Life",Finance,N/A,N/A,N/A,N/A
+TMO,"Thermo Fisher Scientific Inc",210.07,"Thermo Fisher Scientific Inc",NYSE,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+TPR,"Tapestry Inc",46.16,"Tapestry Inc",NYSE,"Retail - Apparel & Shoes",Retail-Wholesale,N/A,N/A,N/A,N/A
+TRIP,"Tripadvisor Inc",38.53,"Tripadvisor Inc",NASDAQ,"Internet Commerce",Retail-Wholesale,N/A,N/A,N/A,N/A
+TROW,"T Rowe Price Group",111.97,"T Rowe Price Group",NASDAQ,"Finance - Investment Mgmt",Finance,N/A,N/A,N/A,N/A
+TRV,"The Travelers Companies Inc",129.71,"The Travelers Companies Inc",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+TSCO,"Tractor Supply Co",66.96,"Tractor Supply Co",NASDAQ,"Retail - Misc & Diversified",Retail-Wholesale,N/A,N/A,N/A,N/A
+TSN,"Tyson Foods",66.97,"Tyson Foods",NYSE,"Food - Meat Products","Consumer Staples",N/A,N/A,N/A,N/A
+TSS,"Total System Services",85.21,"Total System Services",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+TTWO,"Take-Two Interacti",108.76,"Take-Two Interacti",NASDAQ,"Toys & Game & Hobby","Consumer Discretionary",N/A,N/A,N/A,N/A
+TWX,"Time Warner Inc",93.14,"Time Warner Inc",NYSE,"Media Conglomerates","Consumer Discretionary",N/A,N/A,N/A,N/A
+TXN,"Texas Instruments",104.69,"Texas Instruments",NASDAQ,"Semi General","Computers and Technology",N/A,N/A,N/A,N/A
+TXT,"Textron Inc",63,"Textron Inc",NYSE,"Aerospace - Defense",Aerospace,N/A,N/A,N/A,N/A
+UA,"Under Armour Inc Class C Comm",15.73,"Under Armour Inc Class C Comm",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+UAA,"Under Armour",17.36,"Under Armour",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+UAL,"United Continental Holdings",68.32,"United Continental Holdings",NYSE,"Transportation - Airline",Transportation,N/A,N/A,N/A,N/A
+UDR,"United Dominion Realty Trust",36.32,"United Dominion Realty Trust",NYSE,"REIT - Equity Trust Resident",Finance,N/A,N/A,N/A,N/A
+UHS,"Universal Health Services",117.77,"Universal Health Services",NYSE,"Medical - Hospitals",Medical,N/A,N/A,N/A,N/A
+ULTA,"Ulta Salon Cosmetic",253.74,"Ulta Salon Cosmetic",NASDAQ,"Retail - Misc & Diversified",Retail-Wholesale,N/A,N/A,N/A,N/A
+UNH,"Unitedhealth Group Inc",235.9,"Unitedhealth Group Inc",NYSE,"Medical - HMO",Medical,N/A,N/A,N/A,N/A
+UNM,"Unumprovident Corp",39.86,"Unumprovident Corp",NYSE,"Insurance - Accident & Health",Finance,N/A,N/A,N/A,N/A
+UNP,"Union Pacific Corp",134.13,"Union Pacific Corp",NYSE,"Transportation - Rail",Transportation,N/A,N/A,N/A,N/A
+UPS,"United Parcel Service",111.31,"United Parcel Service",NYSE,"Transportation - Air Freight",Transportation,N/A,N/A,N/A,N/A
+URI,"United Rentals",153.23,"United Rentals",NYSE,"Building & Construction - Misc",Construction,N/A,N/A,N/A,N/A
+USB,"U.S. Bancorp",50.34,"U.S. Bancorp",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+UTX,"United Technologies Corp",119.51,"United Technologies Corp",NYSE,"Conglomerates - Div Operations",Conglomerates,N/A,N/A,N/A,N/A
+V,"Visa Inc",128.16,"Visa Inc",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+VAR,"Varian Medical Systems",117.57,"Varian Medical Systems",NYSE,"Medical Instruments",Medical,N/A,N/A,N/A,N/A
+VFC,"V.F. Corp",76.27,"V.F. Corp",NYSE,"Textile - Apparel","Consumer Staples",N/A,N/A,N/A,N/A
+VIAB,"Viacom Inc Cl B",30.29,"Viacom Inc Cl B",NASDAQ,"Media Conglomerates","Consumer Discretionary",N/A,N/A,N/A,N/A
+VLO,"Valero Energy Corp",113.39,"Valero Energy Corp",NYSE,"Oil - Refining and Marketing",Oils-Energy,N/A,N/A,N/A,N/A
+VMC,"Vulcan Materials Company",122.7,"Vulcan Materials Company",NYSE,"Building - CMT & CNT & AG",Construction,N/A,N/A,N/A,N/A
+VNO,"Vornado Realty Trust",69.63,"Vornado Realty Trust",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+VRSK,"Verisk Analytics Inc",102.36,"Verisk Analytics Inc",NASDAQ,"Business Information","Business Services",N/A,N/A,N/A,N/A
+VRSN,"Verisign Inc",122.31,"Verisign Inc",NASDAQ,"Internet Software Services","Computers and Technology",N/A,N/A,N/A,N/A
+VRTX,"Vertex Pharmaceutic",149.39,"Vertex Pharmaceutic",NASDAQ,"Medical - Biomedical",Medical,N/A,N/A,N/A,N/A
+VTR,"Ventas Inc",53.15,"Ventas Inc",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+VZ,"Verizon Communications Inc",48.19,"Verizon Communications Inc",NYSE,"Wireless National",Utilities,N/A,N/A,N/A,N/A
+WAT,"Waters Corp",191.58,"Waters Corp",NYSE,"Industrial Scientific","Computers and Technology",N/A,N/A,N/A,N/A
+WBA,"Walgreens Boots Alliance",63.81,"Walgreens Boots Alliance",NASDAQ,"Retail - Drug Stores",Retail-Wholesale,N/A,N/A,N/A,N/A
+WDC,"Western Digital Cp",77.28,"Western Digital Cp",NASDAQ,"Computer - Storage Devices","Computers and Technology",N/A,N/A,N/A,N/A
+WEC,"Wisconsin Energy Corp",64.41,"Wisconsin Energy Corp",NYSE,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+WELL,"Welltower Inc",56.18,"Welltower Inc",NYSE,"REIT - Equity Trust Other",Finance,N/A,N/A,N/A,N/A
+WFC,"Wells Fargo & Company",52.41,"Wells Fargo & Company",NYSE,"Banks - Major Regional",Finance,N/A,N/A,N/A,N/A
+WHR,"Whirlpool Corp",153.3,"Whirlpool Corp",NYSE,"Appliances - Household","Consumer Discretionary",N/A,N/A,N/A,N/A
+WLTW,"Willis Towers Wts",148.91,"Willis Towers Wts",NASDAQ,"Insurance - Brokers",Finance,N/A,N/A,N/A,N/A
+WM,"Waste Management",84.05,"Waste Management",NYSE,"Waste Removal Svcs","Business Services",N/A,N/A,N/A,N/A
+WMB,"Williams Companies",26.19,"Williams Companies",NYSE,"Oil - Production & Pipeline",Oils-Energy,N/A,N/A,N/A,N/A
+WMT,"Wal-Mart Stores",87.53,"Wal-Mart Stores",NYSE,"Retail - Supermarket",Retail-Wholesale,N/A,N/A,N/A,N/A
+WRK,"Westrock Company",59.41,"Westrock Company",NYSE,"Paper & Related Products","Basic Materials",N/A,N/A,N/A,N/A
+WU,"Western Union Company",19.61,"Western Union Company",NYSE,"Financial Transaction Services","Business Services",N/A,N/A,N/A,N/A
+WY,"Weyerhaeuser Company",36.51,"Weyerhaeuser Company",NYSE,"Building Products - Wood",Construction,N/A,N/A,N/A,N/A
+WYN,"Wyndham Worldwide Corp",106.3,"Wyndham Worldwide Corp",NYSE,"Hotels & Motels","Consumer Discretionary",N/A,N/A,N/A,N/A
+WYNN,"Wynn Resorts Ltd",192.41,"Wynn Resorts Ltd",NASDAQ,Gaming,"Consumer Discretionary",N/A,N/A,N/A,N/A
+XEC,"Cimarex Energy Co",97.31,"Cimarex Energy Co",NYSE,"Oil - US Exploration & Product",Oils-Energy,N/A,N/A,N/A,N/A
+XEL,"XCEL Energy Inc",46.39,"XCEL Energy Inc",NASDAQ,"Utility - Electric Power",Utilities,N/A,N/A,N/A,N/A
+XL,"XL Company Switzerland Gmbh",55.54,"XL Company Switzerland Gmbh",NYSE,"Insurance - Proprty & Casualty",Finance,N/A,N/A,N/A,N/A
+XLNX,"Xilinx Inc",66.95,"Xilinx Inc",NASDAQ,"Semi Pro Logic Devices","Computers and Technology",N/A,N/A,N/A,N/A
+XOM,"Exxon Mobil Corp",76.9,"Exxon Mobil Corp",NYSE,"Oil - International Integrated",Oils-Energy,N/A,N/A,N/A,N/A
+XRAY,"Dentsply Sirona Inc",49.99,"Dentsply Sirona Inc",NASDAQ,"Medical - Dental Suppliers",Medical,N/A,N/A,N/A,N/A
+XRX,"Xerox Corp",28.38,"Xerox Corp",NYSE,"Business Services","Business Services",N/A,N/A,N/A,N/A
+XYL,"Xylem Inc",70.08,"Xylem Inc",NYSE,"Machinery - General Industrial","Industrial Products",N/A,N/A,N/A,N/A
+YUM,"Yum! Brands",82.43,"Yum! Brands",NYSE,"Retail - Restaurants",Retail-Wholesale,N/A,N/A,N/A,N/A
+ZBH,"Zimmer Biomet Holdings",116.22,"Zimmer Biomet Holdings",NYSE,"Medical Products",Medical,N/A,N/A,N/A,N/A
+ZION,"Zions Bancorporation",55.46,"Zions Bancorporation",NASDAQ,"Banks - West",Finance,N/A,N/A,N/A,N/A
+ZTS,"Zoetis Inc Class A",81.56,"Zoetis Inc Class A",NYSE,"Medical - Drugs",Medical,N/A,N/A,N/A,N/A
+"Downloaded from Barchart.com as of 05-06-2018 12:51pm CDT"
