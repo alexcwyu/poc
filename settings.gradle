@@ -1,12 +1,15 @@
 rootProject.name = 'poc'
 include 'common'
-include 'grpc-server'
-include 'grpc-client'
-include 'grpc-api'
-include 'grpc-client-kotlin'
-include 'grpc-server-kotlin'
 
-include 'bigdata-poc'
-include 'spark'
+include 'grpc-springboot'
+include 'grpc-report-server'
+
+include 'bigdata-poc:base'
+include 'bigdata-poc:flink'
+include 'bigdata-poc:kafka'
+include 'bigdata-poc:spark'
+include 'bigdata-poc:nosql'
+
+include 'stress'
 
 

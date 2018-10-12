@@ -5,47 +5,55 @@ apply plugin: 'idea'
 
 buildscript {
     ext {
-        springBootVersion = '2.0.1.RELEASE'
-        springDataVersion = '2.0.7.RELEASE'
-        springVersion = '5.0.6.RELEASE'
-        grpcVersion = '1.11.0'
+        springBootVersion = '2.0.5.RELEASE'
+        springDataVersion = '2.1.0.RELEASE'
+        springVersion = '5.1.0.RELEASE'
+        grpcVersion = '1.15.1'
         grpcspringBootVersion = '2.3.1'
-        protocVersion = '3.5.1-1'
-        protobufVersion = '3.5.1'
+        protocVersion = '3.6.1'
+        protobufVersion = '3.6.1'
         protobufGradleVersion = '0.8.5'
         protostuffVersion = '1.5.9'
-        kryoVersion = '2.24.0'
-        flatbuffersVersion = '1.8.0'
-        guavaVersion = '24.1-jre'
+        kryoVersion = '4.0.2'
+        flatbuffersVersion = '1.10.0'
+        guavaVersion = '26.0-jre'
         slf4jVersion = '1.7.25'
-        log4jVersion = '2.11.0'
+        log4jVersion = '2.11.1'
         junitVersion = '4.12'
         mockitoVersion = '2.18.3'
-        jodaTimeVersion = '2.9.9'
-        rxJavaVersion = '2.1.12'
-        reactorVersion = '3.1.6.RELEASE'
-        kotlinVersion = '1.2.40'
+        jodaTimeVersion = '2.10'
+        rxJavaVersion = '2.2.2'
+        reactorVersion = '3.2.1.RELEASE'
+        kotlinVersion = '1.2.71'
         samzaVersion = '0.14.0'
-        confluentVersion = '4.1.0'
-        kafkaVersion = '1.1.0'
+        confluentVersion = '5.0.0'
+        kafkaVersion = '2.0.0'
         avroVersion = '1.8.2'
         disruptorVersion = '3.4.2'
-        lombokVersion = '1.16.20'
-        sparkVersion = '2.3.0'
-        igniteVersion = '2.4.0'
-        elasticsearchVersion = '6.2.3'
-        flinkVersion = '1.4.2'
-        rocksDBVersion = '5.11.3'
-        influxDBVersion = '2.9'
-        jacksonVersion = '2.9.5'
+        agronaVersion = '0.9.21'
+        aeronVersion = '1.11.2'
+        sbeVersion = '1.8.9'
+        lombokVersion = '1.18.2'
+        sparkVersion = '2.3.2'
+        igniteVersion = '2.6.0'
+        elasticsearchVersion = '6.4.2'
+        flinkVersion = '1.6.1'
+        rocksDBVersion = '5.15.10'
+        influxDBVersion = '2.13'
+        jacksonVersion = '2.9.7'
         cassandraVersion = '3.11.2'
         datastaxVersion = '3.4.0'
-        akkaVersion = '2.5.12'
-        postgresqlVersion = '42.2.2'
+        akkaVersion = '2.5.17'
+        postgresqlVersion = '42.2.5'
         jedisVersion = '2.9.0'
-        undertowVersion = '2.0.7.Final'
-        resteasyVersion = '3.5.1.Final'
-        swaggerVersion = '2.0.1'
+        undertowVersion = '2.0.13.Final'
+        resteasyVersion = '3.6.1.Final'
+        swaggerVersion = '2.0.5'
+        springfoxVersion = '2.8.0'
+        hibernateVersion = '5.3.6.Final'
+        hamcrestVersion = '1.3'
+        scalaVersion = '2.11.12'
+        jmhVersion = '1.21'
     }
     repositories {
         mavenCentral()
@@ -61,6 +69,7 @@ buildscript {
         classpath group: 'com.netflix.nebula', name: 'nebula-project-plugin', version: '2.2.1'
         classpath group: 'com.netflix.nebula', name: 'nebula-interactive', version: '2.0.+'
         classpath "org.jfrog.buildinfo:build-info-extractor-gradle:4.0.0"
+
     }
 }
 
@@ -84,7 +93,10 @@ subprojects {
     }
 
     dependencies {
-        compileOnly("org.projectlombok:lombok:${lombokVersion}")
+
+        testCompile group: 'junit', name: 'junit', version: "${junitVersion}"
+        testCompile group: 'org.hamcrest', name: 'hamcrest-core', version: "${hamcrestVersion}"
+        testCompile group: 'org.hamcrest', name: 'hamcrest-library', version: "${hamcrestVersion}"
     }
 
 }

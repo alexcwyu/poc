@@ -1,0 +1,62 @@
+
+
+buildscript {
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}"
+    }
+}
+
+
+plugins {
+    id "me.champeau.gradle.jmh" version "0.4.7"
+}
+
+group 'info.alexyu'
+version '1.0-SNAPSHOT'
+
+
+apply plugin: 'java'
+apply plugin: 'scala'
+apply plugin: 'kotlin'
+apply plugin: 'me.champeau.gradle.jmh'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.scala-lang', name: 'scala-library', version: "${scalaVersion}"
+    compile group: 'org.jetbrains.kotlin', name: 'kotlin-stdlib-jre8', version : "${kotlinVersion}"
+
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: "${log4jVersion}"
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: "${log4jVersion}"
+
+    compile group: 'org.agrona', name: 'agrona', version: "${agronaVersion}"
+    compile group: 'io.aeron', name: 'aeron-all', version: "${aeronVersion}"
+    compile group: 'uk.co.real-logic', name: 'sbe-all', version: "${sbeVersion}"
+    compile group: 'com.lmax', name: 'disruptor', version: "${disruptorVersion}"
+
+    testCompile group: 'org.openjdk.jmh', name: 'jmh-core', version: "${jmhVersion}"
+    testCompile group: 'org.openjdk.jmh', name: 'jmh-generator-annprocess', version: "${jmhVersion}"
+
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+
+jmh {
+    include = 'info\\.alexyu\\.pubsub\\.JMHSample_01_HelloWorld.*'
+    humanOutputFile = null
+    warmupIterations = 1
+    iterations = 1
+}
