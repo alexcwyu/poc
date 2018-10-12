@@ -1,0 +1,11 @@
+{"namespace": "net.alexyu.poc.model.avro",
+ "type": "record",
+ "name": "Instrument",
+ "fields": [
+     {"name": "instid", "type": "string"},
+     {"name": "ccy", "type": "string"},
+     {"name": "country", "type": "string"},
+     {"name": "gicsSector", "type": "string"},
+     {"name": "gicsIndustry", "type": "string"}
+ ]
+}

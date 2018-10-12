@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option java_package = "net.alexyu.poc.model.proto";
+option java_outer_classname = "AccountProto";
+option java_multiple_files = true;
+
+message Account {
+
+    enum BusGroup {
+        PB = 0;
+        PWM = 1;
+        IED = 2;
+        LD = 3;
+        FID = 4;
+    }
+
+
+
+    enum Region {
+        NY = 0;
+        LN = 1;
+        HK = 2;
+    }
+
+
+    string acct_id = 1;
+    string acct_name = 2;
+    string firm_name = 3;
+    BusGroup bus_group = 4;
+    Region region = 5;
+}

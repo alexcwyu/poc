@@ -1,0 +1,105 @@
+{
+  "openapi" : "3.0.1",
+  "info" : {
+    "title" : "My API",
+    "description" : "A sample API",
+    "version" : "1.2.3"
+  },
+  "paths" : {
+    "/report/demo" : {
+      "get" : {
+        "operationId" : "demo",
+        "responses" : {
+          "default" : {
+            "description" : "default response",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/Report"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/report/query" : {
+      "post" : {
+        "operationId" : "query",
+        "requestBody" : {
+          "content" : {
+            "application/json" : {
+              "schema" : {
+                "$ref" : "#/components/schemas/Query"
+              }
+            }
+          }
+        },
+        "responses" : {
+          "default" : {
+            "description" : "default response",
+            "content" : {
+              "application/json" : {
+                "schema" : {
+                  "$ref" : "#/components/schemas/Report"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components" : {
+    "schemas" : {
+      "Query" : {
+        "type" : "object",
+        "properties" : {
+          "date" : {
+            "type" : "integer",
+            "format" : "int32"
+          },
+          "filters" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "columns" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          },
+          "groupBy" : {
+            "type" : "array",
+            "items" : {
+              "type" : "string"
+            }
+          }
+        }
+      },
+      "Report" : {
+        "type" : "object",
+        "properties" : {
+          "reportId" : {
+            "type" : "string"
+          },
+          "columns" : {
+            "type" : "array",
+            "items" : {
+              "$ref" : "#/components/schemas/ColumnVector"
+            }
+          },
+          "updateTime" : {
+            "type" : "integer",
+            "format" : "int64"
+          }
+        }
+      },
+      "ColumnVector" : {
+        "type" : "object"
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+syntax = "proto3";
+
+import "google/protobuf/descriptor.proto";
+
+option java_package = "net.alexyu.poc.model.proto";
+option java_outer_classname = "InstrumentProto";
+option java_multiple_files = true;
+
+message InstrumentRelation {
+    string inst_id = 1;
+    string const_inst_id = 2;
+    double weight = 3;
+}
+
+message Instrument {
+
+    enum InstType {
+        UNDEFINED = 0; //UNDEFINED
+
+        STK = 1; //Stock
+
+        CSH = 10; //Cash
+        OPT = 11; //Option
+        ETF = 12;
+        IDX = 13;
+        FUT = 14;
+        FWD = 15;
+        FOP = 16;
+        WNT = 17;
+
+        ADR = 20;
+        GDR = 21;
+        CDR = 22;
+
+        SWP = 30;
+        FXO = 40;
+
+        CDS = 50;
+        CDO = 51;
+
+        CB = 60;
+
+
+    }
+
+    enum OptionType {
+        UndefinedOptType = 0;
+        Call = 1;
+        Put = 2;
+    }
+
+    enum OptionStyle {
+        UndefinedOptStyle = 0;
+        European = 1; //European
+        American = 2; // American
+    }
+
+
+    string inst_id = 1;
+    string symbol = 2;
+    string exch_id = 3;
+    string name = 4;
+    InstType type = 5;
+    string ccy_id = 6;
+    string country_id = 7;
+
+
+    int32 gics_sector = 11;
+    int32 gics_industry_group = 12;
+    int32 gics_industry = 13;
+    int32 gics_sub_industry = 14;
+
+    string und_inst_id = 31;
+    OptionType option_type = 32;
+    OptionStyle option_style = 33;
+    double strike = 34;
+    int32 exp_date = 35; //yyyyMMdd
+    double conversion_ratio = 36;
+
+    map<string, string> alt_exch_ids = 51;
+    map<string, string> alt_symbols = 52;
+    map<string, string> alt_classifications = 53;
+
+}

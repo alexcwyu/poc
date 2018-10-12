@@ -1,0 +1,10 @@
+{"namespace": "net.alexyu.poc.model.avro",
+ "type": "record",
+ "name": "MarketData",
+ "fields": [
+     {"name": "instid", "type": "string"},
+     {"name": "type", "type": "string"},
+     {"name": "time",  "type": "long"},
+     {"name": "value",  "type": "double"}
+ ]
+}
