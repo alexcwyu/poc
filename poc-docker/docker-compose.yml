@@ -25,7 +25,8 @@ services:
       - 8080:8080
     volumes:
       - ./spark/master:/conf
-      - ./data:/tmp/data
+      - /tmp/lib:/tmp/lib
+      - /tmp/data:/tmp/data
     networks:
       - spark-net
 
@@ -53,7 +54,8 @@ services:
       - 8081:8081
     volumes:
       - ./spark/worker:/conf
-      - ./data:/tmp/data
+      - /tmp/lib:/tmp/lib
+      - /tmp/data:/tmp/data
     networks:
       - spark-net
 
