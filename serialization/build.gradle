@@ -1,0 +1,45 @@
+
+
+buildscript {
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${kotlinVersion}"
+    }
+}
+
+
+version '1.0-SNAPSHOT'
+
+
+apply plugin: 'java'
+apply plugin: 'scala'
+apply plugin: 'kotlin'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //compile group: 'org.scala-lang', name: 'scala-library', version: "${scalaVersion}"
+    compile group: 'org.jetbrains.kotlin', name: 'kotlin-stdlib-jre8', version : "${kotlinVersion}"
+
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: "${log4jVersion}"
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: "${log4jVersion}"
+
+    compile group: 'org.apache.avro', name: 'avro', version: "${avroVersion}"
+    compile group: 'org.apache.avro', name: 'avro-compiler', version: "${avroVersion}"
+
+    testCompile group: 'junit', name: 'junit', version: "${junitVersion}"
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
