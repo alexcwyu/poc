@@ -1,4 +1,4 @@
-FROM alexcwyu/hadoop:3_1_1
+FROM bigdata/hadoop:3_1_1
 
 # https://github.com/gettyimages/docker-spark
 

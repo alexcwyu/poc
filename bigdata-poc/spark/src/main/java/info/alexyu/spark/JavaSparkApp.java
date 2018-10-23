@@ -13,19 +13,30 @@ public class JavaSparkApp {
 
 
     public static void main(String[] args) throws Exception{
+<<<<<<< HEAD
+        //String spark_master = "spark://172.20.0.2:7077";
+        String spark_master = "spark://172.20.0.2:7077";
+        //String spark_master = "local";
+=======
 
 //        String jdbc_url = "jdbc:postgresql://172.18.0.5:5432/risk";
 //        String spark_master = "spark://localhost:7077";
 
         String jdbc_url = "jdbc:postgresql://localhost:32768/risk";
         String spark_master = "local";
+>>>>>>> 25783cd591c59ebfbf178ef5b9e2d4260706d03c
 
         SparkSession spark = SparkSession
                 .builder()
                 .master(spark_master)
                 .appName("JavaSparkApp")
+<<<<<<< HEAD
+                .config("spark.driver.extraClassPath", "C:\\Users\\AYu\\Documents\\workspaces\\alexcwyu\\poc\\bigdata-poc\\base\\lib")
+                .config("spark.jars", "C:\\Users\\AYu\\Documents\\workspaces\\alexcwyu\\poc\\bigdata-poc\\base\\lib\\postgresql-42.2.2.jar")
+=======
                 .config("spark.driver.extraClassPath", "/tmp/lib")
                 .config("spark.jars", "/tmp/lib/postgresql-42.2.2.jar")
+>>>>>>> 25783cd591c59ebfbf178ef5b9e2d4260706d03c
                 .getOrCreate();
         Properties connectionProperties = new Properties();
 
@@ -33,8 +44,12 @@ public class JavaSparkApp {
         Dataset<Row> df = spark.read().format("csv")
                 .option("header","true")
                 .option("inferSchema", "true")
+<<<<<<< HEAD
+                .load("file:///Users/AYu/Documents/workspaces/alexcwyu/poc/bigdata-poc/base/src/main/resources/data/Real_Estate_Sales_By_Town_for_2011__2012__2013__2014.csv");
+=======
                 .option("dateFormat", "MM/dd/yyyy")
                 .load("file:///tmp/data/Real_Estate_Sales_By_Town_for_2011__2012__2013__2014.csv");
+>>>>>>> 25783cd591c59ebfbf178ef5b9e2d4260706d03c
         df.show();
         df.printSchema();
 

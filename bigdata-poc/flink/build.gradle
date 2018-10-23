@@ -23,7 +23,7 @@ dependencies {
     //postgresql
     compile group: 'org.postgresql', name: 'postgresql', version: "${postgresqlVersion}"
     
-    compile project(':bigdata-poc:base')
+    //compile project(':bigdata-poc:base')
 }
 
 sourceSets {

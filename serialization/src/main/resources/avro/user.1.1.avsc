@@ -1,0 +1,11 @@
+{"namespace": "com.bfam.data.serialization.avro",
+ "type": "record",
+ "name": "User2",
+ "fields": [
+     {"name": "name", "type": "string"},
+     {"name": "favorite_number",  "type": ["int", "null"]},
+     {"name": "nickname", "type": ["null", "string"], "default": null},
+     {"name": "bod", "type": "int", "default": 19000101},
+     {"name": "favorite_color", "type": ["string", "null"]}
+ ]
+}

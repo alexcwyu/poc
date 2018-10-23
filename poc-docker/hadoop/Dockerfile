@@ -1,4 +1,4 @@
-FROM alexcwyu/base:jdk8_scala11
+FROM bigdata/base:jdk8_scala11
 
 # https://github.com/gettyimages/docker-spark
 
