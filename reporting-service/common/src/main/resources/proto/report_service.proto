@@ -1,0 +1,74 @@
+syntax = "proto3";
+
+import "risk_report.proto";
+
+option java_multiple_files = true;
+option java_package = "com.bfam.riskreport.service";
+option java_outer_classname = "ReportServiceProto";
+
+service ReportService {
+    rpc query ( ReportRequest) returns (  ReportResponse) {}
+    rpc subscribe  (stream ReportRequest) returns (stream ReportResponse) {}
+}
+
+message ReportRequest{
+    string request_id =1;
+    repeated string columns = 2;
+    string filter = 3;
+    repeated string group_by =4;
+}
+
+message ReportResponse{
+    string request_id =1;
+    Schema schema = 2;
+    repeated Row rows =3;
+}
+
+enum Type {
+        BOOLEAN = 0;
+        INT = 1;
+        LONG = 2;
+        FLOAT = 3;
+        DOUBLE = 4;
+        BYTES = 5;
+        STRING = 6;
+        DATE = 7;
+}
+
+message FieldSchema{
+    Type type = 1;
+    string name = 2;
+}
+
+message Schema{
+    string name = 1;
+    repeated FieldSchema fields = 2;
+}
+
+
+message ColumnDefinition{
+    enum Aggregation {
+        SUM = 0;
+        FIRST = 1;
+        LAST = 2;
+        MAX = 3;
+        MIN = 4;
+    }
+
+    enum SourceType {
+        DB = 0;
+        CUSTOM = 1;
+        FORMULA = 2;
+    }
+
+    int32 id = 1;
+    string name = 2;
+    Type data_type = 3;
+    Aggregation aggregation = 4;
+    string display_name = 5;
+    string format = 6;
+    string description = 7;
+    SourceType source_type = 8;
+    string formula = 9;
+    repeated string tag = 10;
+}

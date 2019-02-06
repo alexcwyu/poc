@@ -1,0 +1,14 @@
+# gradle
+.gradle/
+build/
+bin/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+src/main/resources/dashboard/
+src/main/generated/
